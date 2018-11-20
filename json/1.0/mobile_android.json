@@ -3982,7 +3982,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2018-05-16",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0.1"
@@ -4000,7 +4000,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-10",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0b11"
@@ -4036,7 +4036,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-05-02",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0b17"
@@ -4063,7 +4063,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-03-20",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0b5"
@@ -4072,7 +4072,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-03-28",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0b7"
@@ -4081,7 +4081,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-03",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0b9"
@@ -4126,7 +4126,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-12",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "61.0b13"
@@ -4207,7 +4207,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2018-10-02",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0.3"
@@ -4225,7 +4225,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-07-31",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0b13"
@@ -4243,7 +4243,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-14",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0b17"
@@ -4252,7 +4252,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-21",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0b19"
@@ -4351,7 +4351,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-09-05",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "63.0b3"
