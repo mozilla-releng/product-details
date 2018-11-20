@@ -1,5 +1,8 @@
 {
     "locales": {
+        "af": {
+            "changeset": "b1b327fbb4bc"
+        },
         "ar": {
             "changeset": "09127d0ec2ec"
         },
@@ -17,6 +20,9 @@
         },
         "ca": {
             "changeset": "c5a3eb8b14e8"
+        },
+        "cak": {
+            "changeset": "438dd5a970bc"
         },
         "cs": {
             "changeset": "08d81c43092c"
@@ -50,6 +56,9 @@
         },
         "eu": {
             "changeset": "2d24bd201997"
+        },
+        "fa": {
+            "changeset": "c386e67c521b"
         },
         "fi": {
             "changeset": "b2fd99a301e8"
@@ -98,6 +107,9 @@
         },
         "ja-JP-mac": {
             "changeset": "669a2be99c97"
+        },
+        "ka": {
+            "changeset": "acfac0acad6f"
         },
         "kab": {
             "changeset": "71ab333c0149"
@@ -164,6 +176,9 @@
         },
         "uk": {
             "changeset": "94c6839b756e"
+        },
+        "uz": {
+            "changeset": "2523c652eeca"
         },
         "vi": {
             "changeset": "84a40c2f0cd6"
