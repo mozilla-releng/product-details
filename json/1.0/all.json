@@ -13672,8 +13672,8 @@
             "version": "6.0b5"
         },
         "firefox-60.0": {
-            "build_number": 2,
-            "category": "major",
+            "build_number": 6,
+            "category": "esr",
             "date": "2018-05-09",
             "description": null,
             "is_security_driven": false,
@@ -13681,15 +13681,6 @@
             "version": "60.0"
         },
         "firefox-60.0.1": {
-            "build_number": 2,
-            "category": "stability",
-            "date": "2018-05-16",
-            "description": null,
-            "is_security_driven": false,
-            "product": "firefox",
-            "version": "60.0.1"
-        },
-        "firefox-60.0.1esr": {
             "build_number": 1,
             "category": "esr",
             "date": "2018-05-16",
@@ -13699,15 +13690,6 @@
             "version": "60.0.1"
         },
         "firefox-60.0.2": {
-            "build_number": 1,
-            "category": "stability",
-            "date": "2018-06-06",
-            "description": null,
-            "is_security_driven": false,
-            "product": "firefox",
-            "version": "60.0.2"
-        },
-        "firefox-60.0.2esr": {
             "build_number": 2,
             "category": "esr",
             "date": "2018-06-06",
@@ -13842,16 +13824,7 @@
             "product": "firefox",
             "version": "60.0b9"
         },
-        "firefox-60.0esr": {
-            "build_number": 6,
-            "category": "esr",
-            "date": "2018-05-09",
-            "description": null,
-            "is_security_driven": false,
-            "product": "firefox",
-            "version": "60.0"
-        },
-        "firefox-60.1.0esr": {
+        "firefox-60.1.0": {
             "build_number": 2,
             "category": "esr",
             "date": "2018-06-26",
@@ -13860,7 +13833,7 @@
             "product": "firefox",
             "version": "60.1.0"
         },
-        "firefox-60.2.0esr": {
+        "firefox-60.2.0": {
             "build_number": 2,
             "category": "esr",
             "date": "2018-09-05",
@@ -13869,7 +13842,7 @@
             "product": "firefox",
             "version": "60.2.0"
         },
-        "firefox-60.2.1esr": {
+        "firefox-60.2.1": {
             "build_number": 1,
             "category": "esr",
             "date": "2018-09-21",
@@ -13878,7 +13851,7 @@
             "product": "firefox",
             "version": "60.2.1"
         },
-        "firefox-60.2.2esr": {
+        "firefox-60.2.2": {
             "build_number": 2,
             "category": "esr",
             "date": "2018-10-02",
@@ -13887,7 +13860,7 @@
             "product": "firefox",
             "version": "60.2.2"
         },
-        "firefox-60.3.0esr": {
+        "firefox-60.3.0": {
             "build_number": 1,
             "category": "esr",
             "date": "2018-10-23",
