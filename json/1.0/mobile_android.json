@@ -4126,7 +4126,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-12",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "fennec",
             "version": "61.0b13"
@@ -4207,7 +4207,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2018-10-02",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0.3"
@@ -4225,7 +4225,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-07-31",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0b13"
@@ -4243,7 +4243,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-14",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0b17"
@@ -4252,7 +4252,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-21",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0b19"
@@ -4351,7 +4351,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-09-05",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "fennec",
             "version": "63.0b3"
@@ -4391,6 +4391,15 @@
             "is_security_driven": false,
             "product": "fennec",
             "version": "64.0b3"
+        },
+        "fennec-64.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0b4"
         },
         "fennec-64.0b5": {
             "build_number": 1,
