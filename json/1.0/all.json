@@ -625,7 +625,7 @@
             "build_number": 3,
             "category": "dev",
             "date": "2018-03-06",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "60.0b1"
@@ -634,7 +634,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-05",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "60.0b10"
@@ -643,7 +643,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-10",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "60.0b11"
@@ -670,7 +670,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-20",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "60.0b14"
@@ -679,7 +679,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-24",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "60.0b15"
@@ -724,7 +724,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-03-20",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "60.0b5"
@@ -742,7 +742,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-03-27",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "60.0b7"
@@ -760,7 +760,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-03",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "60.0b9"
@@ -805,7 +805,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-12",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "61.0b13"
@@ -904,7 +904,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-07-20",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b10"
@@ -940,7 +940,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-03",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b14"
@@ -967,7 +967,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-14",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b17"
@@ -985,7 +985,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-21",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b19"
@@ -1021,7 +1021,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-29",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b4"
@@ -1066,7 +1066,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-07-17",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b9"
@@ -1138,7 +1138,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-09-05",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "63.0b3"
@@ -1201,7 +1201,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-10-16",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "64.0b1"
@@ -5269,7 +5269,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2018-05-16",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0.1"
@@ -5287,7 +5287,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-10",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0b11"
@@ -5323,7 +5323,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-05-02",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0b17"
@@ -5350,7 +5350,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-03-20",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0b5"
@@ -5359,7 +5359,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-03-28",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0b7"
@@ -5368,7 +5368,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-03",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "60.0b9"
@@ -5413,7 +5413,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-12",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "61.0b13"
@@ -5494,7 +5494,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2018-10-02",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0.3"
@@ -5512,7 +5512,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-07-31",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0b13"
@@ -5530,7 +5530,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-14",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0b17"
@@ -5539,7 +5539,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-21",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "62.0b19"
@@ -5638,7 +5638,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-09-05",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "fennec",
             "version": "63.0b3"
@@ -13684,7 +13684,7 @@
             "build_number": 2,
             "category": "stability",
             "date": "2018-05-16",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0.1"
@@ -13693,7 +13693,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2018-05-16",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0.1"
@@ -13711,7 +13711,7 @@
             "build_number": 2,
             "category": "esr",
             "date": "2018-06-06",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0.2"
@@ -13720,7 +13720,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-05",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0b10"
@@ -13765,7 +13765,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-24",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0b15"
@@ -13801,7 +13801,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-03-20",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0b5"
@@ -13819,7 +13819,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-03-27",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0b7"
@@ -13837,7 +13837,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-03",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0b9"
@@ -13864,7 +13864,7 @@
             "build_number": 2,
             "category": "esr",
             "date": "2018-09-05",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.2.0"
@@ -13900,7 +13900,7 @@
             "build_number": 3,
             "category": "major",
             "date": "2018-06-26",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "61.0"
@@ -13954,7 +13954,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-12",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "61.0b13"
@@ -13972,7 +13972,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-05-08",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "61.0b3"
@@ -14053,7 +14053,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2018-10-02",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "62.0.3"
@@ -14089,7 +14089,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-07-31",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "62.0b13"
@@ -14125,7 +14125,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-14",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "62.0b17"
@@ -14143,7 +14143,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-21",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "62.0b19"
@@ -14170,7 +14170,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-29",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "62.0b4"
@@ -14233,7 +14233,7 @@
             "build_number": 4,
             "category": "stability",
             "date": "2018-10-31",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "63.0.1"
@@ -14296,7 +14296,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-09-05",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "firefox",
             "version": "63.0b3"
@@ -16951,7 +16951,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-16",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "60.0b3"
@@ -16960,7 +16960,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-23",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "60.0b4"
@@ -16969,7 +16969,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-30",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "60.0b5"
@@ -16996,7 +16996,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-21",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "60.0b8"
@@ -17014,7 +17014,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2018-10-02",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "60.2.1"
@@ -17050,7 +17050,7 @@
             "build_number": 2,
             "category": "dev",
             "date": "2018-10-26",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "64.0b1"
