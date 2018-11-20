@@ -805,7 +805,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-12",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "61.0b13"
@@ -904,7 +904,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-07-20",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b10"
@@ -940,7 +940,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-03",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b14"
@@ -967,7 +967,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-14",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b17"
@@ -985,7 +985,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-21",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b19"
@@ -1021,7 +1021,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-29",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b4"
@@ -1066,7 +1066,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-07-17",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "62.0b9"
@@ -1138,7 +1138,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-09-05",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "63.0b3"
@@ -1201,7 +1201,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-10-16",
-            "description": null,
+            "description": "",
             "is_security_driven": false,
             "product": "devedition",
             "version": "64.0b1"
