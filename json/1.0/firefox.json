@@ -3757,7 +3757,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2015-07-02",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "31.8.0"
@@ -4666,7 +4666,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2016-02-11",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "38.6.1"
@@ -4675,7 +4675,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2016-03-08",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "38.7.0"
@@ -4684,7 +4684,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2016-03-17",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "38.7.1"
@@ -5251,7 +5251,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2015-12-28",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "43.0.3"
@@ -5332,7 +5332,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2015-12-02",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "43.0b8"
@@ -5377,7 +5377,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2015-12-18",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "44.0b1"
@@ -5386,7 +5386,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2015-12-22",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "44.0b2"
@@ -5404,7 +5404,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-01-05",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "44.0b6"
@@ -5431,7 +5431,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-01-15",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "44.0b9"
@@ -5440,7 +5440,7 @@
             "build_number": 2,
             "category": "major",
             "date": "2016-03-08",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.0"
@@ -5458,7 +5458,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2016-04-11",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.0.2"
@@ -5467,7 +5467,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-01-28",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.0b1"
@@ -5476,7 +5476,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-02-26",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.0b10"
@@ -5494,7 +5494,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-02-05",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.0b3"
@@ -5503,7 +5503,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-02-09",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.0b4"
@@ -5512,7 +5512,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-02-12",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.0b5"
@@ -5521,7 +5521,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-02-16",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.0b6"
@@ -5530,7 +5530,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-02-23",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.0b7"
@@ -5539,7 +5539,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-02-22",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.0b8"
@@ -5557,7 +5557,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2016-05-03",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.1.1"
@@ -5566,7 +5566,7 @@
             "build_number": 2,
             "category": "esr",
             "date": "2016-06-07",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.2.0"
@@ -5575,7 +5575,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2016-08-02",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.3.0"
@@ -5584,7 +5584,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2016-09-20",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.4.0"
@@ -5602,7 +5602,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2016-11-30",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.5.1"
@@ -5611,7 +5611,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2016-12-13",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "45.6.0"
@@ -5656,7 +5656,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2016-05-03",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "46.0.1"
@@ -5674,7 +5674,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-04-15",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "46.0b11"
@@ -5683,7 +5683,7 @@
             "build_number": 3,
             "category": "dev",
             "date": "2016-03-17",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "46.0b2"
@@ -5692,7 +5692,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-03-23",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "46.0b4"
@@ -5701,7 +5701,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-03-25",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "46.0b5"
@@ -5710,7 +5710,7 @@
             "build_number": 2,
             "category": "dev",
             "date": "2016-04-04",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "46.0b7"
@@ -5728,7 +5728,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-04-08",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "46.0b9"
@@ -5737,7 +5737,7 @@
             "build_number": 3,
             "category": "major",
             "date": "2016-06-07",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "47.0"
@@ -5755,7 +5755,7 @@
             "build_number": 2,
             "category": "stability",
             "date": "2016-11-03",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "47.0.2"
@@ -5764,7 +5764,7 @@
             "build_number": 2,
             "category": "dev",
             "date": "2016-04-27",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "47.0b1"
@@ -5773,7 +5773,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-05-03",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "47.0b2"
@@ -5782,7 +5782,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-05-06",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "47.0b3"
@@ -5800,7 +5800,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-05-13",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "47.0b5"
@@ -5818,7 +5818,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-05-20",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "47.0b7"
@@ -5827,7 +5827,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-05-26",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "47.0b8"
@@ -5836,7 +5836,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-05-27",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "47.0b9"
@@ -5845,7 +5845,7 @@
             "build_number": 2,
             "category": "major",
             "date": "2016-08-02",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "48.0"
@@ -5890,7 +5890,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-06-27",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "48.0b3"
@@ -5899,7 +5899,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-06-28",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "48.0b4"
@@ -5926,7 +5926,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-07-12",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "48.0b7"
@@ -5935,7 +5935,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-07-19",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "48.0b9"
@@ -6052,7 +6052,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-09-02",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "49.0b9"
@@ -6169,7 +6169,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-10-25",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "50.0b10"
@@ -6187,7 +6187,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-09-27",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "50.0b2"
@@ -6205,7 +6205,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-10-04",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "50.0b4"
@@ -6232,7 +6232,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-10-14",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "50.0b7"
@@ -6250,7 +6250,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-10-21",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "50.0b9"
@@ -6268,7 +6268,7 @@
             "build_number": 2,
             "category": "major",
             "date": "2017-01-24",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "51.0"
@@ -6286,7 +6286,7 @@
             "build_number": 2,
             "category": "dev",
             "date": "2016-11-16",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "51.0b1"
@@ -6313,7 +6313,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-01-06",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "51.0b12"
@@ -6331,7 +6331,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-01-13",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "51.0b14"
@@ -6340,7 +6340,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-11-22",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "51.0b2"
@@ -6376,7 +6376,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2016-12-02",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "51.0b6"
@@ -6412,7 +6412,7 @@
             "build_number": 2,
             "category": "major",
             "date": "2017-03-07",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "52.0"
@@ -6421,7 +6421,7 @@
             "build_number": 2,
             "category": "stability",
             "date": "2017-03-17",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "52.0.1"
@@ -6430,7 +6430,7 @@
             "build_number": 2,
             "category": "esr",
             "date": "2017-03-17",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "52.0.1"
@@ -6493,7 +6493,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-02-10",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "52.0b5"
@@ -6565,7 +6565,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2017-05-19",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "52.1.2"
@@ -6646,7 +6646,7 @@
             "build_number": 2,
             "category": "esr",
             "date": "2018-01-23",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "52.6.0"
@@ -6709,7 +6709,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2018-06-06",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "52.8.1"
@@ -6745,7 +6745,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2017-05-19",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "53.0.3"
@@ -6754,7 +6754,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-03-08",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "53.0b1"
@@ -6772,7 +6772,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-03-14",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "53.0b2"
@@ -6781,7 +6781,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-03-17",
-            "description": "",
+            "description": null,
             "is_security_driven": true,
             "product": "firefox",
             "version": "53.0b4"
@@ -6790,7 +6790,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-03-21",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "53.0b5"
@@ -6835,7 +6835,7 @@
             "build_number": 3,
             "category": "major",
             "date": "2017-06-13",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "54.0"
@@ -6862,7 +6862,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-05-23",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "54.0b10"
@@ -6988,7 +6988,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2017-08-16",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "55.0.2"
@@ -6997,7 +6997,7 @@
             "build_number": 2,
             "category": "stability",
             "date": "2017-08-25",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "55.0.3"
@@ -7015,7 +7015,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-07-18",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "55.0b10"
@@ -7051,7 +7051,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-06-16",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "55.0b2"
@@ -7078,7 +7078,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-06-27",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "55.0b5"
@@ -7132,7 +7132,7 @@
             "build_number": 2,
             "category": "stability",
             "date": "2017-10-09",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "56.0.1"
@@ -7258,7 +7258,7 @@
             "build_number": 4,
             "category": "major",
             "date": "2017-11-14",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "57.0"
@@ -7267,7 +7267,7 @@
             "build_number": 2,
             "category": "stability",
             "date": "2017-11-30",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "57.0.1"
@@ -7312,7 +7312,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-10-24",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "57.0b11"
@@ -7339,7 +7339,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-11-03",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "57.0b14"
@@ -7357,7 +7357,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-09-29",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "57.0b4"
@@ -7366,7 +7366,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-10-03",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "57.0b5"
@@ -7375,7 +7375,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-10-06",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "57.0b6"
@@ -7402,7 +7402,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-10-17",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "57.0b9"
@@ -7447,7 +7447,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-12-12",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "58.0b11"
@@ -7456,7 +7456,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-12-19",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "58.0b12"
@@ -7483,7 +7483,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-01-09",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "58.0b15"
@@ -7501,7 +7501,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-11-15",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "58.0b4"
@@ -7510,7 +7510,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-11-21",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "58.0b5"
@@ -7519,7 +7519,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-11-24",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "58.0b6"
@@ -7537,7 +7537,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2017-12-01",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "58.0b8"
@@ -7780,7 +7780,7 @@
             "build_number": 2,
             "category": "stability",
             "date": "2018-05-16",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0.1"
@@ -7789,7 +7789,7 @@
             "build_number": 1,
             "category": "esr",
             "date": "2018-05-16",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0.1"
@@ -7807,7 +7807,7 @@
             "build_number": 2,
             "category": "esr",
             "date": "2018-06-06",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0.2"
@@ -7816,7 +7816,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-05",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0b10"
@@ -7861,7 +7861,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-24",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0b15"
@@ -7897,7 +7897,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-03-20",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0b5"
@@ -7915,7 +7915,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-03-27",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0b7"
@@ -7933,7 +7933,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-04-03",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0b9"
@@ -7960,7 +7960,7 @@
             "build_number": 2,
             "category": "esr",
             "date": "2018-09-05",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.2.0"
@@ -7996,7 +7996,7 @@
             "build_number": 3,
             "category": "major",
             "date": "2018-06-26",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "61.0"
@@ -8050,7 +8050,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-12",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "61.0b13"
@@ -8068,7 +8068,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-05-08",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "61.0b3"
@@ -8149,7 +8149,7 @@
             "build_number": 1,
             "category": "stability",
             "date": "2018-10-02",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "62.0.3"
@@ -8185,7 +8185,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-07-31",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "62.0b13"
@@ -8221,7 +8221,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-14",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "62.0b17"
@@ -8239,7 +8239,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-08-21",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "62.0b19"
@@ -8266,7 +8266,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-06-29",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "62.0b4"
@@ -8329,7 +8329,7 @@
             "build_number": 4,
             "category": "stability",
             "date": "2018-10-31",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "63.0.1"
@@ -8392,7 +8392,7 @@
             "build_number": 1,
             "category": "dev",
             "date": "2018-09-05",
-            "description": "",
+            "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "63.0b3"
