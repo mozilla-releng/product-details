@@ -1,0 +1,22 @@
+{
+    "locales": {
+        "en-CA": {
+            "changeset": "default"
+        },
+        "he": {
+            "changeset": "default"
+        },
+        "it": {
+            "changeset": "default"
+        },
+        "ja": {
+            "changeset": "default"
+        },
+        "ja-JP-mac": {
+            "changeset": "default"
+        }
+    },
+    "name": "Firefox-60.4.3esr-build1",
+    "shippedAt": "2019-01-04T17:57:25.945925+00:00",
+    "submittedAt": "2019-01-04T16:58:25.876353+00:00"
+}

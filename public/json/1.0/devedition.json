@@ -620,6 +620,51 @@
             "is_security_driven": false,
             "product": "devedition",
             "version": "59.0b9"
+        },
+        "devedition-64.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b6"
+        },
+        "devedition-64.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b8"
+        },
+        "devedition-65.0b2": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-11-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b2"
+        },
+        "devedition-65.0b30": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b30"
+        },
+        "devedition-65.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b5"
         }
     }
 }

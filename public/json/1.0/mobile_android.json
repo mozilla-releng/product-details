@@ -3969,6 +3969,51 @@
             "product": "fennec",
             "version": "6.0b5"
         },
+        "fennec-64.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2018-11-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0"
+        },
+        "fennec-65.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2018-11-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "65.0"
+        },
+        "fennec-65.0b2": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-11-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "65.0b2"
+        },
+        "fennec-65.0b30": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-11-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "65.0b30"
+        },
+        "fennec-65.0b9": {
+            "build_number": 4,
+            "category": "dev",
+            "date": "2019-01-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "65.0b9"
+        },
         "fennec-7.0": {
             "build_number": 1,
             "category": "major",
