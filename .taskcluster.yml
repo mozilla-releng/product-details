@@ -1,24 +1,31 @@
-version: 0
+version: 1
+policy:
+  pullRequests: collaborators
 tasks:
-  - provisionerId: '{{ taskcluster.docker.provisionerId }}'
-    workerType: '{{ taskcluster.docker.workerType }}'
-    extra:
-      github:
-        events:
-          - push
-    payload:
-      maxRunTime: 3600
-      image: python
-      command:
-        - /bin/bash
-        - '--login'
-        - '-c'
-        - >-
-          git clone {{event.head.repo.url}} repo && cd repo && git config
-          advice.detachedHead false && git checkout {{event.head.sha}} 
-    metadata:
-      name: deploy testing
-      description: 'Deploy to https://product-details.testing.mozilla-releng.net/'
-      owner: '{{ event.head.user.email }}'
-      source: '{{ event.head.repo.url }}'
-allowPullRequests: collaborators
+  $match:
+    'tasks_for == "github-push" && event.ref == "refs/heads/testing"':
+      provisionerId: 'aws-provisioner-v1'
+      workerType: 'github-worker'
+      scopes:
+        - secrets:get:repo:github.com/mozilla-releng/product-details:branch:testing
+      extra:
+        github:
+          events:
+            - push
+          branches:
+            - testing
+      payload:
+        maxRunTime: 3600
+        image: python
+        command:
+          - /bin/bash
+          - '--login'
+          - '-c'
+          - >-
+            git clone ${event.repository.clone_url} repo && cd repo && 
+            git checkout ${event.after}
+      metadata:
+        name: deploy testing
+        description: 'Deploy to https://product-details.testing.mozilla-releng.net/'
+        owner: ${event.pusher.name}@users.noreply.github.com
+        source: ${event.repository.url}
