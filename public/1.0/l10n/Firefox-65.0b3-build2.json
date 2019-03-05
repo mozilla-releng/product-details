@@ -1,0 +1,304 @@
+{
+    "locales": {
+        "ach": {
+            "changeset": "235831b17ff8"
+        },
+        "af": {
+            "changeset": "b3e335ad38e2"
+        },
+        "an": {
+            "changeset": "9b47717a6ad2"
+        },
+        "ar": {
+            "changeset": "fff7a2f7d2c0"
+        },
+        "as": {
+            "changeset": "9e937cc3ae03"
+        },
+        "ast": {
+            "changeset": "5371b1b41f4b"
+        },
+        "az": {
+            "changeset": "b430c8b4e1f7"
+        },
+        "be": {
+            "changeset": "aac32fb036eb"
+        },
+        "bg": {
+            "changeset": "f7837abdd2be"
+        },
+        "bn-BD": {
+            "changeset": "7b131b5657da"
+        },
+        "bn-IN": {
+            "changeset": "e22bfbe987a7"
+        },
+        "br": {
+            "changeset": "5acb8351c753"
+        },
+        "bs": {
+            "changeset": "326356335c50"
+        },
+        "ca": {
+            "changeset": "ce86927e13ae"
+        },
+        "cak": {
+            "changeset": "252fdffd3970"
+        },
+        "cs": {
+            "changeset": "264a336f0ff0"
+        },
+        "cy": {
+            "changeset": "96765a373171"
+        },
+        "da": {
+            "changeset": "10e0a35b0eab"
+        },
+        "de": {
+            "changeset": "514ea00093bf"
+        },
+        "dsb": {
+            "changeset": "e722f3d1a3de"
+        },
+        "el": {
+            "changeset": "6c9b11d20c76"
+        },
+        "en-CA": {
+            "changeset": "0735ddb57d29"
+        },
+        "en-GB": {
+            "changeset": "11c326f50d06"
+        },
+        "en-ZA": {
+            "changeset": "aa0d5bbfef35"
+        },
+        "eo": {
+            "changeset": "9507fc594fa7"
+        },
+        "es-AR": {
+            "changeset": "eaf4ea3bea62"
+        },
+        "es-CL": {
+            "changeset": "85f5da9b7621"
+        },
+        "es-ES": {
+            "changeset": "bdc7cae6b00f"
+        },
+        "es-MX": {
+            "changeset": "b7fd9293dadc"
+        },
+        "et": {
+            "changeset": "249ee474d748"
+        },
+        "eu": {
+            "changeset": "e4f4bf379e21"
+        },
+        "fa": {
+            "changeset": "4770ef2fd646"
+        },
+        "ff": {
+            "changeset": "a05d10e74cf9"
+        },
+        "fi": {
+            "changeset": "5469b9ff0fd2"
+        },
+        "fr": {
+            "changeset": "fceb39aa92be"
+        },
+        "fy-NL": {
+            "changeset": "ac3086605054"
+        },
+        "ga-IE": {
+            "changeset": "d32737caf0cf"
+        },
+        "gd": {
+            "changeset": "3a17b7bd1c80"
+        },
+        "gl": {
+            "changeset": "f73ab832b91d"
+        },
+        "gn": {
+            "changeset": "aeb45f2c92fc"
+        },
+        "gu-IN": {
+            "changeset": "2e0919430f00"
+        },
+        "he": {
+            "changeset": "e27d989a7c6c"
+        },
+        "hi-IN": {
+            "changeset": "56e68631b8d6"
+        },
+        "hr": {
+            "changeset": "61db6312f200"
+        },
+        "hsb": {
+            "changeset": "036abcf57777"
+        },
+        "hu": {
+            "changeset": "b66bfe35b273"
+        },
+        "hy-AM": {
+            "changeset": "ec291e69a816"
+        },
+        "ia": {
+            "changeset": "c2aa38399267"
+        },
+        "id": {
+            "changeset": "1d0c5f18a142"
+        },
+        "is": {
+            "changeset": "a0547bbe8978"
+        },
+        "it": {
+            "changeset": "a516ce09185b"
+        },
+        "ja": {
+            "changeset": "5af84181c273"
+        },
+        "ja-JP-mac": {
+            "changeset": "dff2af76711e"
+        },
+        "ka": {
+            "changeset": "f2f17600d14a"
+        },
+        "kab": {
+            "changeset": "6a2b81eab1fa"
+        },
+        "kk": {
+            "changeset": "6a1c1dc4f5f1"
+        },
+        "km": {
+            "changeset": "f7ebcf9b1bc1"
+        },
+        "kn": {
+            "changeset": "22f24a754d77"
+        },
+        "ko": {
+            "changeset": "c14db4093af3"
+        },
+        "lij": {
+            "changeset": "7f14c1cb1e92"
+        },
+        "lt": {
+            "changeset": "feda86d2eb15"
+        },
+        "lv": {
+            "changeset": "7dd71d588c9e"
+        },
+        "mai": {
+            "changeset": "c5169a5cd439"
+        },
+        "mk": {
+            "changeset": "6036a5b5e822"
+        },
+        "ml": {
+            "changeset": "77e7193ffd60"
+        },
+        "mr": {
+            "changeset": "93d07d85ad92"
+        },
+        "ms": {
+            "changeset": "ab705b7d6690"
+        },
+        "my": {
+            "changeset": "e9b49ee9c17f"
+        },
+        "nb-NO": {
+            "changeset": "ec322c880316"
+        },
+        "ne-NP": {
+            "changeset": "8c549b5a101c"
+        },
+        "nl": {
+            "changeset": "9041911bf790"
+        },
+        "nn-NO": {
+            "changeset": "3b146c7706cd"
+        },
+        "oc": {
+            "changeset": "1de913016a0c"
+        },
+        "or": {
+            "changeset": "ce2a1884f3e8"
+        },
+        "pa-IN": {
+            "changeset": "f9d02b505b84"
+        },
+        "pl": {
+            "changeset": "8441159e85ef"
+        },
+        "pt-BR": {
+            "changeset": "4b3275b7c3c3"
+        },
+        "pt-PT": {
+            "changeset": "0092690b2821"
+        },
+        "rm": {
+            "changeset": "f84d3187aef9"
+        },
+        "ro": {
+            "changeset": "099e60fe763a"
+        },
+        "ru": {
+            "changeset": "d649f8dd90e3"
+        },
+        "si": {
+            "changeset": "c7e9a952d8f2"
+        },
+        "sk": {
+            "changeset": "5044165dc11d"
+        },
+        "sl": {
+            "changeset": "9a3f364637f2"
+        },
+        "son": {
+            "changeset": "7ada68ba3f25"
+        },
+        "sq": {
+            "changeset": "55ffce6997f5"
+        },
+        "sr": {
+            "changeset": "9e0ffbf4edf0"
+        },
+        "sv-SE": {
+            "changeset": "645bf5192361"
+        },
+        "ta": {
+            "changeset": "b9a36f242630"
+        },
+        "te": {
+            "changeset": "124d060ac3c2"
+        },
+        "th": {
+            "changeset": "3ead48027ab2"
+        },
+        "tr": {
+            "changeset": "eaa25c503cf3"
+        },
+        "uk": {
+            "changeset": "9e28ee528f25"
+        },
+        "ur": {
+            "changeset": "7eae0fa1c397"
+        },
+        "uz": {
+            "changeset": "000117b7a3a5"
+        },
+        "vi": {
+            "changeset": "68dcecdc8a5f"
+        },
+        "xh": {
+            "changeset": "31489eabbc92"
+        },
+        "zh-CN": {
+            "changeset": "10ef1206c884"
+        },
+        "zh-TW": {
+            "changeset": "584412cf4869"
+        }
+    },
+    "name": "Firefox-65.0b3-build2",
+    "shippedAt": "2018-12-11T17:30:09.952902+00:00",
+    "submittedAt": "2018-12-10T17:05:05.510747+00:00"
+}

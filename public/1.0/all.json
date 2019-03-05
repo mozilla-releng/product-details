@@ -621,50 +621,896 @@
             "product": "devedition",
             "version": "59.0b9"
         },
+        "devedition-60.0b1": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2018-03-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b1"
+        },
+        "devedition-60.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b10"
+        },
+        "devedition-60.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b11"
+        },
+        "devedition-60.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b12"
+        },
+        "devedition-60.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b13"
+        },
+        "devedition-60.0b14": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b14"
+        },
+        "devedition-60.0b15": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b15"
+        },
+        "devedition-60.0b16": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b16"
+        },
+        "devedition-60.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-03-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b2"
+        },
+        "devedition-60.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-03-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b3"
+        },
+        "devedition-60.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-03-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b4"
+        },
+        "devedition-60.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-03-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b5"
+        },
+        "devedition-60.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-03-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b6"
+        },
+        "devedition-60.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-03-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b7"
+        },
+        "devedition-60.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-03-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b8"
+        },
+        "devedition-60.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "60.0b9"
+        },
+        "devedition-61.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b1"
+        },
+        "devedition-61.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-31",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b10"
+        },
+        "devedition-61.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b11"
+        },
+        "devedition-61.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b12"
+        },
+        "devedition-61.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b13"
+        },
+        "devedition-61.0b14": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b14"
+        },
+        "devedition-61.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b2"
+        },
+        "devedition-61.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b3"
+        },
+        "devedition-61.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b4"
+        },
+        "devedition-61.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b5"
+        },
+        "devedition-61.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b6"
+        },
+        "devedition-61.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b7"
+        },
+        "devedition-61.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b8"
+        },
+        "devedition-61.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "61.0b9"
+        },
+        "devedition-62.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b1"
+        },
+        "devedition-62.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b10"
+        },
+        "devedition-62.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b11"
+        },
+        "devedition-62.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b12"
+        },
+        "devedition-62.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-31",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b13"
+        },
+        "devedition-62.0b14": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b14"
+        },
+        "devedition-62.0b15": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b15"
+        },
+        "devedition-62.0b16": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b16"
+        },
+        "devedition-62.0b17": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b17"
+        },
+        "devedition-62.0b18": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b18"
+        },
+        "devedition-62.0b19": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b19"
+        },
+        "devedition-62.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b2"
+        },
+        "devedition-62.0b20": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b20"
+        },
+        "devedition-62.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b3"
+        },
+        "devedition-62.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b4"
+        },
+        "devedition-62.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b5"
+        },
+        "devedition-62.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b6"
+        },
+        "devedition-62.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b7"
+        },
+        "devedition-62.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b8"
+        },
+        "devedition-62.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "62.0b9"
+        },
+        "devedition-63.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b1"
+        },
+        "devedition-63.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b10"
+        },
+        "devedition-63.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b11"
+        },
+        "devedition-63.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b12"
+        },
+        "devedition-63.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b13"
+        },
+        "devedition-63.0b14": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b14"
+        },
+        "devedition-63.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-31",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b2"
+        },
+        "devedition-63.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b3"
+        },
+        "devedition-63.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b4"
+        },
+        "devedition-63.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b5"
+        },
+        "devedition-63.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b6"
+        },
+        "devedition-63.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b7"
+        },
+        "devedition-63.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b8"
+        },
+        "devedition-63.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "63.0b9"
+        },
+        "devedition-64.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b1"
+        },
+        "devedition-64.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b10"
+        },
+        "devedition-64.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b11"
+        },
+        "devedition-64.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b12"
+        },
+        "devedition-64.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b13"
+        },
+        "devedition-64.0b14": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b14"
+        },
+        "devedition-64.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b2"
+        },
+        "devedition-64.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b3"
+        },
+        "devedition-64.0b4": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-10-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b4"
+        },
+        "devedition-64.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b5"
+        },
         "devedition-64.0b6": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-11-02",
             "description": null,
             "is_security_driven": false,
             "product": "devedition",
             "version": "64.0b6"
         },
+        "devedition-64.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b7"
+        },
         "devedition-64.0b8": {
             "build_number": 1,
             "category": "dev",
-            "date": "2018-11-30",
+            "date": "2018-11-09",
             "description": null,
             "is_security_driven": false,
             "product": "devedition",
             "version": "64.0b8"
         },
-        "devedition-65.0b2": {
+        "devedition-64.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "64.0b9"
+        },
+        "devedition-65.0b1": {
             "build_number": 2,
             "category": "dev",
-            "date": "2018-11-28",
+            "date": "2018-12-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b1"
+        },
+        "devedition-65.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b10"
+        },
+        "devedition-65.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b11"
+        },
+        "devedition-65.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b12"
+        },
+        "devedition-65.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-12-07",
             "description": null,
             "is_security_driven": false,
             "product": "devedition",
             "version": "65.0b2"
         },
-        "devedition-65.0b30": {
-            "build_number": 1,
+        "devedition-65.0b3": {
+            "build_number": 2,
             "category": "dev",
-            "date": "2018-11-28",
+            "date": "2018-12-11",
             "description": null,
             "is_security_driven": false,
             "product": "devedition",
-            "version": "65.0b30"
+            "version": "65.0b3"
+        },
+        "devedition-65.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-12-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b4"
         },
         "devedition-65.0b5": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-12-18",
             "description": null,
             "is_security_driven": false,
             "product": "devedition",
             "version": "65.0b5"
+        },
+        "devedition-65.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-12-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b6"
+        },
+        "devedition-65.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-12-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b7"
+        },
+        "devedition-65.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b8"
+        },
+        "devedition-65.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "65.0b9"
+        },
+        "devedition-66.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "66.0b1"
+        },
+        "devedition-66.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "66.0b2"
+        },
+        "devedition-66.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "66.0b3"
+        },
+        "devedition-66.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "66.0b4"
+        },
+        "devedition-66.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "66.0b5"
+        },
+        "devedition-66.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "66.0b6"
+        },
+        "devedition-66.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "66.0b7"
+        },
+        "devedition-66.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "66.0b8"
+        },
+        "devedition-66.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "66.0b9"
         },
         "fennec-1.0": {
             "build_number": 1,
@@ -4635,50 +5481,653 @@
             "product": "fennec",
             "version": "6.0b5"
         },
-        "fennec-64.0": {
+        "fennec-60.0": {
             "build_number": 1,
             "category": "major",
-            "date": "2018-11-28",
+            "date": "2018-05-03",
             "description": null,
             "is_security_driven": false,
             "product": "fennec",
-            "version": "64.0"
+            "version": "60.0"
+        },
+        "fennec-60.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-05-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0.1"
+        },
+        "fennec-60.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-06-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0.2"
+        },
+        "fennec-60.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0b11"
+        },
+        "fennec-60.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0b12"
+        },
+        "fennec-60.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0b13"
+        },
+        "fennec-60.0b15": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0b15"
+        },
+        "fennec-60.0b17": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0b17"
+        },
+        "fennec-60.0b3": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-03-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0b3"
+        },
+        "fennec-60.0b4": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-03-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0b4"
+        },
+        "fennec-60.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-03-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0b5"
+        },
+        "fennec-60.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-03-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0b7"
+        },
+        "fennec-60.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "60.0b9"
+        },
+        "fennec-61.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2018-06-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "61.0"
+        },
+        "fennec-61.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-08-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "61.0.2"
+        },
+        "fennec-61.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "61.0b11"
+        },
+        "fennec-61.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "61.0b12"
+        },
+        "fennec-61.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "61.0b13"
+        },
+        "fennec-61.0b15": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "61.0b15"
+        },
+        "fennec-61.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "61.0b3"
+        },
+        "fennec-61.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "61.0b5"
+        },
+        "fennec-61.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "61.0b7"
+        },
+        "fennec-61.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "61.0b9"
+        },
+        "fennec-62.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2018-09-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0"
+        },
+        "fennec-62.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-09-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0.1"
+        },
+        "fennec-62.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-09-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0.2"
+        },
+        "fennec-62.0.3": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-10-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0.3"
+        },
+        "fennec-62.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0b11"
+        },
+        "fennec-62.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-31",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0b13"
+        },
+        "fennec-62.0b15": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0b15"
+        },
+        "fennec-62.0b17": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0b17"
+        },
+        "fennec-62.0b19": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0b19"
+        },
+        "fennec-62.0b21": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-08-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0b21"
+        },
+        "fennec-62.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0b3"
+        },
+        "fennec-62.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0b5"
+        },
+        "fennec-62.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0b7"
+        },
+        "fennec-62.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-07-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "62.0b9"
+        },
+        "fennec-63.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2018-10-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "63.0"
+        },
+        "fennec-63.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-11-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "63.0.2"
+        },
+        "fennec-63.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "63.0b11"
+        },
+        "fennec-63.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "63.0b13"
+        },
+        "fennec-63.0b15": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "63.0b15"
+        },
+        "fennec-63.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "63.0b3"
+        },
+        "fennec-63.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "63.0b5"
+        },
+        "fennec-63.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "63.0b7"
+        },
+        "fennec-63.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-09-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "63.0b9"
+        },
+        "fennec-64.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-12-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0.1"
+        },
+        "fennec-64.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-01-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0.2"
+        },
+        "fennec-64.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0b11"
+        },
+        "fennec-64.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0b12"
+        },
+        "fennec-64.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0b13"
+        },
+        "fennec-64.0b15": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-12-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0b15"
+        },
+        "fennec-64.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0b3"
+        },
+        "fennec-64.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-10-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0b5"
+        },
+        "fennec-64.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0b6"
+        },
+        "fennec-64.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0b7"
+        },
+        "fennec-64.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "64.0b9"
         },
         "fennec-65.0": {
-            "build_number": 1,
+            "build_number": 2,
             "category": "major",
-            "date": "2018-11-28",
+            "date": "2019-01-29",
             "description": null,
             "is_security_driven": false,
             "product": "fennec",
             "version": "65.0"
         },
-        "fennec-65.0b2": {
+        "fennec-65.0.1": {
             "build_number": 2,
-            "category": "dev",
-            "date": "2018-11-30",
+            "category": "stability",
+            "date": "2019-02-12",
             "description": null,
             "is_security_driven": false,
             "product": "fennec",
-            "version": "65.0b2"
+            "version": "65.0.1"
         },
-        "fennec-65.0b30": {
-            "build_number": 2,
+        "fennec-65.0b11": {
+            "build_number": 1,
             "category": "dev",
-            "date": "2018-11-30",
+            "date": "2019-01-15",
             "description": null,
             "is_security_driven": false,
             "product": "fennec",
-            "version": "65.0b30"
+            "version": "65.0b11"
+        },
+        "fennec-65.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "65.0b12"
+        },
+        "fennec-65.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "65.0b13"
+        },
+        "fennec-65.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-12-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "65.0b4"
+        },
+        "fennec-65.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-12-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "65.0b5"
+        },
+        "fennec-65.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-12-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "65.0b7"
+        },
+        "fennec-65.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "65.0b8"
         },
         "fennec-65.0b9": {
-            "build_number": 4,
+            "build_number": 2,
             "category": "dev",
             "date": "2019-01-08",
             "description": null,
             "is_security_driven": false,
             "product": "fennec",
             "version": "65.0b9"
+        },
+        "fennec-66.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "66.0b3"
+        },
+        "fennec-66.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "66.0b5"
+        },
+        "fennec-66.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "66.0b6"
+        },
+        "fennec-66.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "66.0b7"
+        },
+        "fennec-66.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "66.0b9"
         },
         "fennec-7.0": {
             "build_number": 1,
@@ -12639,16 +14088,16 @@
         "firefox-60.0": {
             "build_number": 2,
             "category": "major",
-            "date": "",
+            "date": "2018-05-09",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0"
         },
         "firefox-60.0.1": {
-            "build_number": 3,
+            "build_number": 2,
             "category": "stability",
-            "date": "",
+            "date": "2018-05-16",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12657,7 +14106,7 @@
         "firefox-60.0.1esr": {
             "build_number": 1,
             "category": "esr",
-            "date": "",
+            "date": "2018-05-16",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12666,7 +14115,7 @@
         "firefox-60.0.2": {
             "build_number": 1,
             "category": "stability",
-            "date": "",
+            "date": "2018-06-06",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12675,7 +14124,7 @@
         "firefox-60.0.2esr": {
             "build_number": 2,
             "category": "esr",
-            "date": "",
+            "date": "2018-06-06",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12684,7 +14133,7 @@
         "firefox-60.0b10": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-04-05",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12693,7 +14142,7 @@
         "firefox-60.0b11": {
             "build_number": 2,
             "category": "dev",
-            "date": "",
+            "date": "2018-04-10",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12702,7 +14151,7 @@
         "firefox-60.0b12": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-04-13",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12711,7 +14160,7 @@
         "firefox-60.0b13": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-04-17",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12720,7 +14169,7 @@
         "firefox-60.0b14": {
             "build_number": 2,
             "category": "dev",
-            "date": "",
+            "date": "2018-04-20",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12729,7 +14178,7 @@
         "firefox-60.0b15": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-04-24",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12738,7 +14187,7 @@
         "firefox-60.0b16": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-04-27",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12747,7 +14196,7 @@
         "firefox-60.0b3": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-03-14",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12756,7 +14205,7 @@
         "firefox-60.0b4": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-03-16",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12765,7 +14214,7 @@
         "firefox-60.0b5": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-03-20",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12774,7 +14223,7 @@
         "firefox-60.0b6": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-03-23",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12783,7 +14232,7 @@
         "firefox-60.0b7": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-03-27",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12792,7 +14241,7 @@
         "firefox-60.0b8": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-03-30",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12801,16 +14250,16 @@
         "firefox-60.0b9": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-04-03",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.0b9"
         },
         "firefox-60.0esr": {
-            "build_number": 15,
+            "build_number": 6,
             "category": "esr",
-            "date": "",
+            "date": "2018-05-09",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12819,7 +14268,7 @@
         "firefox-60.1.0esr": {
             "build_number": 2,
             "category": "esr",
-            "date": "",
+            "date": "2018-06-26",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12828,7 +14277,7 @@
         "firefox-60.2.0esr": {
             "build_number": 2,
             "category": "esr",
-            "date": "",
+            "date": "2018-09-05",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12837,7 +14286,7 @@
         "firefox-60.2.1esr": {
             "build_number": 1,
             "category": "esr",
-            "date": "",
+            "date": "2018-09-21",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12846,7 +14295,7 @@
         "firefox-60.2.2esr": {
             "build_number": 2,
             "category": "esr",
-            "date": "",
+            "date": "2018-10-02",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12855,52 +14304,43 @@
         "firefox-60.3.0esr": {
             "build_number": 1,
             "category": "esr",
-            "date": "",
+            "date": "2018-10-23",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "60.3.0"
         },
-        "firefox-60.3.1esr": {
-            "build_number": 7,
+        "firefox-60.4.0esr": {
+            "build_number": 2,
             "category": "esr",
-            "date": "",
+            "date": "2018-12-11",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
-            "version": "60.3.1"
+            "version": "60.4.0"
         },
-        "firefox-60.3.3esr": {
+        "firefox-60.5.0esr": {
+            "build_number": 2,
+            "category": "esr",
+            "date": "2019-01-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "60.5.0"
+        },
+        "firefox-60.5.1esr": {
             "build_number": 1,
             "category": "esr",
-            "date": "",
+            "date": "2019-02-12",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
-            "version": "60.3.3"
-        },
-        "firefox-60.4.1esr": {
-            "build_number": 10,
-            "category": "esr",
-            "date": "2019-01-04",
-            "description": null,
-            "is_security_driven": false,
-            "product": "firefox",
-            "version": "60.4.1"
-        },
-        "firefox-60.4.3esr": {
-            "build_number": 1,
-            "category": "esr",
-            "date": "2019-01-04",
-            "description": null,
-            "is_security_driven": false,
-            "product": "firefox",
-            "version": "60.4.3"
+            "version": "60.5.1"
         },
         "firefox-61.0": {
             "build_number": 3,
             "category": "major",
-            "date": "",
+            "date": "2018-06-26",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12909,7 +14349,7 @@
         "firefox-61.0.1": {
             "build_number": 1,
             "category": "stability",
-            "date": "",
+            "date": "2018-07-05",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12918,7 +14358,7 @@
         "firefox-61.0.2": {
             "build_number": 1,
             "category": "stability",
-            "date": "",
+            "date": "2018-08-08",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12927,7 +14367,7 @@
         "firefox-61.0b10": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-05-31",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12936,7 +14376,7 @@
         "firefox-61.0b11": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-06-05",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12945,7 +14385,7 @@
         "firefox-61.0b12": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-06-08",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12954,7 +14394,7 @@
         "firefox-61.0b13": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-06-12",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12963,25 +14403,16 @@
         "firefox-61.0b14": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-06-15",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "61.0b14"
         },
-        "firefox-61.0b15": {
-            "build_number": 4,
-            "category": "dev",
-            "date": "",
-            "description": null,
-            "is_security_driven": false,
-            "product": "firefox",
-            "version": "61.0b15"
-        },
         "firefox-61.0b3": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-05-08",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12990,7 +14421,7 @@
         "firefox-61.0b4": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-05-11",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -12999,7 +14430,7 @@
         "firefox-61.0b5": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-05-15",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13008,7 +14439,7 @@
         "firefox-61.0b6": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-05-18",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13017,7 +14448,7 @@
         "firefox-61.0b7": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-05-22",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13026,16 +14457,16 @@
         "firefox-61.0b8": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-05-25",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "61.0b8"
         },
         "firefox-61.0b9": {
-            "build_number": 19,
+            "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-05-29",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13044,7 +14475,7 @@
         "firefox-62.0": {
             "build_number": 2,
             "category": "major",
-            "date": "",
+            "date": "2018-09-05",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13053,7 +14484,7 @@
         "firefox-62.0.2": {
             "build_number": 1,
             "category": "stability",
-            "date": "",
+            "date": "2018-09-21",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13062,7 +14493,7 @@
         "firefox-62.0.3": {
             "build_number": 1,
             "category": "stability",
-            "date": "",
+            "date": "2018-10-02",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13071,7 +14502,7 @@
         "firefox-62.0b10": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-07-20",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13080,7 +14511,7 @@
         "firefox-62.0b11": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-07-24",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13089,7 +14520,7 @@
         "firefox-62.0b12": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-07-27",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13098,7 +14529,7 @@
         "firefox-62.0b13": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-07-31",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13107,7 +14538,7 @@
         "firefox-62.0b14": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-08-03",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13116,7 +14547,7 @@
         "firefox-62.0b15": {
             "build_number": 2,
             "category": "dev",
-            "date": "",
+            "date": "2018-08-07",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13125,7 +14556,7 @@
         "firefox-62.0b16": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-08-10",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13134,7 +14565,7 @@
         "firefox-62.0b17": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-08-14",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13143,7 +14574,7 @@
         "firefox-62.0b18": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-08-17",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13152,7 +14583,7 @@
         "firefox-62.0b19": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-08-21",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13161,7 +14592,7 @@
         "firefox-62.0b20": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-08-24",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13170,7 +14601,7 @@
         "firefox-62.0b3": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-06-26",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13179,7 +14610,7 @@
         "firefox-62.0b4": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-06-29",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13188,7 +14619,7 @@
         "firefox-62.0b5": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-07-03",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13197,7 +14628,7 @@
         "firefox-62.0b6": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-07-06",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13206,7 +14637,7 @@
         "firefox-62.0b7": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-07-10",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13215,7 +14646,7 @@
         "firefox-62.0b8": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-07-13",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13224,7 +14655,7 @@
         "firefox-62.0b9": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-07-17",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13233,16 +14664,34 @@
         "firefox-63.0": {
             "build_number": 2,
             "category": "major",
-            "date": "",
+            "date": "2018-10-23",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "63.0"
         },
+        "firefox-63.0.1": {
+            "build_number": 4,
+            "category": "stability",
+            "date": "2018-10-31",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "63.0.1"
+        },
+        "firefox-63.0.3": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-11-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "63.0.3"
+        },
         "firefox-63.0b10": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-09-28",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13251,7 +14700,7 @@
         "firefox-63.0b11": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-10-02",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13260,7 +14709,7 @@
         "firefox-63.0b12": {
             "build_number": 2,
             "category": "dev",
-            "date": "",
+            "date": "2018-10-05",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13269,7 +14718,7 @@
         "firefox-63.0b13": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-10-09",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13278,7 +14727,7 @@
         "firefox-63.0b14": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-10-12",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13287,7 +14736,7 @@
         "firefox-63.0b3": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-09-05",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13296,7 +14745,7 @@
         "firefox-63.0b4": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-09-07",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13305,7 +14754,7 @@
         "firefox-63.0b5": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-09-11",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13314,7 +14763,7 @@
         "firefox-63.0b6": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-09-14",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13323,7 +14772,7 @@
         "firefox-63.0b7": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-09-18",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13332,7 +14781,7 @@
         "firefox-63.0b8": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-09-21",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13341,16 +14790,79 @@
         "firefox-63.0b9": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-09-25",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "63.0b9"
         },
+        "firefox-64.0": {
+            "build_number": 3,
+            "category": "major",
+            "date": "2018-12-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "64.0"
+        },
+        "firefox-64.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-01-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "64.0.2"
+        },
+        "firefox-64.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "64.0b10"
+        },
+        "firefox-64.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "64.0b11"
+        },
+        "firefox-64.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "64.0b12"
+        },
+        "firefox-64.0b13": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "64.0b13"
+        },
+        "firefox-64.0b14": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "64.0b14"
+        },
         "firefox-64.0b3": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-10-23",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13359,7 +14871,7 @@
         "firefox-64.0b4": {
             "build_number": 2,
             "category": "dev",
-            "date": "",
+            "date": "2018-10-26",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13368,7 +14880,7 @@
         "firefox-64.0b5": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-10-30",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -13377,74 +14889,209 @@
         "firefox-64.0b6": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-11-02",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "64.0b6"
         },
         "firefox-64.0b7": {
-            "build_number": 2,
+            "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-11-06",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "64.0b7"
         },
         "firefox-64.0b8": {
-            "build_number": 2,
+            "build_number": 1,
             "category": "dev",
-            "date": "2018-11-30",
+            "date": "2018-11-09",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "64.0b8"
         },
-        "firefox-65.0b1": {
-            "build_number": 2,
-            "category": "dev",
-            "date": "",
-            "description": null,
-            "is_security_driven": false,
-            "product": "firefox",
-            "version": "65.0b1"
-        },
-        "firefox-65.0b2": {
-            "build_number": 2,
-            "category": "dev",
-            "date": "2018-11-28",
-            "description": null,
-            "is_security_driven": false,
-            "product": "firefox",
-            "version": "65.0b2"
-        },
-        "firefox-65.0b30": {
+        "firefox-64.0b9": {
             "build_number": 1,
             "category": "dev",
-            "date": "2018-11-28",
+            "date": "2018-11-13",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
-            "version": "65.0b30"
+            "version": "64.0b9"
+        },
+        "firefox-65.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2019-01-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0"
+        },
+        "firefox-65.0.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2019-02-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0.1"
+        },
+        "firefox-65.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0b10"
+        },
+        "firefox-65.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0b11"
+        },
+        "firefox-65.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0b12"
+        },
+        "firefox-65.0b3": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-12-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0b3"
+        },
+        "firefox-65.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-12-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0b4"
         },
         "firefox-65.0b5": {
             "build_number": 1,
             "category": "dev",
-            "date": "",
+            "date": "2018-12-18",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "65.0b5"
         },
         "firefox-65.0b6": {
-            "build_number": 3,
+            "build_number": 1,
             "category": "dev",
-            "date": "2018-11-22",
+            "date": "2018-12-21",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "65.0b6"
+        },
+        "firefox-65.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-12-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0b7"
+        },
+        "firefox-65.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0b8"
+        },
+        "firefox-65.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0b9"
+        },
+        "firefox-66.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "66.0b3"
+        },
+        "firefox-66.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "66.0b4"
+        },
+        "firefox-66.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "66.0b5"
+        },
+        "firefox-66.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "66.0b6"
+        },
+        "firefox-66.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "66.0b7"
+        },
+        "firefox-66.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "66.0b8"
+        },
+        "firefox-66.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-02-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "66.0b9"
         },
         "firefox-7.0": {
             "build_number": 1,
@@ -15920,6 +17567,195 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "6.0b3"
+        },
+        "thunderbird-60.0": {
+            "build_number": 4,
+            "category": "major",
+            "date": "2018-08-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0"
+        },
+        "thunderbird-60.0b1": {
+            "build_number": 6,
+            "category": "dev",
+            "date": "2018-03-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b1"
+        },
+        "thunderbird-60.0b10": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-07-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b10"
+        },
+        "thunderbird-60.0b11": {
+            "build_number": 5,
+            "category": "dev",
+            "date": "2018-09-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b11"
+        },
+        "thunderbird-60.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b2"
+        },
+        "thunderbird-60.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b3"
+        },
+        "thunderbird-60.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b4"
+        },
+        "thunderbird-60.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b5"
+        },
+        "thunderbird-60.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b6"
+        },
+        "thunderbird-60.0b7": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2018-06-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b7"
+        },
+        "thunderbird-60.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b8"
+        },
+        "thunderbird-60.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b9"
+        },
+        "thunderbird-60.2.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-10-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.2.1"
+        },
+        "thunderbird-60.3.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2018-10-31",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.3.0"
+        },
+        "thunderbird-60.3.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2018-11-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.3.1"
+        },
+        "thunderbird-60.3.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-11-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.3.2"
+        },
+        "thunderbird-62.0b3": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-05-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "62.0b3"
+        },
+        "thunderbird-63.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-10-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "63.0b1"
+        },
+        "thunderbird-64.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-10-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "64.0b1"
+        },
+        "thunderbird-64.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "64.0b2"
+        },
+        "thunderbird-64.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "64.0b3"
         },
         "thunderbird-7.0": {
             "build_number": 1,
