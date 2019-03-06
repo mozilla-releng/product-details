@@ -2268,6 +2268,294 @@
             "product": "thunderbird",
             "version": "6.0b3"
         },
+        "thunderbird-60.0": {
+            "build_number": 4,
+            "category": "major",
+            "date": "2018-08-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0"
+        },
+        "thunderbird-60.0b1": {
+            "build_number": 6,
+            "category": "dev",
+            "date": "2018-03-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b1"
+        },
+        "thunderbird-60.0b10": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-07-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b10"
+        },
+        "thunderbird-60.0b11": {
+            "build_number": 5,
+            "category": "dev",
+            "date": "2018-09-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b11"
+        },
+        "thunderbird-60.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b2"
+        },
+        "thunderbird-60.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b3"
+        },
+        "thunderbird-60.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b4"
+        },
+        "thunderbird-60.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-04-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b5"
+        },
+        "thunderbird-60.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-05-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b6"
+        },
+        "thunderbird-60.0b7": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2018-06-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b7"
+        },
+        "thunderbird-60.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b8"
+        },
+        "thunderbird-60.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-06-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.0b9"
+        },
+        "thunderbird-60.2.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-10-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.2.1"
+        },
+        "thunderbird-60.3.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2018-10-31",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.3.0"
+        },
+        "thunderbird-60.3.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2018-11-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.3.1"
+        },
+        "thunderbird-60.3.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2018-11-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.3.2"
+        },
+        "thunderbird-60.3.3": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2018-12-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.3.3"
+        },
+        "thunderbird-60.4.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2018-12-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.4.0"
+        },
+        "thunderbird-60.5.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2019-01-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.5.0"
+        },
+        "thunderbird-60.5.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2019-02-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.5.1"
+        },
+        "thunderbird-60.5.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-02-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.5.2"
+        },
+        "thunderbird-63.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-10-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "63.0b1"
+        },
+        "thunderbird-64.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-10-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "64.0b1"
+        },
+        "thunderbird-64.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "64.0b2"
+        },
+        "thunderbird-64.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "64.0b3"
+        },
+        "thunderbird-64.0b4": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-12-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "64.0b4"
+        },
+        "thunderbird-65.0b1": {
+            "build_number": 5,
+            "category": "dev",
+            "date": "2018-12-31",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "65.0b1"
+        },
+        "thunderbird-65.0b2": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2019-01-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "65.0b2"
+        },
+        "thunderbird-65.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-01-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "65.0b3"
+        },
+        "thunderbird-65.0b4": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2019-01-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "65.0b4"
+        },
+        "thunderbird-66.0b1": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2019-02-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "66.0b1"
+        },
+        "thunderbird-66.0b2": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2019-02-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "66.0b2"
+        },
         "thunderbird-7.0": {
             "build_number": 1,
             "category": "major",
