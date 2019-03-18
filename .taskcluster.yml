@@ -1,0 +1,64 @@
+version: 1
+policy:
+  pullRequests: collaborators
+tasks:
+  $match:
+    'tasks_for == "github-push" && event.ref == "refs/heads/testing"':
+      taskId: {$eval: as_slugid("testing_task")}
+      created: {$fromNow: ''}
+      deadline: {$fromNow: '1 hour'}
+      provisionerId: 'aws-provisioner-v1'
+      workerType: 'github-worker'
+      scopes:
+        - secrets:get:repo:github.com/mozilla-releng/product-details:branch:testing
+      payload:
+        maxRunTime: 3600
+        image: python:3
+        env:
+          TC_SECRET_URL: http://taskcluster/secrets/v1/secret/repo:github.com/mozilla-releng/product-details:branch:testing
+          WEBSITE_BUCKET: relengstatic-testing-productdetails-static-website
+        features:
+          taskclusterProxy: true
+        command:
+          - /bin/bash
+          - '--login'
+          - '-c'
+          - >-
+            git clone ${event.repository.clone_url} repo && cd repo &&
+            git checkout ${event.after} &&
+            pip3 -q install awscli --upgrade && ./scripts/deploy
+      metadata:
+        name: deploy testing
+        description: 'Deploy to https://product-details.testing.mozilla-releng.net/'
+        owner: ${event.pusher.name}@users.noreply.github.com
+        source: ${event.repository.url}
+    'tasks_for == "github-push" && event.ref == "refs/heads/staging"':
+      taskId: {$eval: as_slugid("staging_task")}
+      created: {$fromNow: ''}
+      deadline: {$fromNow: '1 hour'}
+      provisionerId: 'aws-provisioner-v1'
+      workerType: 'github-worker'
+      scopes:
+        - secrets:get:repo:github.com/mozilla-releng/product-details:branch:staging
+      payload:
+        maxRunTime: 3600
+        image: python:3
+        env:
+          TC_SECRET_URL: http://taskcluster/secrets/v1/secret/repo:github.com/mozilla-releng/product-details:branch:staging
+          WEBSITE_BUCKET: relengstatic-staging-productdetails-static-website
+        features:
+          taskclusterProxy: true
+        command:
+          - /bin/bash
+          - '--login'
+          - '-c'
+          - >-
+            git clone ${event.repository.clone_url} repo && cd repo &&
+            git checkout ${event.after} &&
+            pip3 -q install awscli --upgrade && ./scripts/deploy
+      metadata:
+        name: deploy staging
+        description: 'Deploy to https://product-details.staging.mozilla-releng.net/'
+        owner: ${event.pusher.name}@users.noreply.github.com
+        source: ${event.repository.url}
+
