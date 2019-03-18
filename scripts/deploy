@@ -14,3 +14,11 @@ aws s3 sync \
     --cache-control "max-age=300" \
     ./public/ "s3://${WEBSITE_BUCKET}/"
 
+aws s3 cp \
+    --metadata "{
+    \"Strict-Transport-Security\": \"max-age=31536000\"
+}" \
+    --metadata-directive "REPLACE" \
+    --cache-control "max-age=31557600" \
+    ./scripts/404.html "s3://${WEBSITE_BUCKET}/404.html"
+
