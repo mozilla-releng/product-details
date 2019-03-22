@@ -86,7 +86,7 @@ tasks:
             git checkout ${event.after} &&
             pip3 -q install awscli --upgrade && ./scripts/deploy
       metadata:
-        name: deploy staging
+        name: deploy production
         description: 'Deploy to https://product-details.mozilla-releng.net/'
         owner: ${event.pusher.name}@users.noreply.github.com
         source: ${event.repository.url}
