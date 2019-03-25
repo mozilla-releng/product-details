@@ -18027,6 +18027,15 @@
             "product": "thunderbird",
             "version": "60.6.0"
         },
+        "thunderbird-60.6.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2019-03-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.6.1"
+        },
         "thunderbird-63.0b1": {
             "build_number": 2,
             "category": "dev",
