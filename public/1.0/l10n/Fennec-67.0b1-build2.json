@@ -1,11 +1,5 @@
 {
     "locales": {
-        "ach": {
-            "changeset": "default"
-        },
-        "af": {
-            "changeset": "default"
-        },
         "an": {
             "changeset": "default"
         },
@@ -61,6 +55,9 @@
             "changeset": "default"
         },
         "el": {
+            "changeset": "default"
+        },
+        "en-CA": {
             "changeset": "default"
         },
         "en-GB": {
@@ -138,9 +135,6 @@
         "hy-AM": {
             "changeset": "default"
         },
-        "ia": {
-            "changeset": "default"
-        },
         "id": {
             "changeset": "default"
         },
@@ -153,9 +147,6 @@
         "ja": {
             "changeset": "default"
         },
-        "ja-JP-mac": {
-            "changeset": "default"
-        },
         "ka": {
             "changeset": "default"
         },
@@ -163,9 +154,6 @@
             "changeset": "default"
         },
         "kk": {
-            "changeset": "default"
-        },
-        "km": {
             "changeset": "default"
         },
         "kn": {
@@ -183,16 +171,10 @@
         "lt": {
             "changeset": "default"
         },
-        "ltg": {
-            "changeset": "default"
-        },
         "lv": {
             "changeset": "default"
         },
         "mai": {
-            "changeset": "default"
-        },
-        "mk": {
             "changeset": "default"
         },
         "ml": {
@@ -246,9 +228,6 @@
         "ru": {
             "changeset": "default"
         },
-        "si": {
-            "changeset": "default"
-        },
         "sk": {
             "changeset": "default"
         },
@@ -276,10 +255,10 @@
         "th": {
             "changeset": "default"
         },
-        "tl": {
+        "tr": {
             "changeset": "default"
         },
-        "tr": {
+        "trs": {
             "changeset": "default"
         },
         "uk": {
@@ -300,6 +279,9 @@
         "xh": {
             "changeset": "default"
         },
+        "zam": {
+            "changeset": "default"
+        },
         "zh-CN": {
             "changeset": "default"
         },
@@ -307,7 +289,7 @@
             "changeset": "default"
         }
     },
-    "name": "Firefox-60.0.1-build3",
-    "shippedAt": "2018-01-10T18:31:36+00:00",
-    "submittedAt": "2018-01-10T13:54:41+00:00"
+    "name": "Fennec-67.0b1-build2",
+    "shippedAt": "2019-03-09T04:58:44.836251+00:00",
+    "submittedAt": "2019-03-09T04:48:24.382991+00:00"
 }

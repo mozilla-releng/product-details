@@ -6130,13 +6130,22 @@
             "version": "66.0b9"
         },
         "fennec-67.0b1": {
-            "build_number": 1,
+            "build_number": 2,
             "category": "dev",
-            "date": "2019-03-07",
+            "date": "2019-03-09",
             "description": null,
             "is_security_driven": false,
             "product": "fennec",
             "version": "67.0b1"
+        },
+        "fennec-67.0b2": {
+            "build_number": 9,
+            "category": "dev",
+            "date": "2019-03-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "67.0b2"
         },
         "fennec-7.0": {
             "build_number": 1,
@@ -14104,9 +14113,9 @@
             "version": "60.0"
         },
         "firefox-60.0.1": {
-            "build_number": 2,
+            "build_number": 3,
             "category": "stability",
-            "date": "2018-05-16",
+            "date": "2018-01-10",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -14266,9 +14275,9 @@
             "version": "60.0b9"
         },
         "firefox-60.0esr": {
-            "build_number": 6,
+            "build_number": 15,
             "category": "esr",
-            "date": "2018-05-09",
+            "date": "2018-05-24",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -14346,6 +14355,15 @@
             "product": "firefox",
             "version": "60.5.1"
         },
+        "firefox-60.5.4esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2019-03-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "60.5.4"
+        },
         "firefox-61.0": {
             "build_number": 3,
             "category": "major",
@@ -14418,6 +14436,15 @@
             "product": "firefox",
             "version": "61.0b14"
         },
+        "firefox-61.0b15": {
+            "build_number": 4,
+            "category": "dev",
+            "date": "2018-06-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "61.0b15"
+        },
         "firefox-61.0b3": {
             "build_number": 1,
             "category": "dev",
@@ -14473,9 +14500,9 @@
             "version": "61.0b8"
         },
         "firefox-61.0b9": {
-            "build_number": 1,
+            "build_number": 19,
             "category": "dev",
-            "date": "2018-05-29",
+            "date": "2018-05-16",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -14905,9 +14932,9 @@
             "version": "64.0b6"
         },
         "firefox-64.0b7": {
-            "build_number": 1,
+            "build_number": 2,
             "category": "dev",
-            "date": "2018-11-06",
+            "date": "2018-11-08",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
@@ -14976,6 +15003,15 @@
             "product": "firefox",
             "version": "65.0b12"
         },
+        "firefox-65.0b2": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2018-11-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0b2"
+        },
         "firefox-65.0b3": {
             "build_number": 2,
             "category": "dev",
@@ -14984,6 +15020,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "65.0b3"
+        },
+        "firefox-65.0b30": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2018-11-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "65.0b30"
         },
         "firefox-65.0b4": {
             "build_number": 1,
@@ -15101,6 +15146,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "66.0b9"
+        },
+        "firefox-67.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-03-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "67.0b1"
         },
         "firefox-7.0": {
             "build_number": 1,
