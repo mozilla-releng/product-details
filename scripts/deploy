@@ -10,7 +10,11 @@ cp scripts/404.html public/404.html
 
 aws s3 sync \
     --metadata "{
-    \"Strict-Transport-Security\": \"max-age=31536000\"
+    \"Strict-Transport-Security\": \"max-age=31536000\",
+    \"Access-Control-Allow-Origin\": \"*\",
+    \"x-content-type-options\": \"nosniff\",
+    \"x-frame-options\": \"SAMEORIGIN\",
+    \"x-xss-protection\": \"1; mode=block\"
 }" \
     --metadata-directive "REPLACE" \
     --cache-control "max-age=300" \
