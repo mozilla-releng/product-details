@@ -6148,13 +6148,22 @@
             "version": "67.0b2"
         },
         "fennec-67.0b3": {
-            "build_number": 1,
+            "build_number": 2,
             "category": "dev",
             "date": "2019-04-23",
             "description": null,
             "is_security_driven": false,
             "product": "fennec",
             "version": "67.0b3"
+        },
+        "fennec-67.0b4": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2019-04-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "67.0b4"
         },
         "fennec-7.0": {
             "build_number": 1,
