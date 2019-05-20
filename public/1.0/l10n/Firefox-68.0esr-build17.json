@@ -1,0 +1,22 @@
+{
+    "locales": {
+        "en-CA": {
+            "changeset": "default"
+        },
+        "he": {
+            "changeset": "default"
+        },
+        "it": {
+            "changeset": "default"
+        },
+        "ja": {
+            "changeset": "default"
+        },
+        "ja-JP-mac": {
+            "changeset": "default"
+        }
+    },
+    "name": "Firefox-68.0esr-build17",
+    "shippedAt": "2019-05-20T07:21:33.116082+00:00",
+    "submittedAt": "2019-05-20T03:57:49.088165+00:00"
+}
