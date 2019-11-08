@@ -7,7 +7,7 @@ tasks:
       taskId: {$eval: as_slugid("testing_task")}
       created: {$fromNow: ''}
       deadline: {$fromNow: '1 hour'}
-      provisionerId: releng-3
+      provisionerId: releng-t
       workerType: linux
       scopes:
         - secrets:get:repo:github.com/mozilla-releng/product-details:branch:testing
