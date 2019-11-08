@@ -7,8 +7,8 @@ tasks:
       taskId: {$eval: as_slugid("testing_task")}
       created: {$fromNow: ''}
       deadline: {$fromNow: '1 hour'}
-      provisionerId: 'aws-provisioner-v1'
-      workerType: 'github-worker'
+      provisionerId: releng-3
+      workerType: linux
       scopes:
         - secrets:get:repo:github.com/mozilla-releng/product-details:branch:testing
       payload:
@@ -36,8 +36,8 @@ tasks:
       taskId: {$eval: as_slugid("staging_task")}
       created: {$fromNow: ''}
       deadline: {$fromNow: '1 hour'}
-      provisionerId: 'aws-provisioner-v1'
-      workerType: 'github-worker'
+      provisionerId: releng-3
+      workerType: linux
       scopes:
         - secrets:get:repo:github.com/mozilla-releng/product-details:branch:staging
       payload:
@@ -65,8 +65,8 @@ tasks:
       taskId: {$eval: as_slugid("production_task")}
       created: {$fromNow: ''}
       deadline: {$fromNow: '1 hour'}
-      provisionerId: 'aws-provisioner-v1'
-      workerType: 'github-worker'
+      provisionerId: releng-3
+      workerType: linux
       scopes:
         - secrets:get:repo:github.com/mozilla-releng/product-details:branch:production
       payload:
