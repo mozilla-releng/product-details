@@ -2,30 +2,62 @@ version: 1
 policy:
   pullRequests: collaborators
 tasks:
-  $match:
-    'tasks_for == "github-push" && event.ref == "refs/heads/testing"':
-      provisionerId: releng-t
-      workerType: linux
-      scopes:
-        - secrets:get:repo:github.com/mozilla-releng/product-details:branch:testing
-      extra:
-        github:
-          events:
-            - push
-          branches:
-            - testing
-      payload:
-        maxRunTime: 3600
-        image: python
-        command:
-          - /bin/bash
-          - '--login'
-          - '-c'
-          - >-
-            git clone ${event.repository.clone_url} repo && cd repo && 
-            git checkout ${event.after}
-      metadata:
-        name: deploy testing
-        description: 'Deploy to https://product-details.testing.mozilla-releng.net/'
-        owner: ${event.pusher.name}@users.noreply.github.com
-        source: ${event.repository.url}
+    $let:
+      repo_url:
+        $if: 'tasks_for == "github-pull-request"'
+        then: '${event.pull_request.head.repo.html_url}'
+        else: '${event.repository.html_url}'
+      head_sha:
+        $if: 'tasks_for == "github-push"'
+        then: '${event.after}'
+        else:
+          $if: 'tasks_for == "github-pull-request"'
+          then: '${event.pull_request.head.sha}'
+          # Assume release event
+          else: '${event.release.tag_name}'
+      release_channel:
+        $if: 'tasks_for == "github-pull-request"'
+        then: 'PR'
+        else:
+          $if: 'tasks_for == "github-push" && event.ref in ["refs/heads/testing", "refs/heads/staging", "refs/heads/production"]'
+          then: '${event.ref[11:]}'
+          else: 'none'
+    in:
+      $let:
+        bucket:
+          # The production bucket name doesn't match the branch name,
+          # but the other environments do.
+          $if: 'release_channel == "production"'
+          then: 'relengstatic-prod-productdetails-static-website'
+          else: 'relengstatic-${release_channel}-productdetails-static-website'
+      in:
+        $match:
+          'release_channel in ["testing", "staging", "production"]':
+            taskId: {$eval: as_slugid("testing_task")}
+            created: {$fromNow: ''}
+            deadline: {$fromNow: '1 hour'}
+            provisionerId: releng-t
+            workerType: linux
+            scopes:
+              - secrets:get:repo:github.com/mozilla-releng/product-details:branch:${release_channel}
+            payload:
+              maxRunTime: 3600
+              image: python:3.7
+              env:
+                TC_SECRET_URL: http://taskcluster/secrets/v1/secret/repo:github.com/mozilla-releng/product-details:branch:${release_channel}
+                WEBSITE_BUCKET: ${bucket}
+              features:
+                taskclusterProxy: true
+              command:
+                - /bin/bash
+                - '--login'
+                - '-c'
+                - >-
+                  git clone ${repo_url} repo && cd repo &&
+                  git checkout ${head_sha} &&
+                  pip3 -q install awscli --upgrade && ./scripts/deploy
+            metadata:
+              name: deploy ${release_channel}
+              description: deploy ${release_channel}
+              owner: 'release+shipit-ci@mozilla.com'
+              source: ${repo_url}
