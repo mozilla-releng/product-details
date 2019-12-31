@@ -5139,6 +5139,15 @@
             "product": "fennec",
             "version": "68.3b6"
         },
+        "fennec-68.4.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-12-31",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "68.4.0"
+        },
         "fennec-68.4b1": {
             "build_number": 1,
             "category": "dev",
