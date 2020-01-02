@@ -6219,6 +6219,15 @@
             "product": "fennec",
             "version": "68.0b7"
         },
+        "fennec-68.1b7": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2019-08-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "68.1b7"
+        },
         "fennec-7.0": {
             "build_number": 1,
             "category": "major",
@@ -15264,6 +15273,15 @@
             "product": "firefox",
             "version": "68.0"
         },
+        "firefox-69.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2019-08-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "69.0"
+        },
         "firefox-69.0b14": {
             "build_number": 1,
             "category": "dev",
@@ -15371,6 +15389,51 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "7.0b6"
+        },
+        "firefox-70.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2019-08-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "70.0b1"
+        },
+        "firefox-70.0b13": {
+            "build_number": 5,
+            "category": "dev",
+            "date": "2019-09-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "70.0b13"
+        },
+        "firefox-71.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-09-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "71.0b1"
+        },
+        "firefox-71.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-09-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "71.0b3"
+        },
+        "firefox-72.0b26": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-12-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "72.0b26"
         },
         "firefox-8.0": {
             "build_number": 1,

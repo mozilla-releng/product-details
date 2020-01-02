@@ -1,0 +1,25 @@
+{
+    "locales": {
+        "en-CA": {
+            "changeset": "default"
+        },
+        "he": {
+            "changeset": "default"
+        },
+        "it": {
+            "changeset": "default"
+        },
+        "ja": {
+            "changeset": "default"
+        },
+        "ja-JP-mac": {
+            "changeset": "default"
+        },
+        "zh-CN": {
+            "changeset": "default"
+        }
+    },
+    "name": "Firefox-71.0b1-build1",
+    "shippedAt": "2019-09-18T03:31:41.818324+00:00",
+    "submittedAt": "2019-09-17T04:50:55.437866+00:00"
+}
