@@ -17676,6 +17676,15 @@
             "product": "firefox",
             "version": "72.0.1"
         },
+        "firefox-72.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2020-01-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "72.0.2"
+        },
         "firefox-72.0b1": {
             "build_number": 1,
             "category": "dev",
