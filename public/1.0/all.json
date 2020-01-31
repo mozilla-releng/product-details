@@ -2358,6 +2358,15 @@
             "product": "devedition",
             "version": "73.0b11"
         },
+        "devedition-73.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2020-01-31",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "73.0b12"
+        },
         "devedition-73.0b2": {
             "build_number": 1,
             "category": "dev",
