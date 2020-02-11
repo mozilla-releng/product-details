@@ -9963,6 +9963,15 @@
             "product": "firefox",
             "version": "72.0b9"
         },
+        "firefox-73.0": {
+            "build_number": 3,
+            "category": "major",
+            "date": "2020-02-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "73.0"
+        },
         "firefox-73.0b1": {
             "build_number": 2,
             "category": "dev",
