@@ -7713,6 +7713,15 @@
             "product": "fennec",
             "version": "68.5b6"
         },
+        "fennec-68.6b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2020-02-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "68.6b1"
+        },
         "fennec-7.0": {
             "build_number": 1,
             "category": "major",
