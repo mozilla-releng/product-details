@@ -9981,6 +9981,15 @@
             "product": "firefox",
             "version": "73.0"
         },
+        "firefox-73.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2020-02-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "73.0.1"
+        },
         "firefox-73.0b1": {
             "build_number": 2,
             "category": "dev",
