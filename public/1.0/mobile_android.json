@@ -5292,6 +5292,15 @@
             "product": "fennec",
             "version": "68.6b3"
         },
+        "fennec-68.6b4": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2020-03-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "68.6b4"
+        },
         "fennec-7.0": {
             "build_number": 1,
             "category": "major",
