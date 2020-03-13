@@ -21438,6 +21438,15 @@
             "product": "thunderbird",
             "version": "74.0b2"
         },
+        "thunderbird-75.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2020-03-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "75.0b1"
+        },
         "thunderbird-8.0": {
             "build_number": 1,
             "category": "major",
