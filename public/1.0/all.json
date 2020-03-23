@@ -2574,6 +2574,15 @@
             "product": "devedition",
             "version": "75.0b6"
         },
+        "devedition-75.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2020-03-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "75.0b7"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
