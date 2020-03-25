@@ -5571,6 +5571,33 @@
             "product": "firefox",
             "version": "45.2.0"
         },
+        "firefox-45.2.1esr": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "45.2.1"
+        },
+        "firefox-45.2.4esr": {
+            "build_number": 4,
+            "category": "stability",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "45.2.4"
+        },
+        "firefox-45.2.5esr": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "45.2.5"
+        },
         "firefox-45.3.0esr": {
             "build_number": 1,
             "category": "esr",
@@ -5759,6 +5786,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "47.0.2"
+        },
+        "firefox-47.0.6": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "47.0.6"
         },
         "firefox-47.0b1": {
             "build_number": 2,
@@ -7434,6 +7470,15 @@
             "product": "firefox",
             "version": "58.0.2"
         },
+        "firefox-58.0b1": {
+            "build_number": 19,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "58.0b1"
+        },
         "firefox-58.0b10": {
             "build_number": 1,
             "category": "dev",
@@ -7496,6 +7541,33 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "58.0b16"
+        },
+        "firefox-58.0b18": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "58.0b18"
+        },
+        "firefox-58.0b21": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "58.0b21"
+        },
+        "firefox-58.0b22": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "58.0b22"
         },
         "firefox-58.0b4": {
             "build_number": 1,
@@ -7587,6 +7659,15 @@
             "product": "firefox",
             "version": "59.0.3"
         },
+        "firefox-59.0b1": {
+            "build_number": 5,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "59.0b1"
+        },
         "firefox-59.0b10": {
             "build_number": 3,
             "category": "dev",
@@ -7631,6 +7712,24 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "59.0b14"
+        },
+        "firefox-59.0b17": {
+            "build_number": 17,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "59.0b17"
+        },
+        "firefox-59.0b21": {
+            "build_number": 50,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "59.0b21"
         },
         "firefox-59.0b3": {
             "build_number": 2,

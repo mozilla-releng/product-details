@@ -1,12 +1,24 @@
 {
     "locales": {
+        "ach": {
+            "changeset": "default"
+        },
         "af": {
+            "changeset": "default"
+        },
+        "an": {
             "changeset": "default"
         },
         "ar": {
             "changeset": "default"
         },
+        "as": {
+            "changeset": "default"
+        },
         "ast": {
+            "changeset": "default"
+        },
+        "az": {
             "changeset": "default"
         },
         "be": {
@@ -15,7 +27,16 @@
         "bg": {
             "changeset": "default"
         },
+        "bn-BD": {
+            "changeset": "default"
+        },
+        "bn-IN": {
+            "changeset": "default"
+        },
         "br": {
+            "changeset": "default"
+        },
+        "bs": {
             "changeset": "default"
         },
         "ca": {
@@ -45,10 +66,22 @@
         "en-GB": {
             "changeset": "default"
         },
+        "en-ZA": {
+            "changeset": "default"
+        },
+        "eo": {
+            "changeset": "default"
+        },
         "es-AR": {
             "changeset": "default"
         },
+        "es-CL": {
+            "changeset": "default"
+        },
         "es-ES": {
+            "changeset": "default"
+        },
+        "es-MX": {
             "changeset": "default"
         },
         "et": {
@@ -58,6 +91,9 @@
             "changeset": "default"
         },
         "fa": {
+            "changeset": "default"
+        },
+        "ff": {
             "changeset": "default"
         },
         "fi": {
@@ -78,7 +114,16 @@
         "gl": {
             "changeset": "default"
         },
+        "gn": {
+            "changeset": "default"
+        },
+        "gu-IN": {
+            "changeset": "default"
+        },
         "he": {
+            "changeset": "default"
+        },
+        "hi-IN": {
             "changeset": "default"
         },
         "hr": {
@@ -91,6 +136,9 @@
             "changeset": "default"
         },
         "hy-AM": {
+            "changeset": "default"
+        },
+        "ia": {
             "changeset": "default"
         },
         "id": {
@@ -117,22 +165,67 @@
         "kk": {
             "changeset": "default"
         },
+        "km": {
+            "changeset": "default"
+        },
+        "kn": {
+            "changeset": "default"
+        },
         "ko": {
+            "changeset": "default"
+        },
+        "lij": {
+            "changeset": "default"
+        },
+        "lo": {
             "changeset": "default"
         },
         "lt": {
             "changeset": "default"
         },
+        "ltg": {
+            "changeset": "default"
+        },
+        "lv": {
+            "changeset": "default"
+        },
+        "mai": {
+            "changeset": "default"
+        },
+        "mk": {
+            "changeset": "default"
+        },
+        "ml": {
+            "changeset": "default"
+        },
+        "mr": {
+            "changeset": "default"
+        },
         "ms": {
             "changeset": "default"
         },
+        "my": {
+            "changeset": "default"
+        },
         "nb-NO": {
+            "changeset": "default"
+        },
+        "ne-NP": {
             "changeset": "default"
         },
         "nl": {
             "changeset": "default"
         },
         "nn-NO": {
+            "changeset": "default"
+        },
+        "oc": {
+            "changeset": "default"
+        },
+        "or": {
+            "changeset": "default"
+        },
+        "pa-IN": {
             "changeset": "default"
         },
         "pl": {
@@ -162,6 +255,9 @@
         "sl": {
             "changeset": "default"
         },
+        "son": {
+            "changeset": "default"
+        },
         "sq": {
             "changeset": "default"
         },
@@ -171,16 +267,37 @@
         "sv-SE": {
             "changeset": "default"
         },
+        "ta": {
+            "changeset": "default"
+        },
+        "te": {
+            "changeset": "default"
+        },
+        "th": {
+            "changeset": "default"
+        },
+        "tl": {
+            "changeset": "default"
+        },
         "tr": {
             "changeset": "default"
         },
         "uk": {
             "changeset": "default"
         },
+        "ur": {
+            "changeset": "default"
+        },
         "uz": {
             "changeset": "default"
         },
         "vi": {
+            "changeset": "default"
+        },
+        "wo": {
+            "changeset": "default"
+        },
+        "xh": {
             "changeset": "default"
         },
         "zh-CN": {
@@ -190,7 +307,7 @@
             "changeset": "default"
         }
     },
-    "name": "Thunderbird-74.0a1-build5",
+    "name": "Firefox-59.0b21-build50",
     "shippedAt": "",
     "submittedAt": ""
 }

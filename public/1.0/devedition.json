@@ -441,6 +441,24 @@
             "product": "devedition",
             "version": "58.0b2"
         },
+        "devedition-58.0b21": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "58.0b21"
+        },
+        "devedition-58.0b22": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "58.0b22"
+        },
         "devedition-58.0b4": {
             "build_number": 1,
             "category": "dev",
