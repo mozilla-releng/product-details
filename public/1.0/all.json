@@ -18261,6 +18261,15 @@
             "product": "firefox",
             "version": "74.0"
         },
+        "firefox-74.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2020-04-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "74.0.1"
+        },
         "firefox-74.0b1": {
             "build_number": 2,
             "category": "dev",
