@@ -18360,6 +18360,15 @@
             "product": "firefox",
             "version": "74.0b9"
         },
+        "firefox-75.0": {
+            "build_number": 3,
+            "category": "major",
+            "date": "2020-04-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "75.0"
+        },
         "firefox-75.0b1": {
             "build_number": 1,
             "category": "dev",
