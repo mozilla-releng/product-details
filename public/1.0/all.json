@@ -21717,6 +21717,15 @@
             "product": "thunderbird",
             "version": "75.0b3"
         },
+        "thunderbird-76.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2020-04-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "76.0b1"
+        },
         "thunderbird-8.0": {
             "build_number": 1,
             "category": "major",
