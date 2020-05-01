@@ -87,6 +87,10 @@
         "English": "Kaqchikel",
         "native": "Maya Kaqchikel"
     },
+    "ckb": {
+        "English": "Central Kurdish",
+        "native": "\u06a9\u0648\u0631\u062f\u06cc\u06cc \u0646\u0627\u0648\u06d5\u0646\u062f\u06cc\u0f0b"
+    },
     "crh": {
         "English": "Crimean Tatar",
         "native": "Q\u0131r\u0131mtatarca"
@@ -283,6 +287,10 @@
         "English": "Armenian",
         "native": "\u0540\u0561\u0575\u0565\u0580\u0565\u0576"
     },
+    "hye": {
+        "English": "Armenian Eastern Classic Orthography",
+        "native": "\u0531\u0580\u0565\u0582\u0565\u056c\u0561\u0570\u0561\u0575\u0565\u0580\u0567\u0576 \u0531\u0582\u0561\u0576\u0564\u0561\u056f\u0561\u0576 \u0548\u0582\u0572\u0572\u0561\u0563\u0580\u0578\u0582\u0569\u056b\u0582\u0576"
+    },
     "ia": {
         "English": "Interlingua",
         "native": "Interlingua"
@@ -382,6 +390,10 @@
     "mai": {
         "English": "Maithili",
         "native": "\u092e\u0948\u0925\u093f\u0932\u0940 \u09ae\u09c8\u09a5\u09bf\u09b2\u09c0"
+    },
+    "meh": {
+        "English": "Mixteco Yucuhiti",
+        "native": "Tu'un Savi Yucuhiti"
     },
     "mg": {
         "English": "Malagasy",
