@@ -2844,6 +2844,15 @@
             "product": "thunderbird",
             "version": "68.7.0"
         },
+        "thunderbird-68.8.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2020-05-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "68.8.0"
+        },
         "thunderbird-69.0b1": {
             "build_number": 2,
             "category": "dev",
