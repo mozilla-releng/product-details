@@ -10341,6 +10341,15 @@
             "product": "firefox",
             "version": "76.0"
         },
+        "firefox-76.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2020-05-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "76.0.1"
+        },
         "firefox-76.0b1": {
             "build_number": 1,
             "category": "dev",
