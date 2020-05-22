@@ -1963,6 +1963,19 @@
             }
         }
     },
+    "th": {
+        "78.0a1": {
+            "Linux": {
+                "filesize": 31.8
+            },
+            "OS X": {
+                "filesize": 50.8
+            },
+            "Windows": {
+                "filesize": 25.1
+            }
+        }
+    },
     "tr": {
         "68.8.0": {
             "Linux": {
