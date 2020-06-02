@@ -9432,6 +9432,15 @@
             "product": "firefox",
             "version": "68.8.0"
         },
+        "firefox-68.9.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2020-06-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "68.9.0"
+        },
         "firefox-69.0": {
             "build_number": 2,
             "category": "major",
