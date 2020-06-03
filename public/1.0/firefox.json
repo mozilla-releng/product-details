@@ -10440,6 +10440,15 @@
             "product": "firefox",
             "version": "77.0"
         },
+        "firefox-77.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2020-06-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "77.0.1"
+        },
         "firefox-77.0b1": {
             "build_number": 3,
             "category": "dev",
