@@ -3141,6 +3141,15 @@
             "product": "thunderbird",
             "version": "77.0b3"
         },
+        "thunderbird-78.0b1": {
+            "build_number": 4,
+            "category": "dev",
+            "date": "2020-06-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "78.0b1"
+        },
         "thunderbird-8.0": {
             "build_number": 1,
             "category": "major",
