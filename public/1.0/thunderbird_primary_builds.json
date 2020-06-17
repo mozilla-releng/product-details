@@ -478,6 +478,19 @@
             }
         }
     },
+    "en-CA": {
+        "79.0a1": {
+            "Linux": {
+                "filesize": 31.8
+            },
+            "OS X": {
+                "filesize": 50.8
+            },
+            "Windows": {
+                "filesize": 25.1
+            }
+        }
+    },
     "en-GB": {
         "68.9.0": {
             "Linux": {
