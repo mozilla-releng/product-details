@@ -17624,7 +17624,7 @@
         },
         "firefox-68.0.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-07-18",
             "description": null,
             "is_security_driven": false,
@@ -17642,7 +17642,7 @@
         },
         "firefox-68.0.2esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-08-14",
             "description": null,
             "is_security_driven": false,
@@ -17759,7 +17759,7 @@
         },
         "firefox-68.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "major",
             "date": "2019-07-09",
             "description": null,
             "is_security_driven": false,
@@ -17768,7 +17768,7 @@
         },
         "firefox-68.1.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-09-03",
             "description": null,
             "is_security_driven": false,
@@ -17777,7 +17777,7 @@
         },
         "firefox-68.10.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-06-30",
             "description": null,
             "is_security_driven": false,
@@ -17786,7 +17786,7 @@
         },
         "firefox-68.2.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-10-22",
             "description": null,
             "is_security_driven": false,
@@ -17795,7 +17795,7 @@
         },
         "firefox-68.3.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-12-03",
             "description": null,
             "is_security_driven": false,
@@ -17804,7 +17804,7 @@
         },
         "firefox-68.4.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-01-07",
             "description": null,
             "is_security_driven": false,
@@ -17813,7 +17813,7 @@
         },
         "firefox-68.4.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-01-08",
             "description": null,
             "is_security_driven": false,
@@ -17822,7 +17822,7 @@
         },
         "firefox-68.4.2esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-01-20",
             "description": null,
             "is_security_driven": false,
@@ -17831,7 +17831,7 @@
         },
         "firefox-68.5.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-02-11",
             "description": null,
             "is_security_driven": false,
@@ -17840,7 +17840,7 @@
         },
         "firefox-68.6.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-03-10",
             "description": null,
             "is_security_driven": false,
@@ -17849,7 +17849,7 @@
         },
         "firefox-68.6.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-04-03",
             "description": null,
             "is_security_driven": false,
@@ -17858,7 +17858,7 @@
         },
         "firefox-68.7.0esr": {
             "build_number": 3,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-04-07",
             "description": null,
             "is_security_driven": false,
@@ -17867,7 +17867,7 @@
         },
         "firefox-68.8.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-05-05",
             "description": null,
             "is_security_driven": false,
@@ -17876,7 +17876,7 @@
         },
         "firefox-68.9.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-06-02",
             "description": null,
             "is_security_driven": false,
@@ -19064,7 +19064,7 @@
         },
         "firefox-78.0esr": {
             "build_number": 3,
-            "category": "major",
+            "category": "esr",
             "date": "2020-06-30",
             "description": null,
             "is_security_driven": false,
