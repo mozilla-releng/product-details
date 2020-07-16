@@ -22590,6 +22590,15 @@
             "product": "thunderbird",
             "version": "78.0b4"
         },
+        "thunderbird-79.0b1": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2020-07-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "79.0b1"
+        },
         "thunderbird-8.0": {
             "build_number": 1,
             "category": "major",
