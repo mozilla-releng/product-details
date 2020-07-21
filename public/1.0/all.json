@@ -22572,6 +22572,15 @@
             "product": "thunderbird",
             "version": "78.0"
         },
+        "thunderbird-78.0.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2020-07-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "78.0.1"
+        },
         "thunderbird-78.0b1": {
             "build_number": 4,
             "category": "dev",
@@ -22616,6 +22625,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "79.0b1"
+        },
+        "thunderbird-79.0b2": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2020-07-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "79.0b2"
         },
         "thunderbird-8.0": {
             "build_number": 1,
