@@ -1,0 +1,205 @@
+{
+    "locales": {
+        "af": {
+            "changeset": "46929b4dda4e"
+        },
+        "ar": {
+            "changeset": "cfebbd9caa42"
+        },
+        "ast": {
+            "changeset": "4b9b84b841d8"
+        },
+        "be": {
+            "changeset": "75a9991dd44b"
+        },
+        "bg": {
+            "changeset": "40ec922a5b42"
+        },
+        "br": {
+            "changeset": "0c30d3814b31"
+        },
+        "ca": {
+            "changeset": "16e634e10cd0"
+        },
+        "cak": {
+            "changeset": "ff60d0b1fbbf"
+        },
+        "cs": {
+            "changeset": "404c2d18a1d4"
+        },
+        "cy": {
+            "changeset": "afc314e6f66d"
+        },
+        "da": {
+            "changeset": "d1fa3214db95"
+        },
+        "de": {
+            "changeset": "fbd6068f8d4d"
+        },
+        "dsb": {
+            "changeset": "a19ab29df7be"
+        },
+        "el": {
+            "changeset": "7a2b6b199fed"
+        },
+        "en-CA": {
+            "changeset": "c02ca3852445"
+        },
+        "en-GB": {
+            "changeset": "52094e06e816"
+        },
+        "es-AR": {
+            "changeset": "8def61d10157"
+        },
+        "es-ES": {
+            "changeset": "08b6d10d0fdf"
+        },
+        "et": {
+            "changeset": "9a8f401b8ab9"
+        },
+        "eu": {
+            "changeset": "cb9d2a7eabf9"
+        },
+        "fa": {
+            "changeset": "5221d6e114c6"
+        },
+        "fi": {
+            "changeset": "37230d5f4e7e"
+        },
+        "fr": {
+            "changeset": "5699b562922d"
+        },
+        "fy-NL": {
+            "changeset": "4ee3a0120d5d"
+        },
+        "ga-IE": {
+            "changeset": "92dea9619fb2"
+        },
+        "gd": {
+            "changeset": "69f23fce9b8d"
+        },
+        "gl": {
+            "changeset": "d9388bdbfdea"
+        },
+        "he": {
+            "changeset": "db4b92df0a74"
+        },
+        "hr": {
+            "changeset": "9fb4905b1144"
+        },
+        "hsb": {
+            "changeset": "c4a273c4b935"
+        },
+        "hu": {
+            "changeset": "c6c178af92d1"
+        },
+        "hy-AM": {
+            "changeset": "f226c195b8cd"
+        },
+        "id": {
+            "changeset": "0f1b6321e7f8"
+        },
+        "is": {
+            "changeset": "548fd8229f57"
+        },
+        "it": {
+            "changeset": "c1b8b700b4ae"
+        },
+        "ja": {
+            "changeset": "7570b26ae33b"
+        },
+        "ja-JP-mac": {
+            "changeset": "48282cb8aa6e"
+        },
+        "ka": {
+            "changeset": "e3ea43d91d97"
+        },
+        "kab": {
+            "changeset": "51d655acba90"
+        },
+        "kk": {
+            "changeset": "1726c22d24ea"
+        },
+        "ko": {
+            "changeset": "8d66ebd7490c"
+        },
+        "lt": {
+            "changeset": "2afbd7a5935b"
+        },
+        "ms": {
+            "changeset": "897630575eb7"
+        },
+        "nb-NO": {
+            "changeset": "e1586ba6593b"
+        },
+        "nl": {
+            "changeset": "34112601382e"
+        },
+        "nn-NO": {
+            "changeset": "58e0c40dabed"
+        },
+        "pa-IN": {
+            "changeset": "2ffd010ce3be"
+        },
+        "pl": {
+            "changeset": "1f9bc7917204"
+        },
+        "pt-BR": {
+            "changeset": "b3b27745732c"
+        },
+        "pt-PT": {
+            "changeset": "954310883035"
+        },
+        "rm": {
+            "changeset": "3344e7ad5dc1"
+        },
+        "ro": {
+            "changeset": "26a369f62da5"
+        },
+        "ru": {
+            "changeset": "a52e977af95a"
+        },
+        "si": {
+            "changeset": "c020582a72ce"
+        },
+        "sk": {
+            "changeset": "4afc70dc2ca4"
+        },
+        "sl": {
+            "changeset": "dd4ea73f0ad1"
+        },
+        "sq": {
+            "changeset": "06c836b0e80e"
+        },
+        "sr": {
+            "changeset": "47d83b73f45b"
+        },
+        "sv-SE": {
+            "changeset": "2f1c44fc4f01"
+        },
+        "th": {
+            "changeset": "f56346cc6017"
+        },
+        "tr": {
+            "changeset": "34b41bcc4939"
+        },
+        "uk": {
+            "changeset": "fc5990b1a8e4"
+        },
+        "uz": {
+            "changeset": "9b500e1a054d"
+        },
+        "vi": {
+            "changeset": "032dc59c59ea"
+        },
+        "zh-CN": {
+            "changeset": "07bebbd3206a"
+        },
+        "zh-TW": {
+            "changeset": "92794d059986"
+        }
+    },
+    "name": "Thunderbird-79.0b3-build2",
+    "shippedAt": "2020-07-27T17:41:01.626215+00:00",
+    "submittedAt": "2020-07-26T21:39:04.308224+00:00"
+}
