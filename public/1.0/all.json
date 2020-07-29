@@ -22230,6 +22230,15 @@
             "product": "thunderbird",
             "version": "68.10.0"
         },
+        "thunderbird-68.11.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2020-07-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "68.11.0"
+        },
         "thunderbird-68.2.0": {
             "build_number": 1,
             "category": "stability",
