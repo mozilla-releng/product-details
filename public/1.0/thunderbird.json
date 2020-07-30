@@ -3213,6 +3213,15 @@
             "product": "thunderbird",
             "version": "78.0b4"
         },
+        "thunderbird-78.1.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2020-07-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "78.1.0"
+        },
         "thunderbird-79.0b1": {
             "build_number": 3,
             "category": "dev",
