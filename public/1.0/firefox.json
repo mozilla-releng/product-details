@@ -8948,7 +8948,7 @@
         },
         "firefox-68.0esr": {
             "build_number": 17,
-            "category": "esr",
+            "category": "major",
             "date": "2019-05-20",
             "description": null,
             "is_security_driven": false,
