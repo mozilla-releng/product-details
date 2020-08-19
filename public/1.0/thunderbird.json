@@ -3303,6 +3303,15 @@
             "product": "thunderbird",
             "version": "80.0b4"
         },
+        "thunderbird-80.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2020-08-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "80.0b5"
+        },
         "thunderbird-9.0": {
             "build_number": 1,
             "category": "major",
