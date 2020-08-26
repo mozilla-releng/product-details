@@ -19575,6 +19575,15 @@
             "product": "firefox",
             "version": "81.0b1"
         },
+        "firefox-81.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2020-08-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "81.0b2"
+        },
         "firefox-9.0": {
             "build_number": 1,
             "category": "major",
