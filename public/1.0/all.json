@@ -19512,6 +19512,15 @@
             "product": "firefox",
             "version": "80.0"
         },
+        "firefox-80.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2020-09-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "80.0.1"
+        },
         "firefox-80.0b1": {
             "build_number": 2,
             "category": "dev",
