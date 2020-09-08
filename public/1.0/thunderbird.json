@@ -3357,6 +3357,15 @@
             "product": "thunderbird",
             "version": "81.0b2"
         },
+        "thunderbird-81.0b3": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2020-09-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "81.0b3"
+        },
         "thunderbird-9.0": {
             "build_number": 1,
             "category": "major",
