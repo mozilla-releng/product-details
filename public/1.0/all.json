@@ -23166,6 +23166,15 @@
             "product": "thunderbird",
             "version": "81.0b3"
         },
+        "thunderbird-81.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2020-09-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "81.0b4"
+        },
         "thunderbird-9.0": {
             "build_number": 1,
             "category": "major",
