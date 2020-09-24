@@ -3267,6 +3267,15 @@
             "product": "thunderbird",
             "version": "78.2.2"
         },
+        "thunderbird-78.3.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2020-09-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "78.3.0"
+        },
         "thunderbird-79.0b1": {
             "build_number": 3,
             "category": "dev",
