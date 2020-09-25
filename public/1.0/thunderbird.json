@@ -3276,6 +3276,15 @@
             "product": "thunderbird",
             "version": "78.3.0"
         },
+        "thunderbird-78.3.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2020-09-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "78.3.1"
+        },
         "thunderbird-79.0b1": {
             "build_number": 3,
             "category": "dev",
@@ -3392,6 +3401,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "81.0b4"
+        },
+        "thunderbird-82.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2020-09-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "82.0b1"
         },
         "thunderbird-9.0": {
             "build_number": 1,
