@@ -3230,6 +3230,15 @@
             "is_security_driven": false,
             "product": "devedition",
             "version": "83.0b6"
+        },
+        "devedition-83.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2020-11-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "83.0b7"
         }
     }
 }
