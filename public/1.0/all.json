@@ -23553,6 +23553,15 @@
             "product": "thunderbird",
             "version": "78.4.1"
         },
+        "thunderbird-78.4.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2020-11-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "78.4.2"
+        },
         "thunderbird-79.0b1": {
             "build_number": 3,
             "category": "dev",
