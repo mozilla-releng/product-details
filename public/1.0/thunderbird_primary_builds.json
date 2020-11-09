@@ -1447,6 +1447,19 @@
             }
         }
     },
+    "lv": {
+        "84.0a1": {
+            "Linux": {
+                "filesize": 31.8
+            },
+            "OS X": {
+                "filesize": 50.8
+            },
+            "Windows": {
+                "filesize": 25.1
+            }
+        }
+    },
     "ms": {
         "78.4.1": {
             "Linux": {
