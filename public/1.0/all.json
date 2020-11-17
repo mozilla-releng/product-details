@@ -20070,6 +20070,15 @@
             "product": "firefox",
             "version": "82.0b9"
         },
+        "firefox-83.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2020-11-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "83.0"
+        },
         "firefox-83.0b1": {
             "build_number": 1,
             "category": "dev",
