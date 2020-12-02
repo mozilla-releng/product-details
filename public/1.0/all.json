@@ -23706,6 +23706,15 @@
             "product": "thunderbird",
             "version": "78.5.0"
         },
+        "thunderbird-78.5.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2020-12-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "78.5.1"
+        },
         "thunderbird-79.0b1": {
             "build_number": 3,
             "category": "dev",
