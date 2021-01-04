@@ -24102,6 +24102,15 @@
             "product": "thunderbird",
             "version": "85.0b2"
         },
+        "thunderbird-85.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-01-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "85.0b3"
+        },
         "thunderbird-9.0": {
             "build_number": 1,
             "category": "major",
