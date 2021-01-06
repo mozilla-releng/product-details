@@ -20448,6 +20448,15 @@
             "product": "firefox",
             "version": "85.0b4"
         },
+        "firefox-85.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-01-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "85.0b5"
+        },
         "firefox-9.0": {
             "build_number": 1,
             "category": "major",
