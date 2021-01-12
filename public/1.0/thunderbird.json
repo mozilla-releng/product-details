@@ -3366,6 +3366,15 @@
             "product": "thunderbird",
             "version": "78.6.0"
         },
+        "thunderbird-78.6.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2021-01-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "78.6.1"
+        },
         "thunderbird-79.0b1": {
             "build_number": 3,
             "category": "dev",
