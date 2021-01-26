@@ -19836,6 +19836,15 @@
             "product": "firefox",
             "version": "78.6.1"
         },
+        "firefox-78.7.0esr": {
+            "build_number": 2,
+            "category": "esr",
+            "date": "2021-01-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "78.7.0"
+        },
         "firefox-79.0": {
             "build_number": 1,
             "category": "major",
