@@ -20745,6 +20745,15 @@
             "product": "firefox",
             "version": "85.0b9"
         },
+        "firefox-86.0": {
+            "build_number": 3,
+            "category": "major",
+            "date": "2021-02-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "86.0"
+        },
         "firefox-86.0b1": {
             "build_number": 2,
             "category": "dev",
