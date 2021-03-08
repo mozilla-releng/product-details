@@ -11727,6 +11727,15 @@
             "product": "firefox",
             "version": "87.0b6"
         },
+        "firefox-87.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-03-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "87.0b7"
+        },
         "firefox-9.0": {
             "build_number": 1,
             "category": "major",
