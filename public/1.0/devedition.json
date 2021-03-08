@@ -3554,6 +3554,15 @@
             "is_security_driven": false,
             "product": "devedition",
             "version": "87.0b6"
+        },
+        "devedition-87.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-03-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "87.0b7"
         }
     }
 }
