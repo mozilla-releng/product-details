@@ -3681,6 +3681,15 @@
             "product": "thunderbird",
             "version": "87.0b2"
         },
+        "thunderbird-87.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-03-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "87.0b3"
+        },
         "thunderbird-9.0": {
             "build_number": 1,
             "category": "major",
