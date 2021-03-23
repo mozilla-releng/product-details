@@ -21033,6 +21033,15 @@
             "product": "firefox",
             "version": "87.0b9"
         },
+        "firefox-88.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-03-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "88.0b1"
+        },
         "firefox-9.0": {
             "build_number": 1,
             "category": "major",
