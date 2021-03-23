@@ -10800,6 +10800,15 @@
             "product": "firefox",
             "version": "78.8.0"
         },
+        "firefox-78.9.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2021-03-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "78.9.0"
+        },
         "firefox-79.0": {
             "build_number": 1,
             "category": "major",
