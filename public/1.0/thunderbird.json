@@ -3420,6 +3420,15 @@
             "product": "thunderbird",
             "version": "78.9.0"
         },
+        "thunderbird-78.9.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2021-04-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "78.9.1"
+        },
         "thunderbird-79.0b1": {
             "build_number": 3,
             "category": "dev",
