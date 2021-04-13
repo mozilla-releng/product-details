@@ -3753,6 +3753,15 @@
             "product": "fenix",
             "version": "86.1.1"
         },
+        "fenix-88.1.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2021-04-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "88.1.0"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
