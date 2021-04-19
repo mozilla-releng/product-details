@@ -20052,6 +20052,15 @@
             "product": "firefox",
             "version": "78.1.0"
         },
+        "firefox-78.10.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2021-04-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "78.10.0"
+        },
         "firefox-78.2.0esr": {
             "build_number": 1,
             "category": "esr",
