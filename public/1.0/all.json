@@ -25083,6 +25083,15 @@
             "product": "thunderbird",
             "version": "88.0b3"
         },
+        "thunderbird-89.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-04-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "89.0b1"
+        },
         "thunderbird-9.0": {
             "build_number": 1,
             "category": "major",
