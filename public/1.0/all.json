@@ -3699,6 +3699,15 @@
             "product": "devedition",
             "version": "89.0b4"
         },
+        "devedition-89.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-04-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "89.0b5"
+        },
         "fenix-84.1.0": {
             "build_number": 1,
             "category": "stability",
@@ -21312,6 +21321,15 @@
             "product": "firefox",
             "version": "89.0b4"
         },
+        "firefox-89.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-04-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "89.0b5"
+        },
         "firefox-9.0": {
             "build_number": 1,
             "category": "major",
@@ -25136,6 +25154,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "89.0b1"
+        },
+        "thunderbird-89.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-04-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "89.0b2"
         },
         "thunderbird-9.0": {
             "build_number": 1,
