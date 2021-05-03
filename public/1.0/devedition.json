@@ -3716,6 +3716,15 @@
             "is_security_driven": false,
             "product": "devedition",
             "version": "89.0b6"
+        },
+        "devedition-89.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-05-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "89.0b7"
         }
     }
 }
