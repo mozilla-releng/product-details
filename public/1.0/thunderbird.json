@@ -3258,6 +3258,15 @@
             "product": "thunderbird",
             "version": "78.10.1"
         },
+        "thunderbird-78.10.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2021-05-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "78.10.2"
+        },
         "thunderbird-78.2.0": {
             "build_number": 1,
             "category": "stability",
