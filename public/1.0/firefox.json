@@ -11952,6 +11952,15 @@
             "product": "firefox",
             "version": "89.0b14"
         },
+        "firefox-89.0b15": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-05-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "89.0b15"
+        },
         "firefox-89.0b2": {
             "build_number": 1,
             "category": "dev",
