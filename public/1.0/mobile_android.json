@@ -135,6 +135,15 @@
             "product": "fenix",
             "version": "88.1.4"
         },
+        "fenix-89.1.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2021-05-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "89.1.0"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
