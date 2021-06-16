@@ -3861,6 +3861,15 @@
             "product": "devedition",
             "version": "90.0b7"
         },
+        "devedition-90.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-06-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "90.0b8"
+        },
         "fenix-84.1.0": {
             "build_number": 1,
             "category": "stability",
