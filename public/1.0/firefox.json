@@ -12168,6 +12168,15 @@
             "product": "firefox",
             "version": "90.0b11"
         },
+        "firefox-90.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-06-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "90.0b12"
+        },
         "firefox-90.0b2": {
             "build_number": 1,
             "category": "dev",
