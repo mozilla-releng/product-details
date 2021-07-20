@@ -22014,6 +22014,15 @@
             "product": "firefox",
             "version": "91.0b4"
         },
+        "firefox-91.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-07-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "91.0b5"
+        },
         "thunderbird-1.0": {
             "build_number": 1,
             "category": "major",
