@@ -25883,6 +25883,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "91.0b1"
+        },
+        "thunderbird-91.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-07-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "91.0b2"
         }
     }
 }
