@@ -20288,7 +20288,7 @@
         },
         "firefox-78.0.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-07-01",
             "description": null,
             "is_security_driven": false,
@@ -20306,7 +20306,7 @@
         },
         "firefox-78.0.2esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-07-09",
             "description": null,
             "is_security_driven": false,
@@ -20396,7 +20396,7 @@
         },
         "firefox-78.0esr": {
             "build_number": 3,
-            "category": "esr",
+            "category": "major",
             "date": "2020-06-30",
             "description": null,
             "is_security_driven": false,
@@ -20405,7 +20405,7 @@
         },
         "firefox-78.1.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-07-28",
             "description": null,
             "is_security_driven": false,
@@ -20414,7 +20414,7 @@
         },
         "firefox-78.10.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-04-19",
             "description": null,
             "is_security_driven": false,
@@ -20423,7 +20423,7 @@
         },
         "firefox-78.10.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-05-04",
             "description": null,
             "is_security_driven": false,
@@ -20432,7 +20432,7 @@
         },
         "firefox-78.11.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-06-01",
             "description": null,
             "is_security_driven": false,
@@ -20441,7 +20441,7 @@
         },
         "firefox-78.12.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-07-13",
             "description": null,
             "is_security_driven": false,
@@ -20450,7 +20450,7 @@
         },
         "firefox-78.2.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-08-25",
             "description": null,
             "is_security_driven": false,
@@ -20459,7 +20459,7 @@
         },
         "firefox-78.3.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-09-22",
             "description": null,
             "is_security_driven": false,
@@ -20468,7 +20468,7 @@
         },
         "firefox-78.3.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-10-01",
             "description": null,
             "is_security_driven": false,
@@ -20477,7 +20477,7 @@
         },
         "firefox-78.4.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-10-20",
             "description": null,
             "is_security_driven": false,
@@ -20486,7 +20486,7 @@
         },
         "firefox-78.4.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-11-09",
             "description": null,
             "is_security_driven": false,
@@ -20495,7 +20495,7 @@
         },
         "firefox-78.5.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-11-17",
             "description": null,
             "is_security_driven": false,
@@ -20504,7 +20504,7 @@
         },
         "firefox-78.6.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2020-12-15",
             "description": null,
             "is_security_driven": false,
@@ -20513,7 +20513,7 @@
         },
         "firefox-78.6.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-01-06",
             "description": null,
             "is_security_driven": false,
@@ -20522,7 +20522,7 @@
         },
         "firefox-78.7.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-01-26",
             "description": null,
             "is_security_driven": false,
@@ -20531,7 +20531,7 @@
         },
         "firefox-78.7.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-02-05",
             "description": null,
             "is_security_driven": false,
@@ -20540,7 +20540,7 @@
         },
         "firefox-78.8.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-02-23",
             "description": null,
             "is_security_driven": false,
@@ -20549,7 +20549,7 @@
         },
         "firefox-78.9.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-03-23",
             "description": null,
             "is_security_driven": false,
@@ -21878,6 +21878,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "90.0.1"
+        },
+        "firefox-90.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2021-07-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "90.0.2"
         },
         "firefox-90.0b1": {
             "build_number": 2,
