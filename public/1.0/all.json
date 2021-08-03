@@ -26027,6 +26027,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "91.0b5"
+        },
+        "thunderbird-91.0b6": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2021-08-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "91.0b6"
         }
     }
 }
