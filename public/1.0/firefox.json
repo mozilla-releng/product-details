@@ -12285,6 +12285,15 @@
             "product": "firefox",
             "version": "90.0b9"
         },
+        "firefox-91.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2021-08-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "91.0"
+        },
         "firefox-91.0b1": {
             "build_number": 1,
             "category": "dev",
