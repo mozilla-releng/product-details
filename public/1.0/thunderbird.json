@@ -3870,6 +3870,15 @@
             "product": "thunderbird",
             "version": "90.0b3"
         },
+        "thunderbird-91.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2021-08-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "91.0"
+        },
         "thunderbird-91.0b1": {
             "build_number": 1,
             "category": "dev",
