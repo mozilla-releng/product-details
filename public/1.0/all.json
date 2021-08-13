@@ -22194,6 +22194,15 @@
             "product": "firefox",
             "version": "92.0b2"
         },
+        "firefox-92.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-08-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "92.0b3"
+        },
         "thunderbird-1.0": {
             "build_number": 1,
             "category": "major",
