@@ -4022,6 +4022,15 @@
             "is_security_driven": false,
             "product": "devedition",
             "version": "92.0b4"
+        },
+        "devedition-92.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-08-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "92.0b5"
         }
     }
 }
