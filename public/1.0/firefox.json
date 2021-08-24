@@ -12321,6 +12321,15 @@
             "product": "firefox",
             "version": "91.0.1"
         },
+        "firefox-91.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2021-08-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "91.0.2"
+        },
         "firefox-91.0b1": {
             "build_number": 1,
             "category": "dev",
