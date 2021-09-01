@@ -4302,6 +4302,15 @@
             "product": "fenix",
             "version": "91.4.0"
         },
+        "fenix-92.1.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2021-09-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "92.1.0"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
