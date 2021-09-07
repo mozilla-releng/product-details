@@ -22338,6 +22338,15 @@
             "product": "firefox",
             "version": "91.0"
         },
+        "firefox-92.0": {
+            "build_number": 3,
+            "category": "major",
+            "date": "2021-09-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "92.0"
+        },
         "firefox-92.0b1": {
             "build_number": 1,
             "category": "dev",
