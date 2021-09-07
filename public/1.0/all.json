@@ -22338,6 +22338,15 @@
             "product": "firefox",
             "version": "91.0"
         },
+        "firefox-91.1.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2021-09-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "91.1.0"
+        },
         "firefox-92.0": {
             "build_number": 3,
             "category": "major",
