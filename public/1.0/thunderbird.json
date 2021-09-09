@@ -4022,6 +4022,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "92.0b5"
+        },
+        "thunderbird-93.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2021-09-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "93.0b1"
         }
     }
 }
