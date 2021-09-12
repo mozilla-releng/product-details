@@ -12554,6 +12554,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "93.0b3"
+        },
+        "firefox-93.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-09-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "93.0b4"
         }
     }
 }
