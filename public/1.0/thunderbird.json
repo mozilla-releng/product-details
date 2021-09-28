@@ -4076,6 +4076,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "93.0b4"
+        },
+        "thunderbird-93.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-09-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "93.0b5"
         }
     }
 }
