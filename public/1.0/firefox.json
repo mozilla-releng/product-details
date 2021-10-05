@@ -12438,6 +12438,15 @@
             "product": "firefox",
             "version": "91.1.0"
         },
+        "firefox-91.2.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2021-10-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "91.2.0"
+        },
         "firefox-92.0": {
             "build_number": 3,
             "category": "major",
@@ -12536,6 +12545,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "92.0b9"
+        },
+        "firefox-93.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2021-10-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "93.0"
         },
         "firefox-93.0b1": {
             "build_number": 1,
