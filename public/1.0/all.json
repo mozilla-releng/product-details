@@ -26793,6 +26793,15 @@
             "product": "thunderbird",
             "version": "91.2.0"
         },
+        "thunderbird-91.2.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2021-10-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "91.2.1"
+        },
         "thunderbird-92.0b1": {
             "build_number": 1,
             "category": "dev",
