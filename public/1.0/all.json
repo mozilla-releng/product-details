@@ -4230,6 +4230,15 @@
             "product": "devedition",
             "version": "94.0b9"
         },
+        "devedition-95.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "95.0b1"
+        },
         "fenix-84.1.0": {
             "build_number": 1,
             "category": "stability",
