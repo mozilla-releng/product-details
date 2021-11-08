@@ -288,6 +288,15 @@
             "product": "fenix",
             "version": "94.1.1"
         },
+        "fenix-94.1.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2021-11-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "94.1.2"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
