@@ -27098,6 +27098,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "95.0b1"
+        },
+        "thunderbird-95.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "95.0b2"
         }
     }
 }
