@@ -12788,6 +12788,33 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "95.0b4"
+        },
+        "firefox-95.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "95.0b5"
+        },
+        "firefox-95.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "95.0b6"
+        },
+        "firefox-95.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "95.0b7"
         }
     }
 }

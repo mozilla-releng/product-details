@@ -4266,6 +4266,33 @@
             "product": "devedition",
             "version": "95.0b4"
         },
+        "devedition-95.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "95.0b5"
+        },
+        "devedition-95.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "95.0b6"
+        },
+        "devedition-95.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "95.0b7"
+        },
         "fenix-84.1.0": {
             "build_number": 1,
             "category": "stability",
@@ -22932,6 +22959,33 @@
             "product": "firefox",
             "version": "95.0b4"
         },
+        "firefox-95.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "95.0b5"
+        },
+        "firefox-95.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "95.0b6"
+        },
+        "firefox-95.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "95.0b7"
+        },
         "thunderbird-1.0": {
             "build_number": 1,
             "category": "major",
@@ -26955,6 +27009,15 @@
             "product": "thunderbird",
             "version": "91.3.0"
         },
+        "thunderbird-91.3.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2021-11-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "91.3.1"
+        },
         "thunderbird-92.0b1": {
             "build_number": 1,
             "category": "dev",
@@ -27107,6 +27170,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "95.0b2"
+        },
+        "thunderbird-95.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-11-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "95.0b3"
         }
     }
 }
