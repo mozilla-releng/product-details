@@ -4041,6 +4041,15 @@
             "product": "thunderbird",
             "version": "91.3.2"
         },
+        "thunderbird-91.4.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2021-12-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "91.4.0"
+        },
         "thunderbird-92.0b1": {
             "build_number": 1,
             "category": "dev",
