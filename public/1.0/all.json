@@ -23121,6 +23121,15 @@
             "product": "firefox",
             "version": "95.0b9"
         },
+        "firefox-96.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-12-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "96.0b1"
+        },
         "thunderbird-1.0": {
             "build_number": 1,
             "category": "major",
