@@ -4373,6 +4373,15 @@
             "is_security_driven": false,
             "product": "devedition",
             "version": "96.0b4"
+        },
+        "devedition-96.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-12-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "96.0b5"
         }
     }
 }
