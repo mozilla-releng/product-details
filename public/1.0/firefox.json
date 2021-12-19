@@ -12968,6 +12968,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "96.0b6"
+        },
+        "firefox-96.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-12-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "96.0b7"
         }
     }
 }
