@@ -23247,6 +23247,15 @@
             "product": "firefox",
             "version": "96.0b1"
         },
+        "firefox-96.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2021-12-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "96.0b10"
+        },
         "firefox-96.0b2": {
             "build_number": 1,
             "category": "dev",
