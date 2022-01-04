@@ -4265,6 +4265,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "96.0b3"
+        },
+        "thunderbird-96.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-01-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "96.0b4"
         }
     }
 }
