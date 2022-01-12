@@ -4283,6 +4283,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "96.0b4"
+        },
+        "thunderbird-97.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2022-01-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "97.0b1"
         }
     }
 }
