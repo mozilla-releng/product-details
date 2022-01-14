@@ -12933,6 +12933,15 @@
             "product": "firefox",
             "version": "96.0"
         },
+        "firefox-96.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-01-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "96.0.1"
+        },
         "firefox-96.0b1": {
             "build_number": 1,
             "category": "dev",
