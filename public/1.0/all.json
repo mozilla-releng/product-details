@@ -4455,6 +4455,15 @@
             "product": "devedition",
             "version": "97.0b3"
         },
+        "devedition-97.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-01-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "97.0b4"
+        },
         "fenix-84.1.0": {
             "build_number": 1,
             "category": "stability",
