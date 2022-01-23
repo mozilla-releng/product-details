@@ -13094,6 +13094,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "97.0b6"
+        },
+        "firefox-97.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-01-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "97.0b7"
         }
     }
 }
