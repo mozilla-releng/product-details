@@ -4068,6 +4068,15 @@
             "product": "thunderbird",
             "version": "91.5.0"
         },
+        "thunderbird-91.5.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-01-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "91.5.1"
+        },
         "thunderbird-92.0b1": {
             "build_number": 1,
             "category": "dev",
