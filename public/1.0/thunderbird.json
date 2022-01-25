@@ -4310,6 +4310,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "97.0b2"
+        },
+        "thunderbird-97.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-01-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "97.0b3"
         }
     }
 }
