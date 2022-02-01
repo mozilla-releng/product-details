@@ -1469,6 +1469,19 @@
             }
         }
     },
+    "mk": {
+        "98.0a1": {
+            "Linux": {
+                "filesize": 31.8
+            },
+            "OS X": {
+                "filesize": 50.8
+            },
+            "Windows": {
+                "filesize": 25.1
+            }
+        }
+    },
     "ms": {
         "91.5.1": {
             "Linux": {
