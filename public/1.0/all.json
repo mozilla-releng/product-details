@@ -4878,6 +4878,15 @@
             "product": "fenix",
             "version": "97.1.0"
         },
+        "fenix-97.1.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-02-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "97.1.1"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
