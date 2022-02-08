@@ -23526,6 +23526,15 @@
             "product": "firefox",
             "version": "96.0b9"
         },
+        "firefox-97.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2022-02-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "97.0"
+        },
         "firefox-97.0b1": {
             "build_number": 1,
             "category": "dev",
