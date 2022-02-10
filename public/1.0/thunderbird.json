@@ -4328,6 +4328,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "97.0b3"
+        },
+        "thunderbird-98.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-02-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "98.0b1"
         }
     }
 }
