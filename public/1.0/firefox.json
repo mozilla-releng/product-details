@@ -13175,6 +13175,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "98.0b2"
+        },
+        "firefox-98.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-02-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "98.0b3"
         }
     }
 }
