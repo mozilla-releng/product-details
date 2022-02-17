@@ -4086,6 +4086,15 @@
             "product": "thunderbird",
             "version": "91.6.0"
         },
+        "thunderbird-91.6.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-02-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "91.6.1"
+        },
         "thunderbird-92.0b1": {
             "build_number": 1,
             "category": "dev",
@@ -4337,6 +4346,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "98.0b1"
+        },
+        "thunderbird-98.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-02-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "98.0b2"
         }
     }
 }

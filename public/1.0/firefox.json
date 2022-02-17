@@ -13077,6 +13077,15 @@
             "product": "firefox",
             "version": "97.0"
         },
+        "firefox-97.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-02-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "97.0.1"
+        },
         "firefox-97.0b1": {
             "build_number": 1,
             "category": "dev",
@@ -13193,6 +13202,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "98.0b4"
+        },
+        "firefox-98.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-02-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "98.0b5"
         }
     }
 }

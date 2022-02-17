@@ -4545,6 +4545,15 @@
             "product": "devedition",
             "version": "98.0b4"
         },
+        "devedition-98.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-02-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "98.0b5"
+        },
         "fenix-84.1.0": {
             "build_number": 1,
             "category": "stability",
@@ -4922,6 +4931,15 @@
             "is_security_driven": false,
             "product": "fenix",
             "version": "97.1.1"
+        },
+        "fenix-97.2.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-02-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "97.2.0"
         },
         "fennec-1.0": {
             "build_number": 1,
@@ -23580,6 +23598,15 @@
             "product": "firefox",
             "version": "97.0"
         },
+        "firefox-97.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-02-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "97.0.1"
+        },
         "firefox-97.0b1": {
             "build_number": 1,
             "category": "dev",
@@ -23696,6 +23723,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "98.0b4"
+        },
+        "firefox-98.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-02-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "98.0b5"
         },
         "thunderbird-1.0": {
             "build_number": 1,
@@ -27783,6 +27819,15 @@
             "product": "thunderbird",
             "version": "91.6.0"
         },
+        "thunderbird-91.6.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-02-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "91.6.1"
+        },
         "thunderbird-92.0b1": {
             "build_number": 1,
             "category": "dev",
@@ -28034,6 +28079,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "98.0b1"
+        },
+        "thunderbird-98.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-02-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "98.0b2"
         }
     }
 }
