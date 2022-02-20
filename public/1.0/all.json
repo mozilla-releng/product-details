@@ -23760,6 +23760,15 @@
             "product": "firefox",
             "version": "98.0b6"
         },
+        "firefox-98.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-02-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "98.0b7"
+        },
         "thunderbird-1.0": {
             "build_number": 1,
             "category": "major",
