@@ -4355,6 +4355,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "98.0b2"
+        },
+        "thunderbird-98.0b3": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2022-03-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "98.0b3"
         }
     }
 }
