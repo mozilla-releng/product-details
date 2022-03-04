@@ -4986,6 +4986,15 @@
             "product": "fenix",
             "version": "97.2.0"
         },
+        "fenix-97.3.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-03-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "97.3.0"
+        },
         "fenix-98.1.0": {
             "build_number": 1,
             "category": "stability",
