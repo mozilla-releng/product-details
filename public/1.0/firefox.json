@@ -13086,6 +13086,15 @@
             "product": "firefox",
             "version": "97.0.1"
         },
+        "firefox-97.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-03-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "97.0.2"
+        },
         "firefox-97.0b1": {
             "build_number": 1,
             "category": "dev",
