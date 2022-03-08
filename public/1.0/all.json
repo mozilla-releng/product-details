@@ -23886,6 +23886,15 @@
             "product": "firefox",
             "version": "98.0b9"
         },
+        "firefox-99.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-03-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "99.0b1"
+        },
         "thunderbird-1.0": {
             "build_number": 1,
             "category": "major",
