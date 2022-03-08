@@ -4598,6 +4598,15 @@
             "is_security_driven": false,
             "product": "devedition",
             "version": "98.0b9"
+        },
+        "devedition-99.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-03-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "99.0b1"
         }
     }
 }
