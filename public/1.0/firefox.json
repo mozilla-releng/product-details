@@ -13301,6 +13301,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "99.0b2"
+        },
+        "firefox-99.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-03-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "99.0b3"
         }
     }
 }
