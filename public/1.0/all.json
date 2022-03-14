@@ -23832,6 +23832,15 @@
             "product": "firefox",
             "version": "98.0"
         },
+        "firefox-98.0.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2022-03-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "98.0.1"
+        },
         "firefox-98.0b1": {
             "build_number": 1,
             "category": "dev",
