@@ -423,6 +423,15 @@
             "product": "fenix",
             "version": "98.2.0"
         },
+        "fenix-98.3.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-03-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "98.3.0"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
