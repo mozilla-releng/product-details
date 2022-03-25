@@ -13373,6 +13373,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "99.0b7"
+        },
+        "firefox-99.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-03-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "99.0b8"
         }
     }
 }
