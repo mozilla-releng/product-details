@@ -11133,6 +11133,15 @@
             "product": "firefox",
             "version": "10.0b6"
         },
+        "firefox-100.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-04-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "100.0b1"
+        },
         "firefox-11.0": {
             "build_number": 1,
             "category": "major",
