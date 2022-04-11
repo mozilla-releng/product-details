@@ -24399,6 +24399,15 @@
             "product": "thunderbird",
             "version": "100.0b1"
         },
+        "thunderbird-100.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-04-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "100.0b2"
+        },
         "thunderbird-11.0": {
             "build_number": 1,
             "category": "major",
