@@ -12494,7 +12494,7 @@
         },
         "firefox-91.0.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-08-17",
             "description": null,
             "is_security_driven": false,
@@ -12593,7 +12593,7 @@
         },
         "firefox-91.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "major",
             "date": "2021-08-10",
             "description": null,
             "is_security_driven": false,
@@ -12602,7 +12602,7 @@
         },
         "firefox-91.1.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-09-07",
             "description": null,
             "is_security_driven": false,
@@ -12611,7 +12611,7 @@
         },
         "firefox-91.2.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-10-05",
             "description": null,
             "is_security_driven": false,
@@ -12620,7 +12620,7 @@
         },
         "firefox-91.3.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-11-02",
             "description": null,
             "is_security_driven": false,
@@ -12629,7 +12629,7 @@
         },
         "firefox-91.4.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-12-07",
             "description": null,
             "is_security_driven": false,
@@ -12638,7 +12638,7 @@
         },
         "firefox-91.4.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2021-12-16",
             "description": null,
             "is_security_driven": false,
@@ -12647,7 +12647,7 @@
         },
         "firefox-91.5.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-01-11",
             "description": null,
             "is_security_driven": false,
@@ -12656,7 +12656,7 @@
         },
         "firefox-91.5.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-01-27",
             "description": null,
             "is_security_driven": false,
@@ -12665,7 +12665,7 @@
         },
         "firefox-91.6.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-02-08",
             "description": null,
             "is_security_driven": false,
@@ -12674,7 +12674,7 @@
         },
         "firefox-91.6.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-03-05",
             "description": null,
             "is_security_driven": false,
@@ -12683,7 +12683,7 @@
         },
         "firefox-91.7.0esr": {
             "build_number": 3,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-03-08",
             "description": null,
             "is_security_driven": false,
@@ -12692,7 +12692,7 @@
         },
         "firefox-91.7.1esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-03-14",
             "description": null,
             "is_security_driven": false,
@@ -12701,7 +12701,7 @@
         },
         "firefox-91.8.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-04-05",
             "description": null,
             "is_security_driven": false,
@@ -12710,7 +12710,7 @@
         },
         "firefox-91.9.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-05-03",
             "description": null,
             "is_security_driven": false,
