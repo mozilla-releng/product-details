@@ -288,6 +288,15 @@
             "product": "thunderbird",
             "version": "101.0b4"
         },
+        "thunderbird-102.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-06-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "102.0b1"
+        },
         "thunderbird-11.0": {
             "build_number": 1,
             "category": "major",
