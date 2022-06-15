@@ -333,6 +333,15 @@
             "product": "thunderbird",
             "version": "102.0b5"
         },
+        "thunderbird-102.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-06-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "102.0b6"
+        },
         "thunderbird-11.0": {
             "build_number": 1,
             "category": "major",
