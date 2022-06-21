@@ -25128,6 +25128,15 @@
             "product": "thunderbird",
             "version": "102.0b7"
         },
+        "thunderbird-102.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-06-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "102.0b8"
+        },
         "thunderbird-11.0": {
             "build_number": 1,
             "category": "major",
