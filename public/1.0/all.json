@@ -23796,6 +23796,15 @@
             "product": "firefox",
             "version": "91.10.0"
         },
+        "firefox-91.11.0esr": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2022-06-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "91.11.0"
+        },
         "firefox-91.2.0esr": {
             "build_number": 1,
             "category": "stability",
