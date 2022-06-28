@@ -720,6 +720,15 @@
             "product": "firefox",
             "version": "102.0b9"
         },
+        "firefox-102.0esr": {
+            "build_number": 2,
+            "category": "esr",
+            "date": "2022-06-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "102.0"
+        },
         "firefox-11.0": {
             "build_number": 1,
             "category": "major",
