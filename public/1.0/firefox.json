@@ -648,6 +648,15 @@
             "product": "firefox",
             "version": "102.0.1"
         },
+        "firefox-102.0.1esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2022-07-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "102.0.1"
+        },
         "firefox-102.0b1": {
             "build_number": 1,
             "category": "dev",
