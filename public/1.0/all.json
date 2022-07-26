@@ -12024,6 +12024,15 @@
             "product": "firefox",
             "version": "103.0b9"
         },
+        "firefox-104.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-07-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "104.0b1"
+        },
         "firefox-11.0": {
             "build_number": 1,
             "category": "major",
