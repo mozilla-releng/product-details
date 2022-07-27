@@ -855,6 +855,15 @@
             "product": "firefox",
             "version": "104.0b1"
         },
+        "firefox-104.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-07-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "104.0b2"
+        },
         "firefox-11.0": {
             "build_number": 1,
             "category": "major",
