@@ -144,6 +144,15 @@
             "product": "fenix",
             "version": "104.0b2"
         },
+        "fenix-104.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-08-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "104.0b3"
+        },
         "fenix-84.1.0": {
             "build_number": 1,
             "category": "stability",
