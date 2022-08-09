@@ -12051,6 +12051,15 @@
             "product": "firefox",
             "version": "103.0.1"
         },
+        "firefox-103.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-08-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "103.0.2"
+        },
         "firefox-103.0b1": {
             "build_number": 1,
             "category": "dev",
