@@ -5283,6 +5283,15 @@
             "product": "fenix",
             "version": "104.0b7"
         },
+        "fenix-104.1.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2022-08-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "104.1.0"
+        },
         "fenix-84.1.0": {
             "build_number": 1,
             "category": "stability",
