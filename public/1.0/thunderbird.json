@@ -441,6 +441,15 @@
             "product": "thunderbird",
             "version": "102.2.1"
         },
+        "thunderbird-102.2.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-09-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "102.2.2"
+        },
         "thunderbird-103.0b1": {
             "build_number": 1,
             "category": "dev",
