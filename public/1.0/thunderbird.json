@@ -4392,6 +4392,15 @@
             "product": "thunderbird",
             "version": "91.13.0"
         },
+        "thunderbird-91.13.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-09-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "91.13.1"
+        },
         "thunderbird-91.2.0": {
             "build_number": 1,
             "category": "stability",
