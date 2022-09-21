@@ -26235,6 +26235,15 @@
             "product": "thunderbird",
             "version": "105.0b4"
         },
+        "thunderbird-106.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-09-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "106.0b1"
+        },
         "thunderbird-11.0": {
             "build_number": 1,
             "category": "major",
