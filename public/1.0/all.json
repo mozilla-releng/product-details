@@ -5508,6 +5508,15 @@
             "product": "fenix",
             "version": "105.1.0"
         },
+        "fenix-105.2.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-10-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "105.2.0"
+        },
         "fenix-106.0b1": {
             "build_number": 1,
             "category": "dev",
