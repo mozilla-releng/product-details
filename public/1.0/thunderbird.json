@@ -639,6 +639,15 @@
             "product": "thunderbird",
             "version": "106.0b4"
         },
+        "thunderbird-106.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-10-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "106.0b5"
+        },
         "thunderbird-11.0": {
             "build_number": 1,
             "category": "major",
