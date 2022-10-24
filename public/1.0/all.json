@@ -5643,6 +5643,15 @@
             "product": "fenix",
             "version": "107.0b2"
         },
+        "fenix-107.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-10-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "107.0b3"
+        },
         "fenix-84.1.0": {
             "build_number": 1,
             "category": "stability",
