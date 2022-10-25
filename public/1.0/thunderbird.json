@@ -675,6 +675,15 @@
             "product": "thunderbird",
             "version": "107.0b1"
         },
+        "thunderbird-107.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-10-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "107.0b2"
+        },
         "thunderbird-11.0": {
             "build_number": 1,
             "category": "major",
