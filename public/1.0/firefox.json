@@ -1161,6 +1161,15 @@
             "product": "firefox",
             "version": "106.0.4"
         },
+        "firefox-106.0.5": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-11-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "106.0.5"
+        },
         "firefox-106.0b1": {
             "build_number": 1,
             "category": "dev",
