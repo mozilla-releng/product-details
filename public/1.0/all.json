@@ -5715,6 +5715,15 @@
             "product": "fenix",
             "version": "107.0b5"
         },
+        "fenix-107.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-11-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "107.0b6"
+        },
         "fenix-84.1.0": {
             "build_number": 1,
             "category": "stability",
