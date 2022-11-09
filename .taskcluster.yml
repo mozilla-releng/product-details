@@ -5,7 +5,7 @@ tasks:
   $match:
     'tasks_for == "github-push" && event.ref == "refs/heads/testing"':
       provisionerId: releng-t
-      workerType: linux
+      workerType: linux-gcp
       scopes:
         - secrets:get:repo:github.com/mozilla-releng/product-details:branch:testing
       extra:
