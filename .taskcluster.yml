@@ -8,7 +8,7 @@ tasks:
       created: {$fromNow: ''}
       deadline: {$fromNow: '1 hour'}
       provisionerId: releng-t
-      workerType: linux
+      workerType: linux-gcp
       scopes:
         - secrets:get:repo:github.com/mozilla-releng/product-details:branch:testing
       payload:
@@ -37,7 +37,7 @@ tasks:
       created: {$fromNow: ''}
       deadline: {$fromNow: '1 hour'}
       provisionerId: releng-3
-      workerType: linux
+      workerType: linux-gcp
       scopes:
         - secrets:get:repo:github.com/mozilla-releng/product-details:branch:staging
       payload:
@@ -66,7 +66,7 @@ tasks:
       created: {$fromNow: ''}
       deadline: {$fromNow: '1 hour'}
       provisionerId: releng-3
-      workerType: linux
+      workerType: linux-gcp
       scopes:
         - secrets:get:repo:github.com/mozilla-releng/product-details:branch:production
       payload:
