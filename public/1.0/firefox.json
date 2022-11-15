@@ -783,6 +783,15 @@
             "product": "firefox",
             "version": "102.4.0"
         },
+        "firefox-102.5.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2022-11-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "102.5.0"
+        },
         "firefox-103.0": {
             "build_number": 1,
             "category": "major",
