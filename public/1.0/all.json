@@ -26892,6 +26892,15 @@
             "product": "thunderbird",
             "version": "102.5.0"
         },
+        "thunderbird-102.5.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-11-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "102.5.1"
+        },
         "thunderbird-103.0b1": {
             "build_number": 1,
             "category": "dev",
