@@ -756,6 +756,15 @@
             "product": "thunderbird",
             "version": "108.0b2"
         },
+        "thunderbird-108.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-12-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "108.0b3"
+        },
         "thunderbird-11.0": {
             "build_number": 1,
             "category": "major",
