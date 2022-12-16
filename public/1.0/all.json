@@ -756,6 +756,15 @@
             "product": "devedition",
             "version": "109.0b2"
         },
+        "devedition-109.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-12-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "109.0b3"
+        },
         "devedition-54.0b11": {
             "build_number": 4,
             "category": "dev",
@@ -5903,6 +5912,15 @@
             "is_security_driven": false,
             "product": "fenix",
             "version": "108.1.0"
+        },
+        "fenix-109.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-12-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "109.0b1"
         },
         "fenix-84.1.0": {
             "build_number": 1,
@@ -13320,6 +13338,15 @@
             "product": "firefox",
             "version": "108.0"
         },
+        "firefox-108.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2022-12-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "108.0.1"
+        },
         "firefox-108.0b1": {
             "build_number": 1,
             "category": "dev",
@@ -13418,6 +13445,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "109.0b2"
+        },
+        "firefox-109.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-12-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "109.0b3"
         },
         "firefox-11.0": {
             "build_number": 1,
@@ -27233,6 +27269,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "108.0b3"
+        },
+        "thunderbird-109.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-12-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "109.0b1"
         },
         "thunderbird-11.0": {
             "build_number": 1,
