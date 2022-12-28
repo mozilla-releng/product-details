@@ -13536,6 +13536,15 @@
             "product": "firefox",
             "version": "109.0b6"
         },
+        "firefox-109.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-12-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "109.0b7"
+        },
         "firefox-11.0": {
             "build_number": 1,
             "category": "major",
