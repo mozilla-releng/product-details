@@ -6039,6 +6039,15 @@
             "product": "fenix",
             "version": "109.0b6"
         },
+        "fenix-109.1.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-01-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "109.1.1"
+        },
         "fenix-84.1.0": {
             "build_number": 1,
             "category": "stability",
