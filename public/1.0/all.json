@@ -27306,6 +27306,15 @@
             "product": "thunderbird",
             "version": "102.6.1"
         },
+        "thunderbird-102.7.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-01-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "102.7.0"
+        },
         "thunderbird-103.0b1": {
             "build_number": 1,
             "category": "dev",
