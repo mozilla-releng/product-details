@@ -567,6 +567,15 @@
             "product": "thunderbird",
             "version": "102.7.1"
         },
+        "thunderbird-102.7.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-02-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "102.7.2"
+        },
         "thunderbird-103.0b1": {
             "build_number": 1,
             "category": "dev",
