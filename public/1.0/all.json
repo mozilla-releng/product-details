@@ -27828,6 +27828,15 @@
             "product": "thunderbird",
             "version": "110.0b3"
         },
+        "thunderbird-110.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-02-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "110.0b4"
+        },
         "thunderbird-12.0": {
             "build_number": 1,
             "category": "major",
