@@ -6138,6 +6138,15 @@
             "product": "fenix",
             "version": "109.2.0"
         },
+        "fenix-110.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-02-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "110.0.1"
+        },
         "fenix-110.0b1": {
             "build_number": 1,
             "category": "dev",
