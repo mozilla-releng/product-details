@@ -909,6 +909,15 @@
             "product": "thunderbird",
             "version": "110.0b4"
         },
+        "thunderbird-111.0b1": {
+            "build_number": 4,
+            "category": "dev",
+            "date": "2023-02-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "111.0b1"
+        },
         "thunderbird-12.0": {
             "build_number": 1,
             "category": "major",
