@@ -1791,6 +1791,15 @@
             "product": "firefox",
             "version": "111.0"
         },
+        "firefox-111.0.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2023-03-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "111.0.1"
+        },
         "firefox-111.0b1": {
             "build_number": 1,
             "category": "dev",
