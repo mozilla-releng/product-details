@@ -27765,6 +27765,15 @@
             "product": "thunderbird",
             "version": "102.1.2"
         },
+        "thunderbird-102.10.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2023-04-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "102.10.0"
+        },
         "thunderbird-102.2.0": {
             "build_number": 3,
             "category": "stability",
