@@ -1989,6 +1989,15 @@
             "product": "firefox",
             "version": "113.0b2"
         },
+        "firefox-113.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-04-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "113.0b3"
+        },
         "firefox-12.0": {
             "build_number": 1,
             "category": "major",
