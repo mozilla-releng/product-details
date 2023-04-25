@@ -1062,6 +1062,15 @@
             "product": "thunderbird",
             "version": "113.0b3"
         },
+        "thunderbird-113.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-04-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "113.0b4"
+        },
         "thunderbird-12.0": {
             "build_number": 1,
             "category": "major",
