@@ -1,5 +1,14 @@
 {
     "releases": {
+        "fenix-104.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2022-07-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "104.0b1"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
@@ -4904,6 +4913,33 @@
             "is_security_driven": false,
             "product": "fennec",
             "version": "9.0b6"
+        },
+        "firefox-android-109.0b1": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2022-12-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "109.0b1"
+        },
+        "firefox-android-110.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2022-12-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "110.0b2"
+        },
+        "firefox-android-111.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2023-02-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "111.0b1"
         }
     }
 }

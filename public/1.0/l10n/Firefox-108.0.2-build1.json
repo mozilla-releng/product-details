@@ -1,0 +1,25 @@
+{
+    "locales": {
+        "ar": {
+            "changeset": "default"
+        },
+        "en-CA": {
+            "changeset": "default"
+        },
+        "he": {
+            "changeset": "default"
+        },
+        "it": {
+            "changeset": "default"
+        },
+        "ja": {
+            "changeset": "default"
+        },
+        "ja-JP-mac": {
+            "changeset": "default"
+        }
+    },
+    "name": "Firefox-108.0.2-build1",
+    "shippedAt": "2023-01-10T13:15:20.324947+00:00",
+    "submittedAt": "2023-01-10T09:02:03.545953+00:00"
+}

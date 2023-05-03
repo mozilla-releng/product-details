@@ -1,0 +1,25 @@
+{
+    "locales": {
+        "ar": {
+            "changeset": "default"
+        },
+        "en-CA": {
+            "changeset": "default"
+        },
+        "he": {
+            "changeset": "default"
+        },
+        "it": {
+            "changeset": "default"
+        },
+        "ja": {
+            "changeset": "default"
+        },
+        "ja-JP-mac": {
+            "changeset": "default"
+        }
+    },
+    "name": "Firefox-102.8.0esr-build1",
+    "shippedAt": "2023-02-02T13:37:11.950032+00:00",
+    "submittedAt": "2023-02-02T09:39:57.525826+00:00"
+}

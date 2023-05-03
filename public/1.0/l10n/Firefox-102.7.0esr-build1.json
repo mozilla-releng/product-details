@@ -1,0 +1,25 @@
+{
+    "locales": {
+        "ar": {
+            "changeset": "default"
+        },
+        "en-CA": {
+            "changeset": "default"
+        },
+        "he": {
+            "changeset": "default"
+        },
+        "it": {
+            "changeset": "default"
+        },
+        "ja": {
+            "changeset": "default"
+        },
+        "ja-JP-mac": {
+            "changeset": "default"
+        }
+    },
+    "name": "Firefox-102.7.0esr-build1",
+    "shippedAt": "2023-02-02T09:15:45.261495+00:00",
+    "submittedAt": "2023-02-01T15:37:46.786407+00:00"
+}

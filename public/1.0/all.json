@@ -1539,6 +1539,15 @@
             "product": "devedition",
             "version": "74.0b4"
         },
+        "fenix-104.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2022-07-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fenix",
+            "version": "104.0b1"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
@@ -6866,6 +6875,33 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "10.0b6"
+        },
+        "firefox-102.7.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2023-02-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "102.7.0"
+        },
+        "firefox-102.8.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2023-02-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "102.8.0"
+        },
+        "firefox-108.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-01-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "108.0.2"
         },
         "firefox-11.0": {
             "build_number": 1,
@@ -15749,6 +15785,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "9.0b6"
+        },
+        "firefox-998.0b1": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2022-10-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "998.0b1"
         },
         "thunderbird-1.0": {
             "build_number": 1,
