@@ -7208,6 +7208,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "114.0b8"
+        },
+        "firefox-android-114.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-05-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "114.0b9"
         }
     }
 }
