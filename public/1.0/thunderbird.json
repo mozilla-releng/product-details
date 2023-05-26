@@ -459,6 +459,15 @@
             "product": "thunderbird",
             "version": "102.11.1"
         },
+        "thunderbird-102.11.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-05-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "102.11.2"
+        },
         "thunderbird-102.2.0": {
             "build_number": 3,
             "category": "stability",
