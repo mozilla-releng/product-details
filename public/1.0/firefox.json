@@ -2205,6 +2205,15 @@
             "product": "firefox",
             "version": "114.0b9"
         },
+        "firefox-115.0b1": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2023-06-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "115.0b1"
+        },
         "firefox-12.0": {
             "build_number": 1,
             "category": "major",
