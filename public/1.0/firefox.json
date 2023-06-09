@@ -2124,6 +2124,15 @@
             "product": "firefox",
             "version": "114.0"
         },
+        "firefox-114.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-06-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "114.0.1"
+        },
         "firefox-114.0b1": {
             "build_number": 1,
             "category": "dev",
