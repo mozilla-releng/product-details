@@ -13286,7 +13286,7 @@
         },
         "firefox-102.0.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-07-13",
             "description": null,
             "is_security_driven": false,
@@ -13376,7 +13376,7 @@
         },
         "firefox-102.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "major",
             "date": "2022-06-28",
             "description": null,
             "is_security_driven": false,
@@ -13385,7 +13385,7 @@
         },
         "firefox-102.1.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-07-26",
             "description": null,
             "is_security_driven": false,
@@ -13394,7 +13394,7 @@
         },
         "firefox-102.10.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-04-11",
             "description": null,
             "is_security_driven": false,
@@ -13403,7 +13403,7 @@
         },
         "firefox-102.11.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-05-09",
             "description": null,
             "is_security_driven": false,
@@ -13412,7 +13412,7 @@
         },
         "firefox-102.12.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-06-06",
             "description": null,
             "is_security_driven": false,
@@ -13421,7 +13421,7 @@
         },
         "firefox-102.2.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-08-23",
             "description": null,
             "is_security_driven": false,
@@ -13430,7 +13430,7 @@
         },
         "firefox-102.3.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-09-20",
             "description": null,
             "is_security_driven": false,
@@ -13439,7 +13439,7 @@
         },
         "firefox-102.4.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-10-18",
             "description": null,
             "is_security_driven": false,
@@ -13448,7 +13448,7 @@
         },
         "firefox-102.5.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-11-15",
             "description": null,
             "is_security_driven": false,
@@ -13457,7 +13457,7 @@
         },
         "firefox-102.6.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2022-12-13",
             "description": null,
             "is_security_driven": false,
@@ -13466,7 +13466,7 @@
         },
         "firefox-102.7.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-01-17",
             "description": null,
             "is_security_driven": false,
@@ -13475,7 +13475,7 @@
         },
         "firefox-102.8.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-02-14",
             "description": null,
             "is_security_driven": false,
@@ -13484,7 +13484,7 @@
         },
         "firefox-102.9.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-03-14",
             "description": null,
             "is_security_driven": false,
@@ -29114,6 +29114,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "115.0b4"
+        },
+        "thunderbird-115.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-06-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "115.0b5"
         },
         "thunderbird-12.0": {
             "build_number": 1,
