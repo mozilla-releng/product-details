@@ -4940,6 +4940,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "111.0b1"
+        },
+        "firefox-android-117.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-07-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "117.0.1"
         }
     }
 }
