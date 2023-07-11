@@ -29250,6 +29250,15 @@
             "product": "thunderbird",
             "version": "116.0b1"
         },
+        "thunderbird-116.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-07-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "116.0b2"
+        },
         "thunderbird-12.0": {
             "build_number": 1,
             "category": "major",
