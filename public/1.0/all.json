@@ -29205,6 +29205,15 @@
             "product": "thunderbird",
             "version": "114.0b6"
         },
+        "thunderbird-115.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2023-07-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "115.0"
+        },
         "thunderbird-115.0b1": {
             "build_number": 3,
             "category": "dev",
