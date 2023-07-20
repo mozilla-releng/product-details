@@ -1197,6 +1197,15 @@
             "product": "thunderbird",
             "version": "115.0"
         },
+        "thunderbird-115.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-07-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "115.0.1"
+        },
         "thunderbird-115.0b1": {
             "build_number": 3,
             "category": "dev",
