@@ -28665,6 +28665,15 @@
             "product": "thunderbird",
             "version": "102.13.1"
         },
+        "thunderbird-102.14.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-08-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "102.14.0"
+        },
         "thunderbird-102.2.0": {
             "build_number": 3,
             "category": "stability",
@@ -29438,6 +29447,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "115.0b6"
+        },
+        "thunderbird-115.1.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2023-08-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "115.1.0"
         },
         "thunderbird-116.0b1": {
             "build_number": 2,
