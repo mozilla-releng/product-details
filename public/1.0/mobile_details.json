@@ -11,7 +11,7 @@
             }
         }
     ],
-    "alpha_version": "115.0a1",
+    "alpha_version": "118.0a1",
     "beta_builds": [
         {
             "download": {
@@ -355,7 +355,7 @@
         }
     ],
     "ios_beta_version": "",
-    "ios_version": "14.1",
-    "nightly_version": "115.0a1",
+    "ios_version": "",
+    "nightly_version": "118.0a1",
     "version": "117.0.1"
 }
