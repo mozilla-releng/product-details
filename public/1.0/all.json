@@ -29673,6 +29673,15 @@
             "product": "thunderbird",
             "version": "117.0b3"
         },
+        "thunderbird-117.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-08-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "117.0b4"
+        },
         "thunderbird-12.0": {
             "build_number": 1,
             "category": "major",
