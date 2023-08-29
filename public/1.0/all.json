@@ -15201,6 +15201,15 @@
             "product": "firefox",
             "version": "115.1.0"
         },
+        "firefox-115.2.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2023-08-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "115.2.0"
+        },
         "firefox-116.0": {
             "build_number": 2,
             "category": "major",
