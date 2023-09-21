@@ -4949,6 +4949,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "117.0.1"
+        },
+        "firefox-android-119.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2023-09-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "119.0"
         }
     }
 }
