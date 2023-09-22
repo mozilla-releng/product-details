@@ -30060,6 +30060,15 @@
             "product": "thunderbird",
             "version": "118.0b5"
         },
+        "thunderbird-118.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-09-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "118.0b6"
+        },
         "thunderbird-12.0": {
             "build_number": 1,
             "category": "major",
