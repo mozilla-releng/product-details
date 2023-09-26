@@ -29943,6 +29943,15 @@
             "product": "thunderbird",
             "version": "115.2.3"
         },
+        "thunderbird-115.3.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2023-09-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "115.3.0"
+        },
         "thunderbird-116.0b1": {
             "build_number": 2,
             "category": "dev",
