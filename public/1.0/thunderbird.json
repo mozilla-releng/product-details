@@ -1512,6 +1512,15 @@
             "product": "thunderbird",
             "version": "118.0b6"
         },
+        "thunderbird-119.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-09-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "119.0b1"
+        },
         "thunderbird-12.0": {
             "build_number": 1,
             "category": "major",
