@@ -1548,6 +1548,15 @@
             "product": "thunderbird",
             "version": "119.0b2"
         },
+        "thunderbird-119.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-10-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "119.0b3"
+        },
         "thunderbird-12.0": {
             "build_number": 1,
             "category": "major",
