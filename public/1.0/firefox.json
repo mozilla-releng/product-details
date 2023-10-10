@@ -2682,6 +2682,15 @@
             "product": "firefox",
             "version": "118.0.1"
         },
+        "firefox-118.0.2": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2023-10-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "118.0.2"
+        },
         "firefox-118.0b1": {
             "build_number": 1,
             "category": "dev",
