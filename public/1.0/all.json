@@ -30321,6 +30321,15 @@
             "product": "thunderbird",
             "version": "119.0b4"
         },
+        "thunderbird-119.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-10-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "119.0b5"
+        },
         "thunderbird-12.0": {
             "build_number": 1,
             "category": "major",
