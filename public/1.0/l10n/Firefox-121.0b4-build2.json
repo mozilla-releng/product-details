@@ -1,0 +1,25 @@
+{
+    "locales": {
+        "ar": {
+            "changeset": "default"
+        },
+        "en-CA": {
+            "changeset": "default"
+        },
+        "he": {
+            "changeset": "default"
+        },
+        "it": {
+            "changeset": "default"
+        },
+        "ja": {
+            "changeset": "default"
+        },
+        "ja-JP-mac": {
+            "changeset": "default"
+        }
+    },
+    "name": "Firefox-121.0b4-build2",
+    "shippedAt": "2023-11-03T02:13:04.139897+00:00",
+    "submittedAt": "2023-11-02T17:29:48.565122+00:00"
+}
