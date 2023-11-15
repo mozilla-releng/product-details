@@ -30654,6 +30654,15 @@
             "product": "thunderbird",
             "version": "120.0b6"
         },
+        "thunderbird-120.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-11-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "120.0b7"
+        },
         "thunderbird-13.0": {
             "build_number": 1,
             "category": "major",
