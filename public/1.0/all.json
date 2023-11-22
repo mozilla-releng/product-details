@@ -30708,6 +30708,15 @@
             "product": "thunderbird",
             "version": "120.0b7"
         },
+        "thunderbird-121.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-11-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "121.0b1"
+        },
         "thunderbird-13.0": {
             "build_number": 1,
             "category": "major",
