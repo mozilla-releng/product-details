@@ -30465,6 +30465,15 @@
             "product": "thunderbird",
             "version": "115.5.0"
         },
+        "thunderbird-115.5.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-11-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "115.5.1"
+        },
         "thunderbird-116.0b1": {
             "build_number": 2,
             "category": "dev",
