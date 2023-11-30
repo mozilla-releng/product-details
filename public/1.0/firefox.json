@@ -2961,6 +2961,15 @@
             "product": "firefox",
             "version": "120.0"
         },
+        "firefox-120.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2023-11-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "120.0.1"
+        },
         "firefox-120.0b1": {
             "build_number": 1,
             "category": "dev",
