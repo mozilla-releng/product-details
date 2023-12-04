@@ -16200,6 +16200,15 @@
             "product": "firefox",
             "version": "121.0b6"
         },
+        "firefox-121.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-12-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "121.0b7"
+        },
         "firefox-13.0": {
             "build_number": 1,
             "category": "major",
