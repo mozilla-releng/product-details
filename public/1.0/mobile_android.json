@@ -7982,6 +7982,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "121.0b7"
+        },
+        "firefox-android-121.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-12-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "121.0b8"
         }
     }
 }
