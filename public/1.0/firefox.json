@@ -3123,6 +3123,15 @@
             "product": "firefox",
             "version": "121.0b8"
         },
+        "firefox-121.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2023-12-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "121.0b9"
+        },
         "firefox-13.0": {
             "build_number": 1,
             "category": "major",
