@@ -16335,6 +16335,15 @@
             "product": "firefox",
             "version": "122.0b4"
         },
+        "firefox-122.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-01-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "122.0b5"
+        },
         "firefox-13.0": {
             "build_number": 1,
             "category": "major",
