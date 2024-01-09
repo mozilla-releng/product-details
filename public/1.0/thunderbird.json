@@ -1818,6 +1818,15 @@
             "product": "thunderbird",
             "version": "122.0b2"
         },
+        "thunderbird-122.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-01-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "122.0b3"
+        },
         "thunderbird-13.0": {
             "build_number": 1,
             "category": "major",
