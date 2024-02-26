@@ -1962,6 +1962,15 @@
             "product": "devedition",
             "version": "124.0b3"
         },
+        "devedition-124.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-02-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "124.0b4"
+        },
         "devedition-54.0b11": {
             "build_number": 4,
             "category": "dev",
@@ -16694,6 +16703,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "124.0b3"
+        },
+        "firefox-124.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-02-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "124.0b4"
         },
         "firefox-13.0": {
             "build_number": 1,
