@@ -1953,6 +1953,15 @@
             "product": "thunderbird",
             "version": "124.0b4"
         },
+        "thunderbird-124.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-03-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "124.0b5"
+        },
         "thunderbird-13.0": {
             "build_number": 1,
             "category": "major",
