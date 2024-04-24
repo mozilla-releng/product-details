@@ -32022,6 +32022,15 @@
             "product": "thunderbird",
             "version": "124.0b5"
         },
+        "thunderbird-125.0": {
+            "build_number": 3,
+            "category": "major",
+            "date": "2024-04-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "125.0"
+        },
         "thunderbird-125.0b1": {
             "build_number": 1,
             "category": "dev",
