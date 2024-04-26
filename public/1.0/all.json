@@ -6878,7 +6878,7 @@
         },
         "firefox-102.7.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-02-02",
             "description": null,
             "is_security_driven": false,
@@ -6887,7 +6887,7 @@
         },
         "firefox-102.8.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-02-02",
             "description": null,
             "is_security_driven": false,
@@ -7109,6 +7109,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "126.0b1"
+        },
+        "firefox-127.0b2": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2024-04-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "127.0b2"
         },
         "firefox-13.0": {
             "build_number": 1,
