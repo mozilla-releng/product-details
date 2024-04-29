@@ -17019,6 +17019,15 @@
             "product": "firefox",
             "version": "125.0.2"
         },
+        "firefox-125.0.3": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2024-04-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "125.0.3"
+        },
         "firefox-125.0b1": {
             "build_number": 1,
             "category": "dev",
