@@ -17163,6 +17163,15 @@
             "product": "firefox",
             "version": "126.0b6"
         },
+        "firefox-126.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-04-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "126.0b7"
+        },
         "firefox-13.0": {
             "build_number": 1,
             "category": "major",
