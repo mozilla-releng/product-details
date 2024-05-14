@@ -2430,6 +2430,15 @@
             "product": "firefox",
             "version": "115.10.0"
         },
+        "firefox-115.11.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2024-05-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "115.11.0"
+        },
         "firefox-115.2.0esr": {
             "build_number": 1,
             "category": "esr",
