@@ -32328,6 +32328,15 @@
             "product": "thunderbird",
             "version": "127.0b2"
         },
+        "thunderbird-127.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-05-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "127.0b3"
+        },
         "thunderbird-13.0": {
             "build_number": 1,
             "category": "major",
