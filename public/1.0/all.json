@@ -17469,6 +17469,15 @@
             "product": "firefox",
             "version": "128.0b2"
         },
+        "firefox-128.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-06-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "128.0b3"
+        },
         "firefox-13.0": {
             "build_number": 1,
             "category": "major",
