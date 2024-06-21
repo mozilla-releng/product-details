@@ -2279,7 +2279,7 @@
         },
         "firefox-115.0.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-07-07",
             "description": null,
             "is_security_driven": false,
@@ -2297,7 +2297,7 @@
         },
         "firefox-115.0.2esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-07-11",
             "description": null,
             "is_security_driven": false,
@@ -2315,7 +2315,7 @@
         },
         "firefox-115.0.3esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-07-18",
             "description": null,
             "is_security_driven": false,
@@ -2405,7 +2405,7 @@
         },
         "firefox-115.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "major",
             "date": "2023-07-04",
             "description": null,
             "is_security_driven": false,
@@ -2414,7 +2414,7 @@
         },
         "firefox-115.1.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-08-01",
             "description": null,
             "is_security_driven": false,
@@ -2423,7 +2423,7 @@
         },
         "firefox-115.10.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-04-16",
             "description": null,
             "is_security_driven": false,
@@ -2432,7 +2432,7 @@
         },
         "firefox-115.11.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-05-14",
             "description": null,
             "is_security_driven": false,
@@ -2441,7 +2441,7 @@
         },
         "firefox-115.12.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-06-11",
             "description": null,
             "is_security_driven": false,
@@ -2450,7 +2450,7 @@
         },
         "firefox-115.2.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-08-29",
             "description": null,
             "is_security_driven": false,
@@ -2459,7 +2459,7 @@
         },
         "firefox-115.2.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-09-12",
             "description": null,
             "is_security_driven": false,
@@ -2468,7 +2468,7 @@
         },
         "firefox-115.3.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-09-26",
             "description": null,
             "is_security_driven": false,
@@ -2477,7 +2477,7 @@
         },
         "firefox-115.3.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-09-28",
             "description": null,
             "is_security_driven": false,
@@ -2486,7 +2486,7 @@
         },
         "firefox-115.4.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-10-24",
             "description": null,
             "is_security_driven": false,
@@ -2495,7 +2495,7 @@
         },
         "firefox-115.5.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-11-21",
             "description": null,
             "is_security_driven": false,
@@ -2504,7 +2504,7 @@
         },
         "firefox-115.6.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2023-12-19",
             "description": null,
             "is_security_driven": false,
@@ -2513,7 +2513,7 @@
         },
         "firefox-115.7.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-01-23",
             "description": null,
             "is_security_driven": false,
@@ -2522,7 +2522,7 @@
         },
         "firefox-115.8.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-02-20",
             "description": null,
             "is_security_driven": false,
@@ -2531,7 +2531,7 @@
         },
         "firefox-115.9.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-03-19",
             "description": null,
             "is_security_driven": false,
@@ -2540,7 +2540,7 @@
         },
         "firefox-115.9.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-03-22",
             "description": null,
             "is_security_driven": false,
@@ -3878,6 +3878,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "128.0b5"
+        },
+        "firefox-128.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-06-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "128.0b6"
         },
         "firefox-13.0": {
             "build_number": 1,
