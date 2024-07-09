@@ -17523,6 +17523,15 @@
             "product": "firefox",
             "version": "127.0b9"
         },
+        "firefox-128.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2024-07-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "128.0"
+        },
         "firefox-128.0b1": {
             "build_number": 1,
             "category": "dev",
@@ -17603,6 +17612,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "128.0b9"
+        },
+        "firefox-128.0esr": {
+            "build_number": 2,
+            "category": "esr",
+            "date": "2024-07-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "128.0"
         },
         "firefox-13.0": {
             "build_number": 1,
