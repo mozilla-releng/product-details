@@ -8667,6 +8667,15 @@
             "product": "firefox-android",
             "version": "127.0b9"
         },
+        "firefox-android-128.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2024-07-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "128.0"
+        },
         "firefox-android-128.0b1": {
             "build_number": 1,
             "category": "dev",
