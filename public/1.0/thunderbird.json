@@ -2178,6 +2178,15 @@
             "product": "thunderbird",
             "version": "127.0b5"
         },
+        "thunderbird-128.0.1esr": {
+            "build_number": 2,
+            "category": "esr",
+            "date": "2024-07-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "128.0.1"
+        },
         "thunderbird-128.0b1": {
             "build_number": 2,
             "category": "dev",
