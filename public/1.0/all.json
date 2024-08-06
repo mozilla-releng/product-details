@@ -17919,6 +17919,15 @@
             "product": "firefox",
             "version": "13.0b7"
         },
+        "firefox-130.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-08-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "130.0b1"
+        },
         "firefox-14.0.1": {
             "build_number": 1,
             "category": "stability",
