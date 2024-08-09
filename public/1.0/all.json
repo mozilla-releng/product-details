@@ -17955,6 +17955,15 @@
             "product": "firefox",
             "version": "130.0b2"
         },
+        "firefox-130.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-08-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "130.0b3"
+        },
         "firefox-14.0.1": {
             "build_number": 1,
             "category": "stability",
