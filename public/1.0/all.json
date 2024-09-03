@@ -16308,6 +16308,15 @@
             "product": "firefox",
             "version": "115.14.0"
         },
+        "firefox-115.15.0esr": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2024-09-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "115.15.0"
+        },
         "firefox-115.2.0esr": {
             "build_number": 1,
             "category": "stability",
@@ -17829,6 +17838,15 @@
             "product": "firefox",
             "version": "128.1.0"
         },
+        "firefox-128.2.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2024-09-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "128.2.0"
+        },
         "firefox-129.0": {
             "build_number": 2,
             "category": "major",
@@ -18017,6 +18035,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "13.0b7"
+        },
+        "firefox-130.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2024-09-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "130.0"
         },
         "firefox-130.0b1": {
             "build_number": 1,
