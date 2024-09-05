@@ -2403,6 +2403,15 @@
             "product": "thunderbird",
             "version": "130.0b3"
         },
+        "thunderbird-131.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-09-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "131.0b1"
+        },
         "thunderbird-14.0": {
             "build_number": 1,
             "category": "major",
