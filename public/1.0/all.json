@@ -33381,6 +33381,15 @@
             "product": "thunderbird",
             "version": "128.2.1"
         },
+        "thunderbird-128.2.2esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2024-09-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "128.2.2"
+        },
         "thunderbird-129.0": {
             "build_number": 2,
             "category": "major",
