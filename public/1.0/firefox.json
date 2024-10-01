@@ -4005,6 +4005,15 @@
             "product": "firefox",
             "version": "128.2.0"
         },
+        "firefox-128.3.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2024-10-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "128.3.0"
+        },
         "firefox-129.0": {
             "build_number": 2,
             "category": "major",
