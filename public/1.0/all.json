@@ -18225,6 +18225,15 @@
             "product": "firefox",
             "version": "130.0b9"
         },
+        "firefox-131.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2024-10-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "131.0"
+        },
         "firefox-131.0b1": {
             "build_number": 1,
             "category": "dev",
