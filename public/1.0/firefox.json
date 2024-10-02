@@ -4410,6 +4410,15 @@
             "product": "firefox",
             "version": "132.0b1"
         },
+        "firefox-132.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-10-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "132.0b2"
+        },
         "firefox-14.0.1": {
             "build_number": 1,
             "category": "stability",
