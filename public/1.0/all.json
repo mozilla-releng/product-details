@@ -33480,6 +33480,15 @@
             "product": "thunderbird",
             "version": "128.2.3"
         },
+        "thunderbird-128.3.0esr": {
+            "build_number": 3,
+            "category": "esr",
+            "date": "2024-10-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "128.3.0"
+        },
         "thunderbird-129.0": {
             "build_number": 2,
             "category": "major",
