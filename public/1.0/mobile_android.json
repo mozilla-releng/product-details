@@ -9098,6 +9098,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "132.0b3"
+        },
+        "firefox-android-132.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-10-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "132.0b4"
         }
     }
 }
