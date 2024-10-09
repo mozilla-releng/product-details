@@ -4023,6 +4023,15 @@
             "product": "firefox",
             "version": "128.3.0"
         },
+        "firefox-128.3.1esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2024-10-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "128.3.1"
+        },
         "firefox-129.0": {
             "build_number": 2,
             "category": "major",
