@@ -32715,6 +32715,15 @@
             "product": "thunderbird",
             "version": "115.16.0"
         },
+        "thunderbird-115.16.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2024-10-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "115.16.1"
+        },
         "thunderbird-115.2.0": {
             "build_number": 2,
             "category": "stability",
