@@ -9170,6 +9170,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "132.0b8"
+        },
+        "firefox-android-132.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-10-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "132.0b9"
         }
     }
 }
