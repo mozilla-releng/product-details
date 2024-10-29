@@ -4545,6 +4545,15 @@
             "product": "firefox",
             "version": "132.0b9"
         },
+        "firefox-133.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-10-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "133.0b1"
+        },
         "firefox-14.0.1": {
             "build_number": 1,
             "category": "stability",
