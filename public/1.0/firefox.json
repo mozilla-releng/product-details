@@ -4464,6 +4464,15 @@
             "product": "firefox",
             "version": "132.0"
         },
+        "firefox-132.0.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2024-11-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "132.0.1"
+        },
         "firefox-132.0b1": {
             "build_number": 1,
             "category": "dev",
