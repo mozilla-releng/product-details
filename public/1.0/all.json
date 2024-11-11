@@ -2718,6 +2718,15 @@
             "product": "devedition",
             "version": "133.0b6"
         },
+        "devedition-133.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-11-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "133.0b7"
+        },
         "devedition-54.0b11": {
             "build_number": 4,
             "category": "dev",
