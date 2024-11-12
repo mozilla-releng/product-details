@@ -9108,6 +9108,15 @@
             "product": "firefox-android",
             "version": "132.0"
         },
+        "firefox-android-132.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2024-11-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "132.0.2"
+        },
         "firefox-android-132.0b1": {
             "build_number": 1,
             "category": "dev",
