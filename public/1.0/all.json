@@ -34110,6 +34110,15 @@
             "product": "thunderbird",
             "version": "132.0"
         },
+        "thunderbird-132.0.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2024-11-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "132.0.1"
+        },
         "thunderbird-132.0b1": {
             "build_number": 1,
             "category": "dev",
