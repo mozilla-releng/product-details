@@ -34101,6 +34101,15 @@
             "product": "thunderbird",
             "version": "128.5.0"
         },
+        "thunderbird-128.5.1esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2024-12-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "128.5.1"
+        },
         "thunderbird-129.0": {
             "build_number": 2,
             "category": "major",
