@@ -9216,6 +9216,15 @@
             "product": "firefox-android",
             "version": "133.0.1"
         },
+        "firefox-android-133.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2024-12-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "133.0.2"
+        },
         "firefox-android-133.0b1": {
             "build_number": 1,
             "category": "dev",
@@ -9332,6 +9341,33 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "134.0b4"
+        },
+        "firefox-android-134.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-12-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "134.0b6"
+        },
+        "firefox-android-134.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-12-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "134.0b7"
+        },
+        "firefox-android-134.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2024-12-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "134.0b8"
         }
     }
 }
