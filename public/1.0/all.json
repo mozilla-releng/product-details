@@ -19080,6 +19080,15 @@
             "product": "firefox",
             "version": "135.0b5"
         },
+        "firefox-135.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-01-17",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "135.0b6"
+        },
         "firefox-14.0.1": {
             "build_number": 1,
             "category": "stability",
