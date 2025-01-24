@@ -2853,6 +2853,15 @@
             "product": "thunderbird",
             "version": "135.0b2"
         },
+        "thunderbird-135.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-01-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "135.0b3"
+        },
         "thunderbird-14.0": {
             "build_number": 1,
             "category": "major",
