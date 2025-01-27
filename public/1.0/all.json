@@ -34767,6 +34767,15 @@
             "product": "thunderbird",
             "version": "133.0b5"
         },
+        "thunderbird-134.0": {
+            "build_number": 3,
+            "category": "major",
+            "date": "2025-01-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "134.0"
+        },
         "thunderbird-134.0b1": {
             "build_number": 1,
             "category": "dev",
