@@ -9530,6 +9530,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "136.0b2"
+        },
+        "firefox-android-136.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-02-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "136.0b3"
         }
     }
 }
