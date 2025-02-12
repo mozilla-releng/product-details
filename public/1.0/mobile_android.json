@@ -9548,6 +9548,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "136.0b4"
+        },
+        "firefox-android-136.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-02-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "136.0b5"
         }
     }
 }
