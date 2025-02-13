@@ -2907,6 +2907,15 @@
             "product": "thunderbird",
             "version": "136.0b1"
         },
+        "thunderbird-136.0b2": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2025-02-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "136.0b2"
+        },
         "thunderbird-14.0": {
             "build_number": 1,
             "category": "major",
