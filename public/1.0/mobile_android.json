@@ -9432,6 +9432,15 @@
             "product": "firefox-android",
             "version": "135.0"
         },
+        "firefox-android-135.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-02-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "135.0.1"
+        },
         "firefox-android-135.0b1": {
             "build_number": 1,
             "category": "dev",
