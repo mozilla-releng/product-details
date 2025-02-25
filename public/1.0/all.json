@@ -35100,6 +35100,15 @@
             "product": "thunderbird",
             "version": "136.0b2"
         },
+        "thunderbird-136.0b3": {
+            "build_number": 7,
+            "category": "dev",
+            "date": "2025-02-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "136.0b3"
+        },
         "thunderbird-14.0": {
             "build_number": 1,
             "category": "major",
