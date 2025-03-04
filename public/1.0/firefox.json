@@ -4950,6 +4950,15 @@
             "product": "firefox",
             "version": "135.0b9"
         },
+        "firefox-136.0": {
+            "build_number": 3,
+            "category": "major",
+            "date": "2025-03-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "136.0"
+        },
         "firefox-136.0b1": {
             "build_number": 4,
             "category": "dev",
