@@ -5058,6 +5058,15 @@
             "product": "firefox",
             "version": "137.0b1"
         },
+        "firefox-137.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-03-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "137.0b2"
+        },
         "firefox-14.0.1": {
             "build_number": 1,
             "category": "stability",
