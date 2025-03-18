@@ -34848,6 +34848,15 @@
             "product": "thunderbird",
             "version": "128.8.0"
         },
+        "thunderbird-128.8.1esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2025-03-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "128.8.1"
+        },
         "thunderbird-129.0": {
             "build_number": 2,
             "category": "major",
@@ -35270,6 +35279,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "136.0"
+        },
+        "thunderbird-136.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-03-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "136.0.1"
         },
         "thunderbird-136.0b1": {
             "build_number": 1,
