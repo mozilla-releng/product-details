@@ -9773,6 +9773,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "138.0b5"
+        },
+        "firefox-android-138.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-04-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "138.0b6"
         }
     }
 }
