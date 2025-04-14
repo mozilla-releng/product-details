@@ -19755,6 +19755,15 @@
             "product": "firefox",
             "version": "138.0b6"
         },
+        "firefox-138.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-04-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "138.0b7"
+        },
         "firefox-14.0.1": {
             "build_number": 1,
             "category": "stability",
