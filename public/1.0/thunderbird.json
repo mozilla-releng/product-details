@@ -2538,6 +2538,15 @@
             "product": "thunderbird",
             "version": "128.9.1"
         },
+        "thunderbird-128.9.2esr": {
+            "build_number": 2,
+            "category": "esr",
+            "date": "2025-04-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "128.9.2"
+        },
         "thunderbird-129.0": {
             "build_number": 2,
             "category": "major",
@@ -3014,6 +3023,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "137.0.1"
+        },
+        "thunderbird-137.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-04-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "137.0.2"
         },
         "thunderbird-137.0b1": {
             "build_number": 3,
