@@ -9809,6 +9809,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "138.0b8"
+        },
+        "firefox-android-138.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-04-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "138.0b9"
         }
     }
 }
