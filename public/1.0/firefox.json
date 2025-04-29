@@ -4077,6 +4077,15 @@
             "product": "firefox",
             "version": "128.1.0"
         },
+        "firefox-128.10.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2025-04-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "128.10.0"
+        },
         "firefox-128.2.0esr": {
             "build_number": 1,
             "category": "esr",
