@@ -2574,6 +2574,15 @@
             "product": "firefox",
             "version": "115.22.0"
         },
+        "firefox-115.23.0esr": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-04-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "115.23.0"
+        },
         "firefox-115.3.0esr": {
             "build_number": 1,
             "category": "stability",
