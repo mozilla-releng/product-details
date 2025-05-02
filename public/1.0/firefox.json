@@ -5373,6 +5373,15 @@
             "product": "firefox",
             "version": "139.0b2"
         },
+        "firefox-139.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-05-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "139.0b3"
+        },
         "firefox-14.0.1": {
             "build_number": 1,
             "category": "stability",
