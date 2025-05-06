@@ -18605,7 +18605,7 @@
         },
         "firefox-128.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "major",
             "date": "2024-07-09",
             "description": null,
             "is_security_driven": false,
@@ -18614,7 +18614,7 @@
         },
         "firefox-128.1.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-08-06",
             "description": null,
             "is_security_driven": false,
@@ -18623,7 +18623,7 @@
         },
         "firefox-128.10.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-04-29",
             "description": null,
             "is_security_driven": false,
@@ -18632,7 +18632,7 @@
         },
         "firefox-128.2.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-09-03",
             "description": null,
             "is_security_driven": false,
@@ -18641,7 +18641,7 @@
         },
         "firefox-128.3.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-10-01",
             "description": null,
             "is_security_driven": false,
@@ -18650,7 +18650,7 @@
         },
         "firefox-128.3.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-10-09",
             "description": null,
             "is_security_driven": false,
@@ -18659,7 +18659,7 @@
         },
         "firefox-128.4.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-10-29",
             "description": null,
             "is_security_driven": false,
@@ -18668,7 +18668,7 @@
         },
         "firefox-128.5.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-11-26",
             "description": null,
             "is_security_driven": false,
@@ -18677,7 +18677,7 @@
         },
         "firefox-128.5.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-11-29",
             "description": null,
             "is_security_driven": false,
@@ -18686,7 +18686,7 @@
         },
         "firefox-128.5.2esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-12-12",
             "description": null,
             "is_security_driven": false,
@@ -18695,7 +18695,7 @@
         },
         "firefox-128.6.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-01-07",
             "description": null,
             "is_security_driven": false,
@@ -18704,7 +18704,7 @@
         },
         "firefox-128.7.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-02-04",
             "description": null,
             "is_security_driven": false,
@@ -18713,7 +18713,7 @@
         },
         "firefox-128.8.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-03-04",
             "description": null,
             "is_security_driven": false,
@@ -18722,7 +18722,7 @@
         },
         "firefox-128.8.1esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-03-27",
             "description": null,
             "is_security_driven": false,
@@ -18731,7 +18731,7 @@
         },
         "firefox-128.9.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-04-01",
             "description": null,
             "is_security_driven": false,
@@ -34985,7 +34985,7 @@
         },
         "thunderbird-128.0.1esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-07-19",
             "description": null,
             "is_security_driven": false,
@@ -35048,7 +35048,7 @@
         },
         "thunderbird-128.0esr": {
             "build_number": 3,
-            "category": "esr",
+            "category": "major",
             "date": "2024-07-11",
             "description": null,
             "is_security_driven": false,
@@ -35057,7 +35057,7 @@
         },
         "thunderbird-128.1.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-08-06",
             "description": null,
             "is_security_driven": false,
@@ -35066,7 +35066,7 @@
         },
         "thunderbird-128.1.1esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-08-22",
             "description": null,
             "is_security_driven": false,
@@ -35075,7 +35075,7 @@
         },
         "thunderbird-128.10.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-04-29",
             "description": null,
             "is_security_driven": false,
@@ -35084,7 +35084,7 @@
         },
         "thunderbird-128.2.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-09-04",
             "description": null,
             "is_security_driven": false,
@@ -35093,7 +35093,7 @@
         },
         "thunderbird-128.2.1esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-09-16",
             "description": null,
             "is_security_driven": false,
@@ -35102,7 +35102,7 @@
         },
         "thunderbird-128.2.2esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-09-18",
             "description": null,
             "is_security_driven": false,
@@ -35111,7 +35111,7 @@
         },
         "thunderbird-128.2.3esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-09-20",
             "description": null,
             "is_security_driven": false,
@@ -35120,7 +35120,7 @@
         },
         "thunderbird-128.3.0esr": {
             "build_number": 3,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-10-02",
             "description": null,
             "is_security_driven": false,
@@ -35129,7 +35129,7 @@
         },
         "thunderbird-128.3.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-10-10",
             "description": null,
             "is_security_driven": false,
@@ -35138,7 +35138,7 @@
         },
         "thunderbird-128.3.2esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-10-17",
             "description": null,
             "is_security_driven": false,
@@ -35147,7 +35147,7 @@
         },
         "thunderbird-128.3.3esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-10-22",
             "description": null,
             "is_security_driven": false,
@@ -35156,7 +35156,7 @@
         },
         "thunderbird-128.4.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-10-29",
             "description": null,
             "is_security_driven": false,
@@ -35165,7 +35165,7 @@
         },
         "thunderbird-128.4.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-11-04",
             "description": null,
             "is_security_driven": false,
@@ -35174,7 +35174,7 @@
         },
         "thunderbird-128.4.2esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-11-06",
             "description": null,
             "is_security_driven": false,
@@ -35183,7 +35183,7 @@
         },
         "thunderbird-128.4.3esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-11-13",
             "description": null,
             "is_security_driven": false,
@@ -35192,7 +35192,7 @@
         },
         "thunderbird-128.4.4esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-11-19",
             "description": null,
             "is_security_driven": false,
@@ -35201,7 +35201,7 @@
         },
         "thunderbird-128.5.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-11-26",
             "description": null,
             "is_security_driven": false,
@@ -35210,7 +35210,7 @@
         },
         "thunderbird-128.5.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-12-03",
             "description": null,
             "is_security_driven": false,
@@ -35219,7 +35219,7 @@
         },
         "thunderbird-128.5.2esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2024-12-11",
             "description": null,
             "is_security_driven": false,
@@ -35228,7 +35228,7 @@
         },
         "thunderbird-128.6.0esr": {
             "build_number": 3,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-01-08",
             "description": null,
             "is_security_driven": false,
@@ -35237,7 +35237,7 @@
         },
         "thunderbird-128.7.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-02-05",
             "description": null,
             "is_security_driven": false,
@@ -35246,7 +35246,7 @@
         },
         "thunderbird-128.7.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-02-18",
             "description": null,
             "is_security_driven": false,
@@ -35255,7 +35255,7 @@
         },
         "thunderbird-128.8.0esr": {
             "build_number": 5,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-03-05",
             "description": null,
             "is_security_driven": false,
@@ -35264,7 +35264,7 @@
         },
         "thunderbird-128.8.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-03-18",
             "description": null,
             "is_security_driven": false,
@@ -35273,7 +35273,7 @@
         },
         "thunderbird-128.9.0esr": {
             "build_number": 3,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-04-01",
             "description": null,
             "is_security_driven": false,
@@ -35282,7 +35282,7 @@
         },
         "thunderbird-128.9.1esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-04-04",
             "description": null,
             "is_security_driven": false,
@@ -35291,7 +35291,7 @@
         },
         "thunderbird-128.9.2esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2025-04-15",
             "description": null,
             "is_security_driven": false,
