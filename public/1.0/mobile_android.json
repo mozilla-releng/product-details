@@ -9890,6 +9890,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "139.0b6"
+        },
+        "firefox-android-139.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-05-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "139.0b7"
         }
     }
 }
