@@ -35163,6 +35163,15 @@
             "product": "thunderbird",
             "version": "128.10.0"
         },
+        "thunderbird-128.10.1esr": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-05-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "128.10.1"
+        },
         "thunderbird-128.2.0esr": {
             "build_number": 1,
             "category": "stability",
