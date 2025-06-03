@@ -9864,6 +9864,15 @@
             "product": "firefox-android",
             "version": "139.0"
         },
+        "firefox-android-139.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-06-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "139.0.2"
+        },
         "firefox-android-139.0b1": {
             "build_number": 1,
             "category": "dev",
