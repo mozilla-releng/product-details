@@ -2367,6 +2367,15 @@
             "product": "thunderbird",
             "version": "128.11.0"
         },
+        "thunderbird-128.11.1esr": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-06-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "128.11.1"
+        },
         "thunderbird-128.2.0esr": {
             "build_number": 1,
             "category": "stability",
