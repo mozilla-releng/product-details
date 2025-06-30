@@ -20457,6 +20457,15 @@
             "product": "firefox",
             "version": "141.0b3"
         },
+        "firefox-141.0b4": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-06-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "141.0b4"
+        },
         "firefox-15.0": {
             "build_number": 1,
             "category": "major",
