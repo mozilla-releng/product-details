@@ -9990,6 +9990,15 @@
             "product": "firefox-android",
             "version": "140.0"
         },
+        "firefox-android-140.0.3": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-07-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "140.0.3"
+        },
         "firefox-android-140.0b1": {
             "build_number": 1,
             "category": "dev",
