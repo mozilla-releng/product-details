@@ -36558,6 +36558,15 @@
             "product": "thunderbird",
             "version": "140.0"
         },
+        "thunderbird-140.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-07-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "140.0.1"
+        },
         "thunderbird-140.0b1": {
             "build_number": 8,
             "category": "dev",
