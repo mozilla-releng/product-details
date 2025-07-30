@@ -36828,6 +36828,15 @@
             "product": "thunderbird",
             "version": "142.0b1"
         },
+        "thunderbird-142.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-07-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "142.0b2"
+        },
         "thunderbird-15.0": {
             "build_number": 1,
             "category": "major",
