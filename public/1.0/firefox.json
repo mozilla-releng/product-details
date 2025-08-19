@@ -4176,6 +4176,15 @@
             "product": "firefox",
             "version": "128.13.0"
         },
+        "firefox-128.14.0esr": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-08-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "128.14.0"
+        },
         "firefox-128.2.0esr": {
             "build_number": 1,
             "category": "stability",
