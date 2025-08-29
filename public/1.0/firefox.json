@@ -6048,6 +6048,15 @@
             "product": "firefox",
             "version": "143.0b5"
         },
+        "firefox-143.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-08-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "143.0b6"
+        },
         "firefox-15.0": {
             "build_number": 1,
             "category": "major",
