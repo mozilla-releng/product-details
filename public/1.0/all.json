@@ -20943,6 +20943,15 @@
             "product": "firefox",
             "version": "142.0b9"
         },
+        "firefox-143.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2025-09-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "143.0"
+        },
         "firefox-143.0b1": {
             "build_number": 1,
             "category": "dev",
