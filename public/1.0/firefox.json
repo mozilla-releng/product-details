@@ -6030,6 +6030,15 @@
             "product": "firefox",
             "version": "143.0"
         },
+        "firefox-143.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-09-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "143.0.1"
+        },
         "firefox-143.0b1": {
             "build_number": 1,
             "category": "dev",
