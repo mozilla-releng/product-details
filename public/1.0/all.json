@@ -37332,6 +37332,15 @@
             "product": "thunderbird",
             "version": "143.0"
         },
+        "thunderbird-143.0.1": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2025-09-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "143.0.1"
+        },
         "thunderbird-143.0b1": {
             "build_number": 1,
             "category": "dev",
