@@ -37386,6 +37386,15 @@
             "product": "thunderbird",
             "version": "140.3.1"
         },
+        "thunderbird-140.4.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2025-10-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "140.4.0"
+        },
         "thunderbird-141.0": {
             "build_number": 3,
             "category": "major",
