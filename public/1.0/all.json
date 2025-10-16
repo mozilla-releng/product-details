@@ -37566,6 +37566,15 @@
             "product": "thunderbird",
             "version": "144.0"
         },
+        "thunderbird-144.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-10-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "144.0.1"
+        },
         "thunderbird-144.0b1": {
             "build_number": 1,
             "category": "dev",
