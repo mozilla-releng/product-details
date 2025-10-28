@@ -21222,6 +21222,15 @@
             "product": "firefox",
             "version": "144.0"
         },
+        "firefox-144.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-10-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "144.0.2"
+        },
         "firefox-144.0b1": {
             "build_number": 1,
             "category": "dev",
