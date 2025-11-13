@@ -3600,6 +3600,15 @@
             "product": "thunderbird",
             "version": "144.0b4"
         },
+        "thunderbird-145.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2025-11-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "145.0"
+        },
         "thunderbird-145.0b1": {
             "build_number": 2,
             "category": "dev",
