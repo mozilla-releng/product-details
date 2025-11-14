@@ -37863,6 +37863,15 @@
             "product": "thunderbird",
             "version": "145.0b4"
         },
+        "thunderbird-146.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2025-11-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "146.0b1"
+        },
         "thunderbird-15.0": {
             "build_number": 1,
             "category": "major",
