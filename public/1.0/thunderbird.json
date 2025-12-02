@@ -3663,6 +3663,15 @@
             "product": "thunderbird",
             "version": "146.0b2"
         },
+        "thunderbird-146.0b3": {
+            "build_number": 5,
+            "category": "dev",
+            "date": "2025-12-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "146.0b3"
+        },
         "thunderbird-15.0": {
             "build_number": 1,
             "category": "major",
