@@ -3807,6 +3807,15 @@
             "product": "devedition",
             "version": "146.0b9"
         },
+        "devedition-147.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-12-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "147.0b1"
+        },
         "devedition-54.0b11": {
             "build_number": 4,
             "category": "dev",
@@ -17820,6 +17829,15 @@
             "product": "firefox",
             "version": "115.30.0"
         },
+        "firefox-115.31.0esr": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-12-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "115.31.0"
+        },
         "firefox-115.4.0esr": {
             "build_number": 1,
             "category": "stability",
@@ -21635,6 +21653,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "146.0b9"
+        },
+        "firefox-147.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-12-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "147.0b1"
         },
         "firefox-15.0": {
             "build_number": 1,
