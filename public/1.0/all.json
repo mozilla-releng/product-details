@@ -38133,6 +38133,15 @@
             "product": "thunderbird",
             "version": "146.0b3"
         },
+        "thunderbird-147.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-12-12",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "147.0b2"
+        },
         "thunderbird-15.0": {
             "build_number": 1,
             "category": "major",
