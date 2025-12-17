@@ -1,0 +1,316 @@
+{
+    "locales": {
+        "ach": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "af": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "an": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ar": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ast": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "az": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "be": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "bg": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "bn": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "br": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "bs": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ca": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ca-valencia": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "cak": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "cs": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "cy": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "da": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "de": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "dsb": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "el": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "en-CA": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "en-GB": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "eo": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "es-AR": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "es-CL": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "es-ES": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "es-MX": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "et": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "eu": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "fa": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ff": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "fi": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "fr": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "fur": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "fy-NL": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ga-IE": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "gd": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "gl": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "gn": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "gu-IN": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "he": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "hi-IN": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "hr": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "hsb": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "hu": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "hy-AM": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ia": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "id": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "is": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "it": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ja": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ja-JP-mac": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ka": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "kab": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "kk": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "km": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "kn": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ko": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "lij": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "lt": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "lv": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "mk": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "mr": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ms": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "my": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "nb-NO": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ne-NP": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "nl": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "nn-NO": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "oc": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "pa-IN": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "pl": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "pt-BR": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "pt-PT": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "rm": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ro": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ru": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "sat": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "sc": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "sco": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "si": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "sk": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "skr": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "sl": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "son": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "sq": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "sr": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "sv-SE": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "szl": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ta": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "te": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "tg": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "th": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "tl": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "tr": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "trs": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "uk": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "ur": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "uz": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "vi": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "xh": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "zh-CN": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        },
+        "zh-TW": {
+            "changeset": "0103c45646cc10d4727c44a9f85315cbe8fad105"
+        }
+    },
+    "name": "Firefox-147.0b5-build1",
+    "shippedAt": "2025-12-17T15:48:21.550283+00:00",
+    "submittedAt": "2025-12-17T13:03:54.586856+00:00"
+}
