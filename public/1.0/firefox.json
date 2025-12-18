@@ -6417,6 +6417,15 @@
             "product": "firefox",
             "version": "146.0"
         },
+        "firefox-146.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2025-12-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "146.0.1"
+        },
         "firefox-146.0b1": {
             "build_number": 1,
             "category": "dev",
