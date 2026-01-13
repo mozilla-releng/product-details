@@ -5877,6 +5877,15 @@
             "product": "firefox",
             "version": "140.6.0"
         },
+        "firefox-140.7.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2026-01-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "140.7.0"
+        },
         "firefox-141.0": {
             "build_number": 2,
             "category": "major",
