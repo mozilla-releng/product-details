@@ -21960,6 +21960,15 @@
             "product": "firefox",
             "version": "148.0b6"
         },
+        "firefox-148.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-01-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "148.0b7"
+        },
         "firefox-15.0": {
             "build_number": 1,
             "category": "major",
