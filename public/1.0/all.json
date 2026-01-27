@@ -38151,6 +38151,15 @@
             "product": "thunderbird",
             "version": "140.7.0"
         },
+        "thunderbird-140.7.1esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2026-01-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "140.7.1"
+        },
         "thunderbird-141.0": {
             "build_number": 3,
             "category": "major",
