@@ -3942,6 +3942,15 @@
             "product": "devedition",
             "version": "148.0b14"
         },
+        "devedition-148.0b15": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-02-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "148.0b15"
+        },
         "devedition-148.0b2": {
             "build_number": 1,
             "category": "dev",
@@ -22050,6 +22059,15 @@
             "product": "firefox",
             "version": "148.0b14"
         },
+        "firefox-148.0b15": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-02-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "148.0b15"
+        },
         "firefox-148.0b2": {
             "build_number": 1,
             "category": "dev",
@@ -38663,6 +38681,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "148.0b4"
+        },
+        "thunderbird-148.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-02-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "148.0b5"
         },
         "thunderbird-15.0": {
             "build_number": 1,
