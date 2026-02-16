@@ -10800,6 +10800,15 @@
             "product": "firefox-android",
             "version": "147.0.3"
         },
+        "firefox-android-147.0.4": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-02-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "147.0.4"
+        },
         "firefox-android-147.0b1": {
             "build_number": 1,
             "category": "dev",
