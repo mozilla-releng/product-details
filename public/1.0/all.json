@@ -22032,6 +22032,15 @@
             "product": "firefox",
             "version": "147.0b9"
         },
+        "firefox-148.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2026-02-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "148.0"
+        },
         "firefox-148.0b1": {
             "build_number": 1,
             "category": "dev",
