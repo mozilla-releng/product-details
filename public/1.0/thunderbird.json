@@ -3852,6 +3852,15 @@
             "product": "thunderbird",
             "version": "148.0b6"
         },
+        "thunderbird-149.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-02-26",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "149.0b1"
+        },
         "thunderbird-15.0": {
             "build_number": 1,
             "category": "major",
