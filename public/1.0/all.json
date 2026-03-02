@@ -22239,6 +22239,15 @@
             "product": "firefox",
             "version": "149.0b2"
         },
+        "firefox-149.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-03-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "149.0b3"
+        },
         "firefox-15.0": {
             "build_number": 1,
             "category": "major",
