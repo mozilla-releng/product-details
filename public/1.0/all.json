@@ -38862,6 +38862,15 @@
             "product": "thunderbird",
             "version": "148.0"
         },
+        "thunderbird-148.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-03-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "148.0.1"
+        },
         "thunderbird-148.0b1": {
             "build_number": 1,
             "category": "dev",
