@@ -6894,6 +6894,15 @@
             "product": "firefox",
             "version": "149.0b6"
         },
+        "firefox-149.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-03-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "149.0b7"
+        },
         "firefox-15.0": {
             "build_number": 1,
             "category": "major",
