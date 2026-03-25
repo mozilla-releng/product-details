@@ -39114,6 +39114,15 @@
             "product": "thunderbird",
             "version": "15.0.1"
         },
+        "thunderbird-150.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-03-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "150.0b1"
+        },
         "thunderbird-16.0": {
             "build_number": 1,
             "category": "major",
