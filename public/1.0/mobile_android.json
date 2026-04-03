@@ -11195,6 +11195,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "150.0b4"
+        },
+        "firefox-android-150.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-04-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "150.0b5"
         }
     }
 }
