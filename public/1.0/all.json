@@ -39213,6 +39213,15 @@
             "product": "thunderbird",
             "version": "150.0b2"
         },
+        "thunderbird-150.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-04-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "150.0b3"
+        },
         "thunderbird-16.0": {
             "build_number": 1,
             "category": "major",
