@@ -39186,6 +39186,15 @@
             "product": "thunderbird",
             "version": "149.0.1"
         },
+        "thunderbird-149.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-04-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "149.0.2"
+        },
         "thunderbird-149.0b1": {
             "build_number": 1,
             "category": "dev",
