@@ -4176,6 +4176,15 @@
             "product": "devedition",
             "version": "150.0b7"
         },
+        "devedition-150.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-04-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "150.0b8"
+        },
         "devedition-54.0b11": {
             "build_number": 4,
             "category": "dev",
