@@ -22878,6 +22878,15 @@
             "product": "firefox",
             "version": "151.0b1"
         },
+        "firefox-151.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-05-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "151.0b10"
+        },
         "firefox-151.0b2": {
             "build_number": 1,
             "category": "dev",
