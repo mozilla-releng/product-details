@@ -23130,6 +23130,15 @@
             "product": "firefox",
             "version": "151.0b9"
         },
+        "firefox-152.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2026-06-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "152.0"
+        },
         "firefox-152.0b1": {
             "build_number": 2,
             "category": "dev",
