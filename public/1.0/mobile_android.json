@@ -11439,6 +11439,15 @@
             "product": "firefox-android",
             "version": "152.0.1"
         },
+        "firefox-android-152.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-06-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "152.0.2"
+        },
         "firefox-android-152.0b1": {
             "build_number": 2,
             "category": "dev",
