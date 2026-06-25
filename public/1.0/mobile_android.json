@@ -4985,6 +4985,69 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "126.0b1"
+        },
+        "firefox-android-140.0b1": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2025-05-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "140.0b1"
+        },
+        "firefox-android-140.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-04-29",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "140.0b2"
+        },
+        "firefox-android-140.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-05-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "140.0b6"
+        },
+        "firefox-android-140.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-05-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "140.0b7"
+        },
+        "firefox-android-142.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2025-06-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "142.0"
+        },
+        "firefox-android-142.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-07-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "142.0b2"
+        },
+        "firefox-android-143.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2025-07-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "143.0b1"
         }
     }
 }
