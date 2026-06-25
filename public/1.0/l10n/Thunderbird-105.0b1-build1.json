@@ -1,0 +1,205 @@
+{
+    "locales": {
+        "af": {
+            "changeset": "4a1323b3f2f20a20679b5c05d3479a18164dc6ad"
+        },
+        "ar": {
+            "changeset": "25fed5787e0243c4b997e2703b2ca086f02cd7ec"
+        },
+        "ast": {
+            "changeset": "5ac2c71dcc3e3a651c681925e18cd406e0cb6a67"
+        },
+        "be": {
+            "changeset": "9b31fc15abc1e3072ad60c5056bbfcd207f1737e"
+        },
+        "bg": {
+            "changeset": "f849505a8ebdd9169f6ba058f10d2727f92b5ae1"
+        },
+        "br": {
+            "changeset": "ac7705584c503c3f630d739261ae4ec579457103"
+        },
+        "ca": {
+            "changeset": "62b2a4fb1dc74564ce3d953515f604ddb5f3eca2"
+        },
+        "cak": {
+            "changeset": "1e46c504f9758225cd03e69cfc78ffea4462e9af"
+        },
+        "cs": {
+            "changeset": "f4a3f867b493b1d2c3ee6b68b2e005f23524349b"
+        },
+        "cy": {
+            "changeset": "791bd6e8905b761dce945e2c4bbf0e5dafb9e33d"
+        },
+        "da": {
+            "changeset": "a19c14d4d59800dd59d3c2e72cf1f0ab8554b446"
+        },
+        "de": {
+            "changeset": "0db7157674002d4f6d028b6504ea7117ffcb1571"
+        },
+        "dsb": {
+            "changeset": "d99b9f5675647c108e59d711aab100488e9c9750"
+        },
+        "el": {
+            "changeset": "a8c5c0dd9f8ed1a9a3b3d54ea1e0cd369002f926"
+        },
+        "en-CA": {
+            "changeset": "7199d778d06f5634c55840451654f5ac36b6ebd0"
+        },
+        "en-GB": {
+            "changeset": "6d2d67a7006598c337fb4530827e5dd29f3981b4"
+        },
+        "es-AR": {
+            "changeset": "38cc6e062d6cdf7f66053f8bd237ce1ff57b365a"
+        },
+        "es-ES": {
+            "changeset": "8e000fa96aeb8dca1c8dd35f91e0b73038dc86ab"
+        },
+        "es-MX": {
+            "changeset": "45d7858c3c7294875cfc8c0cd73495221020d805"
+        },
+        "et": {
+            "changeset": "a4b09d793d4a06d9aa1484904ade429e27ef5459"
+        },
+        "eu": {
+            "changeset": "ec7166332b1d566fc6182650c02e6eb21c4af15b"
+        },
+        "fi": {
+            "changeset": "1a8d5d63b08f5df32502fd079dd9105e6bcf516c"
+        },
+        "fr": {
+            "changeset": "aee8467d531e1c0b0cea37a5b7db6fc12bec5f07"
+        },
+        "fy-NL": {
+            "changeset": "271bbbf14c4da922c989d7125adef04a4785feaf"
+        },
+        "ga-IE": {
+            "changeset": "1a22cea31bc4f981cc1992ad6a97e32995aa5511"
+        },
+        "gd": {
+            "changeset": "547d8721c85889e2c89174c5c39898e355f896a4"
+        },
+        "gl": {
+            "changeset": "b8d1f0a25b6f9e802c2d7c61ef5d2f0a818e9fba"
+        },
+        "he": {
+            "changeset": "9a1fa8d3bac8288dadcdded3192a3f7a6341911d"
+        },
+        "hr": {
+            "changeset": "b85b9b32c8c8caa109f89033544671e3f4854c0c"
+        },
+        "hsb": {
+            "changeset": "90d1f8b4b1f84d437e91229e305e077c93105083"
+        },
+        "hu": {
+            "changeset": "4cc4392aab6ed888fc9b85249cc30cc5bafcc29b"
+        },
+        "hy-AM": {
+            "changeset": "33bf978a74db66a715e5dd55d925138b441710a3"
+        },
+        "id": {
+            "changeset": "19986da58d2ba3f89132a8a16086587d6d38ed57"
+        },
+        "is": {
+            "changeset": "4ee07475a7b1d04b4afdef2ed691e47f764a3a8e"
+        },
+        "it": {
+            "changeset": "4fc347ccc346920392c0f04033a54bacf653a95e"
+        },
+        "ja": {
+            "changeset": "28fe16e9124e4164081e6d394d8725afac592e75"
+        },
+        "ja-JP-mac": {
+            "changeset": "ed7c202b05f5c75ba732e77afcfaaacb82d48d12"
+        },
+        "ka": {
+            "changeset": "acbd437e9317e8149071cb99d940894403029450"
+        },
+        "kab": {
+            "changeset": "2c67cbed1af068bf7cb3d1dbacf101c45098280c"
+        },
+        "kk": {
+            "changeset": "986dfb26cd9d4eced8ddbf9862439b5403a2f89e"
+        },
+        "ko": {
+            "changeset": "e8ed297d349f2852b6a511898d06f1a9a58249b3"
+        },
+        "lt": {
+            "changeset": "b51fc12e4d139b1dd8452cb10ac08872250dc7d0"
+        },
+        "lv": {
+            "changeset": "35f539efd36bdcc3191610e07ad1c87cbaa8695b"
+        },
+        "ms": {
+            "changeset": "a17ac9bb141d2fe6a581ba93ffae2a6bd20dbace"
+        },
+        "nb-NO": {
+            "changeset": "013fbf3c1362c0a63c95372f767752918012b1ac"
+        },
+        "nl": {
+            "changeset": "f76c18498062aaa1f8d39b01a8c07d400c27977f"
+        },
+        "nn-NO": {
+            "changeset": "c0f283c137cb5597258b46a6da61f99cda30a1e1"
+        },
+        "pa-IN": {
+            "changeset": "a0c385debe9ae35e35af5a6a20c359f939895f54"
+        },
+        "pl": {
+            "changeset": "5099dd8ca213dd4519676e21295d1062f7f65922"
+        },
+        "pt-BR": {
+            "changeset": "efd26af08c5db5d606aa6276dd460dfa1fe2b4df"
+        },
+        "pt-PT": {
+            "changeset": "75895da47925019b1d005e4b81a0197e6f9bd808"
+        },
+        "rm": {
+            "changeset": "33e56b609bfdf446fbcd843431d6caa69dcad2e1"
+        },
+        "ro": {
+            "changeset": "cb84f780a8c042e69db2953c05886d06b75c797e"
+        },
+        "ru": {
+            "changeset": "1cd38b39d7256bcf3d885df8a267bbcd1e21d3be"
+        },
+        "sk": {
+            "changeset": "f73829007382a5765a736296aece672069627888"
+        },
+        "sl": {
+            "changeset": "3890e1dbd68d99ec362e5ec4726066bfcc779327"
+        },
+        "sq": {
+            "changeset": "953caca5ef695c0ce8bf562451b2b3e439d728ef"
+        },
+        "sr": {
+            "changeset": "f91bb81aa572d415a00421c96cdc52fcb84f5116"
+        },
+        "sv-SE": {
+            "changeset": "98db832ef144b070e40c2a0e57d410a7bb4aa2e9"
+        },
+        "th": {
+            "changeset": "c4784b9ac578b096cc69a245c5944eca111045f6"
+        },
+        "tr": {
+            "changeset": "1188427e0885a0f23d399553aec943717f68454c"
+        },
+        "uk": {
+            "changeset": "d82da0e1d06b4f8cc81f3f8ba8085b1e75daae6f"
+        },
+        "uz": {
+            "changeset": "bf6d5136f8f829f55303589d50e3f15a9816dfac"
+        },
+        "vi": {
+            "changeset": "6fcca11a6b8f1dad645c5f347237abd5fe8bf479"
+        },
+        "zh-CN": {
+            "changeset": "57a09976beefe71eb4053945e0bd32f67fb88af8"
+        },
+        "zh-TW": {
+            "changeset": "7770d4676d41f64810017ba6ab7cae25e864e67b"
+        }
+    },
+    "name": "Thunderbird-105.0b1-build1",
+    "shippedAt": "2022-08-24T20:12:57.454962+00:00",
+    "submittedAt": "2022-08-22T23:15:22.697256+00:00"
+}
