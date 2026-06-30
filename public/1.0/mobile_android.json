@@ -11448,6 +11448,15 @@
             "product": "firefox-android",
             "version": "152.0.2"
         },
+        "firefox-android-152.0.4": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-06-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "152.0.4"
+        },
         "firefox-android-152.0b1": {
             "build_number": 2,
             "category": "dev",
