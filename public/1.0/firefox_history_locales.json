@@ -1,6 +1,14 @@
 {
     "ace": {
         "first_release": {
+            "aurora": {
+                "build_number": 3,
+                "version": "154.0b2"
+            },
+            "beta": {
+                "build_number": 3,
+                "version": "154.0b2"
+            },
             "esr": {
                 "build_number": 2,
                 "version": "140.13.0esr"

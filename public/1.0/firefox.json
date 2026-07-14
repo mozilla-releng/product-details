@@ -9611,15 +9611,6 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "9.0b6"
-        },
-        "firefox-998.0b1": {
-            "build_number": 3,
-            "category": "dev",
-            "date": "2022-10-26",
-            "description": null,
-            "is_security_driven": false,
-            "product": "firefox",
-            "version": "998.0b1"
         }
     }
 }
