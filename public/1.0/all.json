@@ -40410,6 +40410,15 @@
             "product": "thunderbird",
             "version": "153.0b1"
         },
+        "thunderbird-153.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-07-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "153.0b10"
+        },
         "thunderbird-153.0b2": {
             "build_number": 1,
             "category": "dev",
