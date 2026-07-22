@@ -4302,6 +4302,15 @@
             "product": "thunderbird",
             "version": "153.0b9"
         },
+        "thunderbird-153.0esr": {
+            "build_number": 5,
+            "category": "esr",
+            "date": "2026-07-22",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "153.0"
+        },
         "thunderbird-154.0b1": {
             "build_number": 1,
             "category": "dev",
