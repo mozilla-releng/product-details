@@ -1,73 +1,217 @@
 {
     "ach": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "17.0.2esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "af": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "an": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "27.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "31.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "27.0"
             }
         }
     },
     "ar": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ast": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "az": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "33.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "38.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "33.0"
             }
         }
     },
     "be": {
         "first_release": {
+            "aurora": {
+                "build_number": 5,
+                "version": "55.0b1"
+            },
+            "beta": {
+                "build_number": 5,
+                "version": "55.0b1"
+            },
+            "esr": {
+                "build_number": 6,
+                "version": "60.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 3,
+                "version": "55.0"
             }
         }
     },
     "bg": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "bn": {
         "first_release": {
+            "aurora": {
+                "build_number": 2,
+                "version": "68.0b3"
+            },
+            "beta": {
+                "build_number": 2,
+                "version": "68.0b3"
+            },
+            "esr": {
+                "build_number": 2,
+                "version": "68.0esr"
+            },
             "nightly": {
                 "buildid": "20190329094433",
                 "version": "68.0a1"
+            },
+            "release": {
+                "build_number": 3,
+                "version": "68.0"
             }
         }
     },
@@ -89,9 +233,25 @@
     },
     "br": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
@@ -105,33 +265,97 @@
     },
     "bs": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ca": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ca-valencia": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "71.0b3"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "71.0b3"
+            },
+            "esr": {
+                "build_number": 3,
+                "version": "78.0esr"
+            },
             "nightly": {
                 "buildid": "20190918100042",
                 "version": "71.0a1"
+            },
+            "release": {
+                "build_number": 5,
+                "version": "71.0"
             }
         }
     },
     "cak": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "47.0b3"
+            },
+            "esr": {
+                "build_number": 4,
+                "version": "52.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 3,
+                "version": "47.0"
             }
         }
     },
@@ -145,257 +369,769 @@
     },
     "cs": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "cy": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "da": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "de": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "dsb": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "32.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "38.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "32.0"
             }
         }
     },
     "el": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "en-CA": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "62.0b3"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "62.0b3"
+            },
+            "esr": {
+                "build_number": 2,
+                "version": "68.0esr"
+            },
             "nightly": {
                 "buildid": "20180502100112",
                 "version": "61.0a1"
+            },
+            "release": {
+                "build_number": 2,
+                "version": "62.0"
             }
         }
     },
     "en-GB": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "eo": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "es-AR": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "es-CL": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "es-ES": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "es-MX": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "et": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "eu": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "fa": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ff": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "17.0.2esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "fi": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "fr": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "fur": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "111.0b1"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "111.0b1"
+            },
+            "esr": {
+                "build_number": 2,
+                "version": "115.0esr"
+            },
             "nightly": {
                 "buildid": "20221216093922",
                 "version": "110.0a1"
+            },
+            "release": {
+                "build_number": 2,
+                "version": "111.0"
             }
         }
     },
     "fy-NL": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ga-IE": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "gd": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "gl": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "gn": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "45.0b2"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "45.0.1esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 2,
+                "version": "45.0"
             }
         }
     },
     "gu-IN": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "he": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "hi-IN": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "hr": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "hsb": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "31.0b2"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "31.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "31.0"
             }
         }
     },
     "hu": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "hy-AM": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
@@ -409,105 +1145,313 @@
     },
     "ia": {
         "first_release": {
+            "aurora": {
+                "build_number": 2,
+                "version": "59.0b3"
+            },
+            "beta": {
+                "build_number": 2,
+                "version": "59.0b3"
+            },
+            "esr": {
+                "build_number": 6,
+                "version": "60.0esr"
+            },
             "nightly": {
                 "buildid": "20171003100226",
                 "version": "58.0a1"
+            },
+            "release": {
+                "build_number": 5,
+                "version": "59.0"
             }
         }
     },
     "id": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "is": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "it": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ja": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ja-JP-mac": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ka": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 2,
+                "version": "51.0b1"
+            },
+            "esr": {
+                "build_number": 4,
+                "version": "52.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 2,
+                "version": "51.0"
             }
         }
     },
     "kab": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 2,
+                "version": "51.0b1"
+            },
+            "esr": {
+                "build_number": 4,
+                "version": "52.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 2,
+                "version": "51.0"
             }
         }
     },
     "kk": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "km": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "17.0.2esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "kn": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ko": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "lij": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "17.0.2esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
@@ -521,9 +1465,25 @@
     },
     "lt": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
@@ -537,9 +1497,25 @@
     },
     "lv": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
@@ -553,9 +1529,25 @@
     },
     "mk": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
@@ -569,137 +1561,409 @@
     },
     "mr": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ms": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "28.0b4"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "31.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "29.0"
             }
         }
     },
     "my": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "54.0b2"
+            },
+            "esr": {
+                "build_number": 6,
+                "version": "60.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 3,
+                "version": "54.0"
             }
         }
     },
     "nb-NO": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ne-NP": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "58.0b4"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "58.0b4"
+            },
+            "esr": {
+                "build_number": 6,
+                "version": "60.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 6,
+                "version": "58.0"
             }
         }
     },
     "nl": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "nn-NO": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "oc": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "60.0b3"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "60.0b3"
+            },
+            "esr": {
+                "build_number": 6,
+                "version": "60.0esr"
+            },
             "nightly": {
                 "buildid": "20171101220120",
                 "version": "58.0a1"
+            },
+            "release": {
+                "build_number": 2,
+                "version": "60.0"
             }
         }
     },
     "pa-IN": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "pl": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "pt-BR": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "pt-PT": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "rm": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ro": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ru": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "sat": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "119.0b1"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "119.0b1"
+            },
+            "esr": {
+                "build_number": 2,
+                "version": "128.0esr"
+            },
             "nightly": {
                 "buildid": "20210921094642",
                 "version": "94.0a1"
+            },
+            "release": {
+                "build_number": 2,
+                "version": "119.0"
             }
         }
     },
     "sc": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "111.0b1"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "111.0b1"
+            },
+            "esr": {
+                "build_number": 2,
+                "version": "115.0esr"
+            },
             "nightly": {
                 "buildid": "20211108214919",
                 "version": "96.0a1"
+            },
+            "release": {
+                "build_number": 2,
+                "version": "111.0"
             }
         }
     },
@@ -713,169 +1977,505 @@
     },
     "sco": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "91.0b1"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "91.0b1"
+            },
+            "esr": {
+                "build_number": 2,
+                "version": "91.0esr"
+            },
             "nightly": {
                 "buildid": "20210504214950",
                 "version": "90.0a1"
+            },
+            "release": {
+                "build_number": 2,
+                "version": "91.0"
             }
         }
     },
     "si": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "sk": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "skr": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "128.0b1"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "128.0b1"
+            },
+            "esr": {
+                "build_number": 2,
+                "version": "128.0esr"
+            },
             "nightly": {
                 "buildid": "20230104094305",
                 "version": "110.0a1"
+            },
+            "release": {
+                "build_number": 2,
+                "version": "128.0"
             }
         }
     },
     "sl": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "son": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "sq": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "sr": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "sv-SE": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "szl": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "87.0b1"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "87.0b1"
+            },
+            "esr": {
+                "build_number": 2,
+                "version": "91.0esr"
+            },
             "nightly": {
                 "buildid": "20200721215127",
                 "version": "80.0a1"
+            },
+            "release": {
+                "build_number": 3,
+                "version": "87.0"
             }
         }
     },
     "ta": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "te": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "tg": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "113.0b1"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "113.0b1"
+            },
+            "esr": {
+                "build_number": 2,
+                "version": "115.0esr"
+            },
             "nightly": {
                 "buildid": "20210407094544",
                 "version": "89.0a1"
+            },
+            "release": {
+                "build_number": 2,
+                "version": "113.0"
             }
         }
     },
     "th": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "tl": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "71.0b3"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "71.0b3"
+            },
+            "esr": {
+                "build_number": 3,
+                "version": "78.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 5,
+                "version": "71.0"
             }
         }
     },
     "tr": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "trs": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "71.0b3"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "71.0b3"
+            },
+            "esr": {
+                "build_number": 3,
+                "version": "78.0esr"
+            },
             "nightly": {
                 "buildid": "20181118100100",
                 "version": "65.0a1"
+            },
+            "release": {
+                "build_number": 5,
+                "version": "71.0"
             }
         }
     },
     "uk": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "ur": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "53.0b1"
+            },
+            "esr": {
+                "build_number": 6,
+                "version": "60.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 6,
+                "version": "53.0"
             }
         }
     },
     "uz": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "36.0b5"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "38.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "36.0"
             }
         }
     },
     "vi": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
@@ -889,25 +2489,73 @@
     },
     "xh": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "27.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "31.0esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "27.0"
             }
         }
     },
     "zh-CN": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     },
     "zh-TW": {
         "first_release": {
+            "aurora": {
+                "build_number": 1,
+                "version": "54.0b11"
+            },
+            "beta": {
+                "build_number": 1,
+                "version": "19.0b1"
+            },
+            "esr": {
+                "build_number": 1,
+                "version": "10.0.12esr"
+            },
             "nightly": {
                 "buildid": "20170406100208",
                 "version": "55.0a1"
+            },
+            "release": {
+                "build_number": 1,
+                "version": "18.0"
             }
         }
     }
