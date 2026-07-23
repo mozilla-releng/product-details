@@ -13,6 +13,10 @@
                 "build_number": 2,
                 "version": "140.13.0esr"
             },
+            "nightly": {
+                "buildid": "20260723174806",
+                "version": "155.0a1"
+            },
             "release": {
                 "build_number": 3,
                 "version": "154.0"
