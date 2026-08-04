@@ -4257,6 +4257,15 @@
             "product": "thunderbird",
             "version": "153.0.2"
         },
+        "thunderbird-153.0.2esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2026-08-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "153.0.2"
+        },
         "thunderbird-153.0b1": {
             "build_number": 1,
             "category": "dev",
