@@ -7803,6 +7803,15 @@
             "product": "firefox",
             "version": "154.0b8"
         },
+        "firefox-154.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-08-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "154.0b9"
+        },
         "firefox-16.0": {
             "build_number": 1,
             "category": "major",
