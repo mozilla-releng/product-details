@@ -40689,6 +40689,15 @@
             "product": "thunderbird",
             "version": "153.0.3"
         },
+        "thunderbird-153.0.3esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2026-08-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "153.0.3"
+        },
         "thunderbird-153.0b1": {
             "build_number": 1,
             "category": "dev",
