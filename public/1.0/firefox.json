@@ -7605,6 +7605,15 @@
             "product": "firefox",
             "version": "153.0.3"
         },
+        "firefox-153.0.4": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-08-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "153.0.4"
+        },
         "firefox-153.0b1": {
             "build_number": 2,
             "category": "dev",
