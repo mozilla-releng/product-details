@@ -23742,6 +23742,15 @@
             "product": "firefox",
             "version": "154.0"
         },
+        "firefox-154.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-08-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "154.0.1"
+        },
         "firefox-154.0b1": {
             "build_number": 2,
             "category": "dev",
