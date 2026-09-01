@@ -41067,6 +41067,15 @@
             "product": "thunderbird",
             "version": "154.0b4"
         },
+        "thunderbird-155.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2026-09-01",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "155.0"
+        },
         "thunderbird-155.0b1": {
             "build_number": 1,
             "category": "dev",
