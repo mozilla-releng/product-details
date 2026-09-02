@@ -4527,6 +4527,15 @@
             "product": "thunderbird",
             "version": "156.0b1"
         },
+        "thunderbird-156.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-09-02",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "156.0b2"
+        },
         "thunderbird-16.0": {
             "build_number": 1,
             "category": "major",
