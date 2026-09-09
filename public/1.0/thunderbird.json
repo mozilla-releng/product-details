@@ -4473,6 +4473,15 @@
             "product": "thunderbird",
             "version": "155.0"
         },
+        "thunderbird-155.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-09-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "155.0.1"
+        },
         "thunderbird-155.0b1": {
             "build_number": 1,
             "category": "dev",
