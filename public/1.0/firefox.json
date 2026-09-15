@@ -2808,6 +2808,15 @@
             "product": "firefox",
             "version": "115.40.0"
         },
+        "firefox-115.41.0esr": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-09-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "115.41.0"
+        },
         "firefox-115.5.0esr": {
             "build_number": 1,
             "category": "stability",
@@ -6011,6 +6020,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "140.15.0"
+        },
+        "firefox-140.16.0esr": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-09-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "140.16.0"
         },
         "firefox-140.2.0esr": {
             "build_number": 1,
