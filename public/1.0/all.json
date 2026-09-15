@@ -23841,6 +23841,15 @@
             "product": "firefox",
             "version": "153.2.0"
         },
+        "firefox-153.3.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2026-09-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "153.3.0"
+        },
         "firefox-154.0": {
             "build_number": 1,
             "category": "major",
