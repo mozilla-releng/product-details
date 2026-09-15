@@ -40203,6 +40203,15 @@
             "product": "thunderbird",
             "version": "140.15.0"
         },
+        "thunderbird-140.16.0esr": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-09-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "140.16.0"
+        },
         "thunderbird-140.2.0esr": {
             "build_number": 3,
             "category": "stability",
@@ -41282,6 +41291,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "155.0b5"
+        },
+        "thunderbird-156.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2026-09-15",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "156.0"
         },
         "thunderbird-156.0b1": {
             "build_number": 2,
