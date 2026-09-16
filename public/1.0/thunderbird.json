@@ -4428,6 +4428,15 @@
             "product": "thunderbird",
             "version": "153.2.0"
         },
+        "thunderbird-153.3.0esr": {
+            "build_number": 2,
+            "category": "esr",
+            "date": "2026-09-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "153.3.0"
+        },
         "thunderbird-154.0": {
             "build_number": 2,
             "category": "major",
