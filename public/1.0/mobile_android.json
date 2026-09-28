@@ -12005,6 +12005,15 @@
             "is_security_driven": false,
             "product": "firefox-android",
             "version": "157.0b5"
+        },
+        "firefox-android-158.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2026-09-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox-android",
+            "version": "158.0b1"
         }
     }
 }
