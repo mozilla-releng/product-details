@@ -41481,6 +41481,15 @@
             "product": "thunderbird",
             "version": "157.0b4"
         },
+        "thunderbird-158.0b1": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-09-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "158.0b1"
+        },
         "thunderbird-16.0": {
             "build_number": 1,
             "category": "major",
