@@ -40347,6 +40347,15 @@
             "product": "thunderbird",
             "version": "140.16.0"
         },
+        "thunderbird-140.17.0esr": {
+            "build_number": 3,
+            "category": "stability",
+            "date": "2026-09-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "140.17.0"
+        },
         "thunderbird-140.2.0esr": {
             "build_number": 3,
             "category": "stability",
