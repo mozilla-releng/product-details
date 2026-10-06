@@ -8091,6 +8091,15 @@
             "product": "firefox",
             "version": "157.0"
         },
+        "firefox-157.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2026-10-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "157.0.1"
+        },
         "firefox-157.0b1": {
             "build_number": 2,
             "category": "dev",
