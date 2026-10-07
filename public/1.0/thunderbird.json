@@ -4707,6 +4707,15 @@
             "product": "thunderbird",
             "version": "158.0b4"
         },
+        "thunderbird-158.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-10-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "158.0b5"
+        },
         "thunderbird-16.0": {
             "build_number": 1,
             "category": "major",
