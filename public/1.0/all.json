@@ -41481,6 +41481,15 @@
             "product": "thunderbird",
             "version": "153.4.0"
         },
+        "thunderbird-153.5.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2026-10-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "153.5.0"
+        },
         "thunderbird-154.0": {
             "build_number": 2,
             "category": "major",
@@ -41687,6 +41696,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "157.0b4"
+        },
+        "thunderbird-158.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2026-10-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "158.0"
         },
         "thunderbird-158.0b1": {
             "build_number": 1,
