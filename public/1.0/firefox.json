@@ -7857,6 +7857,15 @@
             "product": "firefox",
             "version": "153.4.0"
         },
+        "firefox-153.5.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2026-10-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "153.5.0"
+        },
         "firefox-154.0": {
             "build_number": 1,
             "category": "major",
