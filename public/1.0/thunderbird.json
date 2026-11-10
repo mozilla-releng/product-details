@@ -4491,6 +4491,15 @@
             "product": "thunderbird",
             "version": "153.6.0"
         },
+        "thunderbird-153.7.0esr": {
+            "build_number": 3,
+            "category": "esr",
+            "date": "2026-11-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "153.7.0"
+        },
         "thunderbird-154.0": {
             "build_number": 2,
             "category": "major",
