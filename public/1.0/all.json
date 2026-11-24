@@ -41913,6 +41913,15 @@
             "product": "thunderbird",
             "version": "153.7.0"
         },
+        "thunderbird-153.8.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2026-11-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "153.8.0"
+        },
         "thunderbird-154.0": {
             "build_number": 2,
             "category": "major",
@@ -42317,6 +42326,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "160.0b5"
+        },
+        "thunderbird-161.0": {
+            "build_number": 1,
+            "category": "major",
+            "date": "2026-11-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "161.0"
         },
         "thunderbird-161.0b1": {
             "build_number": 1,
