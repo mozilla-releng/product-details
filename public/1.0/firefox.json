@@ -8568,6 +8568,15 @@
             "product": "firefox",
             "version": "162.0b1"
         },
+        "firefox-162.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2026-11-25",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "162.0b2"
+        },
         "firefox-17.0": {
             "build_number": 1,
             "category": "major",
